@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerLight
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300008, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300034, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300022, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300032, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300018, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300036, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300014, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300000, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300010, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300026, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300002, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300012, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300004, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300028, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300020, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300006, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300024, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300016, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    - {fileID: 21300030, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+    totalSpriteSurfaceArea: 25973
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300022, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300028, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300030, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300016, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300034, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300020, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300014, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300024, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300006, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300008, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300000, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300036, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300002, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300018, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300026, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300004, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300032, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300010, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  - {fileID: 21300012, guid: 665dd45b893f4568966d7732c7d33d0b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - deng_2_10
+  - deng_2_11
+  - deng_2_9
+  - deng_2_8
+  - deng_2_5
+  - deng_2_4
+  - deng_2_7
+  - deng_2_6
+  - deng_2_1
+  - deng_2_3
+  - deng_2_2
+  - deng_1_2
+  - deng_1_3
+  - deng_1_1
+  - deng_1_6
+  - deng_1_7
+  - deng_1_4
+  - deng_1_5
+  - deng_1_8
+  m_Tag: PlayerLight
+  m_IsVariant: 0

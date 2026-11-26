@@ -1,0 +1,5996 @@
+[
+    {
+      "CoinCount": 7.0,
+      "CoinCountCost": "235",
+      "OffLine": 21.0,
+      "OffLineCost": "235"
+    },
+    {
+      "CoinCount": 14.0,
+      "CoinCountCost": "490",
+      "OffLine": 42.0,
+      "OffLineCost": "490"
+    },
+    {
+      "CoinCount": 21.0,
+      "CoinCountCost": "734",
+      "OffLine": 63.0,
+      "OffLineCost": "734"
+    },
+    {
+      "CoinCount": 28.0,
+      "CoinCountCost": "998",
+      "OffLine": 84.0,
+      "OffLineCost": "998"
+    },
+    {
+      "CoinCount": 35.0,
+      "CoinCountCost": "1.3K",
+      "OffLine": 105.0,
+      "OffLineCost": "1.3K"
+    },
+    {
+      "CoinCount": 42.0,
+      "CoinCountCost": "1.5K",
+      "OffLine": 126.0,
+      "OffLineCost": "1.5K"
+    },
+    {
+      "CoinCount": 49.0,
+      "CoinCountCost": "1.8K",
+      "OffLine": 147.0,
+      "OffLineCost": "1.8K"
+    },
+    {
+      "CoinCount": 56.0,
+      "CoinCountCost": "2.1K",
+      "OffLine": 168.0,
+      "OffLineCost": "2.1K"
+    },
+    {
+      "CoinCount": 63.0,
+      "CoinCountCost": "2.4K",
+      "OffLine": 189.0,
+      "OffLineCost": "2.4K"
+    },
+    {
+      "CoinCount": 70.0,
+      "CoinCountCost": "5.4K",
+      "OffLine": 210.0,
+      "OffLineCost": "5.4K"
+    },
+    {
+      "CoinCount": 77.0,
+      "CoinCountCost": "6K",
+      "OffLine": 231.0,
+      "OffLineCost": "6K"
+    },
+    {
+      "CoinCount": 84.0,
+      "CoinCountCost": "6.7K",
+      "OffLine": 252.0,
+      "OffLineCost": "6.7K"
+    },
+    {
+      "CoinCount": 91.0,
+      "CoinCountCost": "7.4K",
+      "OffLine": 273.0,
+      "OffLineCost": "7.4K"
+    },
+    {
+      "CoinCount": 98.0,
+      "CoinCountCost": "7.9K",
+      "OffLine": 294.0,
+      "OffLineCost": "7.9K"
+    },
+    {
+      "CoinCount": 105.0,
+      "CoinCountCost": "8.6K",
+      "OffLine": 315.0,
+      "OffLineCost": "8.6K"
+    },
+    {
+      "CoinCount": 112.0,
+      "CoinCountCost": "9.4K",
+      "OffLine": 336.0,
+      "OffLineCost": "9.4K"
+    },
+    {
+      "CoinCount": 119.0,
+      "CoinCountCost": "10.1K",
+      "OffLine": 357.0,
+      "OffLineCost": "10.1K"
+    },
+    {
+      "CoinCount": 126.0,
+      "CoinCountCost": "10.9K",
+      "OffLine": 378.0,
+      "OffLineCost": "10.9K"
+    },
+    {
+      "CoinCount": 133.0,
+      "CoinCountCost": "11.5K",
+      "OffLine": 399.0,
+      "OffLineCost": "11.5K"
+    },
+    {
+      "CoinCount": 140.0,
+      "CoinCountCost": "12.3K",
+      "OffLine": 420.0,
+      "OffLineCost": "12.3K"
+    },
+    {
+      "CoinCount": 147.0,
+      "CoinCountCost": "13.1K",
+      "OffLine": 441.0,
+      "OffLineCost": "13.1K"
+    },
+    {
+      "CoinCount": 154.0,
+      "CoinCountCost": "13.9K",
+      "OffLine": 462.0,
+      "OffLineCost": "13.9K"
+    },
+    {
+      "CoinCount": 161.0,
+      "CoinCountCost": "14.6K",
+      "OffLine": 483.0,
+      "OffLineCost": "14.6K"
+    },
+    {
+      "CoinCount": 168.0,
+      "CoinCountCost": "15.4K",
+      "OffLine": 504.0,
+      "OffLineCost": "15.4K"
+    },
+    {
+      "CoinCount": 175.0,
+      "CoinCountCost": "16.3K",
+      "OffLine": 525.0,
+      "OffLineCost": "16.3K"
+    },
+    {
+      "CoinCount": 182.0,
+      "CoinCountCost": "17.2K",
+      "OffLine": 546.0,
+      "OffLineCost": "17.2K"
+    },
+    {
+      "CoinCount": 189.0,
+      "CoinCountCost": "18.1K",
+      "OffLine": 567.0,
+      "OffLineCost": "18.1K"
+    },
+    {
+      "CoinCount": 196.0,
+      "CoinCountCost": "18.8K",
+      "OffLine": 588.0,
+      "OffLineCost": "18.8K"
+    },
+    {
+      "CoinCount": 203.0,
+      "CoinCountCost": "19.8K",
+      "OffLine": 609.0,
+      "OffLineCost": "19.8K"
+    },
+    {
+      "CoinCount": 210.0,
+      "CoinCountCost": "31.1K",
+      "OffLine": 630.0,
+      "OffLineCost": "31.1K"
+    },
+    {
+      "CoinCount": 218.0,
+      "CoinCountCost": "32.6K",
+      "OffLine": 651.0,
+      "OffLineCost": "32.6K"
+    },
+    {
+      "CoinCount": 226.0,
+      "CoinCountCost": "33.6K",
+      "OffLine": 672.0,
+      "OffLineCost": "33.6K"
+    },
+    {
+      "CoinCount": 234.0,
+      "CoinCountCost": "35.2K",
+      "OffLine": 693.0,
+      "OffLineCost": "35.2K"
+    },
+    {
+      "CoinCount": 242.0,
+      "CoinCountCost": "36.7K",
+      "OffLine": 714.0,
+      "OffLineCost": "36.7K"
+    },
+    {
+      "CoinCount": 250.0,
+      "CoinCountCost": "38.3K",
+      "OffLine": 735.0,
+      "OffLineCost": "38.3K"
+    },
+    {
+      "CoinCount": 258.0,
+      "CoinCountCost": "39.4K",
+      "OffLine": 756.0,
+      "OffLineCost": "39.4K"
+    },
+    {
+      "CoinCount": 266.0,
+      "CoinCountCost": "41K",
+      "OffLine": 777.0,
+      "OffLineCost": "41K"
+    },
+    {
+      "CoinCount": 274.0,
+      "CoinCountCost": "42.7K",
+      "OffLine": 798.0,
+      "OffLineCost": "42.7K"
+    },
+    {
+      "CoinCount": 282.0,
+      "CoinCountCost": "44.4K",
+      "OffLine": 819.0,
+      "OffLineCost": "44.4K"
+    },
+    {
+      "CoinCount": 290.0,
+      "CoinCountCost": "61.4K",
+      "OffLine": 840.0,
+      "OffLineCost": "61.4K"
+    },
+    {
+      "CoinCount": 298.0,
+      "CoinCountCost": "63K",
+      "OffLine": 861.0,
+      "OffLineCost": "63K"
+    },
+    {
+      "CoinCount": 307.0,
+      "CoinCountCost": "66.1K",
+      "OffLine": 882.0,
+      "OffLineCost": "66.1K"
+    },
+    {
+      "CoinCount": 316.0,
+      "CoinCountCost": "69.4K",
+      "OffLine": 903.0,
+      "OffLineCost": "69.4K"
+    },
+    {
+      "CoinCount": 325.0,
+      "CoinCountCost": "73.5K",
+      "OffLine": 924.0,
+      "OffLineCost": "73.5K"
+    },
+    {
+      "CoinCount": 334.0,
+      "CoinCountCost": "76.9K",
+      "OffLine": 945.0,
+      "OffLineCost": "76.9K"
+    },
+    {
+      "CoinCount": 343.0,
+      "CoinCountCost": "81.3K",
+      "OffLine": 966.0,
+      "OffLineCost": "81.3K"
+    },
+    {
+      "CoinCount": 352.0,
+      "CoinCountCost": "84.8K",
+      "OffLine": 987.0,
+      "OffLineCost": "84.8K"
+    },
+    {
+      "CoinCount": 361.0,
+      "CoinCountCost": "89.4K",
+      "OffLine": 1008.0,
+      "OffLineCost": "89.4K"
+    },
+    {
+      "CoinCount": 370.0,
+      "CoinCountCost": "94.1K",
+      "OffLine": 1029.0,
+      "OffLineCost": "94.1K"
+    },
+    {
+      "CoinCount": 379.0,
+      "CoinCountCost": "124.8K",
+      "OffLine": 1050.0,
+      "OffLineCost": "124.8K"
+    },
+    {
+      "CoinCount": 389.0,
+      "CoinCountCost": "131K",
+      "OffLine": 1071.0,
+      "OffLineCost": "131K"
+    },
+    {
+      "CoinCount": 399.0,
+      "CoinCountCost": "137.3K",
+      "OffLine": 1092.0,
+      "OffLineCost": "137.3K"
+    },
+    {
+      "CoinCount": 409.0,
+      "CoinCountCost": "145K",
+      "OffLine": 1113.0,
+      "OffLineCost": "145K"
+    },
+    {
+      "CoinCount": 419.0,
+      "CoinCountCost": "152.9K",
+      "OffLine": 1134.0,
+      "OffLineCost": "152.9K"
+    },
+    {
+      "CoinCount": 429.0,
+      "CoinCountCost": "161K",
+      "OffLine": 1155.0,
+      "OffLineCost": "161K"
+    },
+    {
+      "CoinCount": 439.0,
+      "CoinCountCost": "166.7K",
+      "OffLine": 1176.0,
+      "OffLineCost": "166.7K"
+    },
+    {
+      "CoinCount": 449.0,
+      "CoinCountCost": "173.7K",
+      "OffLine": 1197.0,
+      "OffLineCost": "173.7K"
+    },
+    {
+      "CoinCount": 459.0,
+      "CoinCountCost": "181K",
+      "OffLine": 1218.0,
+      "OffLineCost": "181K"
+    },
+    {
+      "CoinCount": 469.0,
+      "CoinCountCost": "188.3K",
+      "OffLine": 1239.0,
+      "OffLineCost": "188.3K"
+    },
+    {
+      "CoinCount": 479.0,
+      "CoinCountCost": "235K",
+      "OffLine": 1260.0,
+      "OffLineCost": "235K"
+    },
+    {
+      "CoinCount": 490.0,
+      "CoinCountCost": "246K",
+      "OffLine": 1281.0,
+      "OffLineCost": "246K"
+    },
+    {
+      "CoinCount": 501.0,
+      "CoinCountCost": "255.3K",
+      "OffLine": 1302.0,
+      "OffLineCost": "255.3K"
+    },
+    {
+      "CoinCount": 512.0,
+      "CoinCountCost": "266.7K",
+      "OffLine": 1323.0,
+      "OffLineCost": "266.7K"
+    },
+    {
+      "CoinCount": 523.0,
+      "CoinCountCost": "276.5K",
+      "OffLine": 1344.0,
+      "OffLineCost": "276.5K"
+    },
+    {
+      "CoinCount": 534.0,
+      "CoinCountCost": "288.3K",
+      "OffLine": 1365.0,
+      "OffLineCost": "288.3K"
+    },
+    {
+      "CoinCount": 545.0,
+      "CoinCountCost": "300.3K",
+      "OffLine": 1386.0,
+      "OffLineCost": "300.3K"
+    },
+    {
+      "CoinCount": 556.0,
+      "CoinCountCost": "312.6K",
+      "OffLine": 1407.0,
+      "OffLineCost": "312.6K"
+    },
+    {
+      "CoinCount": 567.0,
+      "CoinCountCost": "425.6K",
+      "OffLine": 1428.0,
+      "OffLineCost": "425.6K"
+    },
+    {
+      "CoinCount": 578.0,
+      "CoinCountCost": "437.2K",
+      "OffLine": 1449.0,
+      "OffLineCost": "437.2K"
+    },
+    {
+      "CoinCount": 589.0,
+      "CoinCountCost": "520.6K",
+      "OffLine": 1470.0,
+      "OffLineCost": "520.6K"
+    },
+    {
+      "CoinCount": 601.0,
+      "CoinCountCost": "531.2K",
+      "OffLine": 1491.0,
+      "OffLineCost": "531.2K"
+    },
+    {
+      "CoinCount": 613.0,
+      "CoinCountCost": "541.9K",
+      "OffLine": 1512.0,
+      "OffLineCost": "541.9K"
+    },
+    {
+      "CoinCount": 625.0,
+      "CoinCountCost": "556K",
+      "OffLine": 1533.0,
+      "OffLineCost": "556K"
+    },
+    {
+      "CoinCount": 637.0,
+      "CoinCountCost": "566.9K",
+      "OffLine": 1554.0,
+      "OffLineCost": "566.9K"
+    },
+    {
+      "CoinCount": 649.0,
+      "CoinCountCost": "577.9K",
+      "OffLine": 1575.0,
+      "OffLineCost": "577.9K"
+    },
+    {
+      "CoinCount": 661.0,
+      "CoinCountCost": "589K",
+      "OffLine": 1596.0,
+      "OffLineCost": "589K"
+    },
+    {
+      "CoinCount": 673.0,
+      "CoinCountCost": "603.7K",
+      "OffLine": 1617.0,
+      "OffLineCost": "603.7K"
+    },
+    {
+      "CoinCount": 685.0,
+      "CoinCountCost": "615K",
+      "OffLine": 1638.0,
+      "OffLineCost": "615K"
+    },
+    {
+      "CoinCount": 697.0,
+      "CoinCountCost": "626.4K",
+      "OffLine": 1659.0,
+      "OffLineCost": "626.4K"
+    },
+    {
+      "CoinCount": 709.0,
+      "CoinCountCost": "729.1K",
+      "OffLine": 1680.0,
+      "OffLineCost": "729.1K"
+    },
+    {
+      "CoinCount": 722.0,
+      "CoinCountCost": "746.5K",
+      "OffLine": 1701.0,
+      "OffLineCost": "746.5K"
+    },
+    {
+      "CoinCount": 735.0,
+      "CoinCountCost": "759.9K",
+      "OffLine": 1722.0,
+      "OffLineCost": "759.9K"
+    },
+    {
+      "CoinCount": 748.0,
+      "CoinCountCost": "773.4K",
+      "OffLine": 1743.0,
+      "OffLineCost": "773.4K"
+    },
+    {
+      "CoinCount": 761.0,
+      "CoinCountCost": "787K",
+      "OffLine": 1764.0,
+      "OffLineCost": "787K"
+    },
+    {
+      "CoinCount": 774.0,
+      "CoinCountCost": "805.1K",
+      "OffLine": 1785.0,
+      "OffLineCost": "805.1K"
+    },
+    {
+      "CoinCount": 787.0,
+      "CoinCountCost": "819K",
+      "OffLine": 1806.0,
+      "OffLineCost": "819K"
+    },
+    {
+      "CoinCount": 800.0,
+      "CoinCountCost": "833K",
+      "OffLine": 1827.0,
+      "OffLineCost": "833K"
+    },
+    {
+      "CoinCount": 813.0,
+      "CoinCountCost": "847.1K",
+      "OffLine": 1848.0,
+      "OffLineCost": "847.1K"
+    },
+    {
+      "CoinCount": 826.0,
+      "CoinCountCost": "865.8K",
+      "OffLine": 1869.0,
+      "OffLineCost": "865.8K"
+    },
+    {
+      "CoinCount": 839.0,
+      "CoinCountCost": "990.1K",
+      "OffLine": 1890.0,
+      "OffLineCost": "990.1K"
+    },
+    {
+      "CoinCount": 853.0,
+      "CoinCountCost": "1M",
+      "OffLine": 1911.0,
+      "OffLineCost": "1M"
+    },
+    {
+      "CoinCount": 867.0,
+      "CoinCountCost": "1M",
+      "OffLine": 1932.0,
+      "OffLineCost": "1M"
+    },
+    {
+      "CoinCount": 881.0,
+      "CoinCountCost": "1M",
+      "OffLine": 1953.0,
+      "OffLineCost": "1M"
+    },
+    {
+      "CoinCount": 895.0,
+      "CoinCountCost": "1.1M",
+      "OffLine": 1974.0,
+      "OffLineCost": "1.1M"
+    },
+    {
+      "CoinCount": 909.0,
+      "CoinCountCost": "1.1M",
+      "OffLine": 1995.0,
+      "OffLineCost": "1.1M"
+    },
+    {
+      "CoinCount": 923.0,
+      "CoinCountCost": "1.1M",
+      "OffLine": 2016.0,
+      "OffLineCost": "1.1M"
+    },
+    {
+      "CoinCount": 937.0,
+      "CoinCountCost": "1.1M",
+      "OffLine": 2037.0,
+      "OffLineCost": "1.1M"
+    },
+    {
+      "CoinCount": 951.0,
+      "CoinCountCost": "1.1M",
+      "OffLine": 2058.0,
+      "OffLineCost": "1.1M"
+    },
+    {
+      "CoinCount": 965.0,
+      "CoinCountCost": "1.2M",
+      "OffLine": 2079.0,
+      "OffLineCost": "1.2M"
+    },
+    {
+      "CoinCount": 979.0,
+      "CoinCountCost": "1.3M",
+      "OffLine": 2100.0,
+      "OffLineCost": "1.3M"
+    },
+    {
+      "CoinCount": 994.0,
+      "CoinCountCost": "1.3M",
+      "OffLine": 2121.0,
+      "OffLineCost": "1.3M"
+    },
+    {
+      "CoinCount": 1009.0,
+      "CoinCountCost": "1.3M",
+      "OffLine": 2142.0,
+      "OffLineCost": "1.3M"
+    },
+    {
+      "CoinCount": 1024.0,
+      "CoinCountCost": "1.4M",
+      "OffLine": 2163.0,
+      "OffLineCost": "1.4M"
+    },
+    {
+      "CoinCount": 1039.0,
+      "CoinCountCost": "1.4M",
+      "OffLine": 2184.0,
+      "OffLineCost": "1.4M"
+    },
+    {
+      "CoinCount": 1054.0,
+      "CoinCountCost": "1.4M",
+      "OffLine": 2205.0,
+      "OffLineCost": "1.4M"
+    },
+    {
+      "CoinCount": 1069.0,
+      "CoinCountCost": "1.4M",
+      "OffLine": 2226.0,
+      "OffLineCost": "1.4M"
+    },
+    {
+      "CoinCount": 1084.0,
+      "CoinCountCost": "1.5M",
+      "OffLine": 2247.0,
+      "OffLineCost": "1.5M"
+    },
+    {
+      "CoinCount": 1099.0,
+      "CoinCountCost": "1.5M",
+      "OffLine": 2268.0,
+      "OffLineCost": "1.5M"
+    },
+    {
+      "CoinCount": 1114.0,
+      "CoinCountCost": "1.5M",
+      "OffLine": 2289.0,
+      "OffLineCost": "1.5M"
+    },
+    {
+      "CoinCount": 1129.0,
+      "CoinCountCost": "1.7M",
+      "OffLine": 2310.0,
+      "OffLineCost": "1.7M"
+    },
+    {
+      "CoinCount": 1144.0,
+      "CoinCountCost": "1.7M",
+      "OffLine": 2331.0,
+      "OffLineCost": "1.7M"
+    },
+    {
+      "CoinCount": 1159.0,
+      "CoinCountCost": "1.7M",
+      "OffLine": 2352.0,
+      "OffLineCost": "1.7M"
+    },
+    {
+      "CoinCount": 1174.0,
+      "CoinCountCost": "1.8M",
+      "OffLine": 2373.0,
+      "OffLineCost": "1.8M"
+    },
+    {
+      "CoinCount": 1189.0,
+      "CoinCountCost": "1.8M",
+      "OffLine": 2394.0,
+      "OffLineCost": "1.8M"
+    },
+    {
+      "CoinCount": 1204.0,
+      "CoinCountCost": "1.8M",
+      "OffLine": 2415.0,
+      "OffLineCost": "1.8M"
+    },
+    {
+      "CoinCount": 1219.0,
+      "CoinCountCost": "1.8M",
+      "OffLine": 2436.0,
+      "OffLineCost": "1.8M"
+    },
+    {
+      "CoinCount": 1234.0,
+      "CoinCountCost": "1.9M",
+      "OffLine": 2457.0,
+      "OffLineCost": "1.9M"
+    },
+    {
+      "CoinCount": 1249.0,
+      "CoinCountCost": "1.9M",
+      "OffLine": 2478.0,
+      "OffLineCost": "1.9M"
+    },
+    {
+      "CoinCount": 1264.0,
+      "CoinCountCost": "1.9M",
+      "OffLine": 2499.0,
+      "OffLineCost": "1.9M"
+    },
+    {
+      "CoinCount": 1279.0,
+      "CoinCountCost": "2.1M",
+      "OffLine": 2520.0,
+      "OffLineCost": "2.1M"
+    },
+    {
+      "CoinCount": 1294.0,
+      "CoinCountCost": "2.1M",
+      "OffLine": 2541.0,
+      "OffLineCost": "2.1M"
+    },
+    {
+      "CoinCount": 1309.0,
+      "CoinCountCost": "2.1M",
+      "OffLine": 2562.0,
+      "OffLineCost": "2.1M"
+    },
+    {
+      "CoinCount": 1324.0,
+      "CoinCountCost": "2.1M",
+      "OffLine": 2583.0,
+      "OffLineCost": "2.1M"
+    },
+    {
+      "CoinCount": 1339.0,
+      "CoinCountCost": "2.1M",
+      "OffLine": 2604.0,
+      "OffLineCost": "2.1M"
+    },
+    {
+      "CoinCount": 1354.0,
+      "CoinCountCost": "2.2M",
+      "OffLine": 2625.0,
+      "OffLineCost": "2.2M"
+    },
+    {
+      "CoinCount": 1369.0,
+      "CoinCountCost": "2.2M",
+      "OffLine": 2646.0,
+      "OffLineCost": "2.2M"
+    },
+    {
+      "CoinCount": 1384.0,
+      "CoinCountCost": "2.2M",
+      "OffLine": 2667.0,
+      "OffLineCost": "2.2M"
+    },
+    {
+      "CoinCount": 1399.0,
+      "CoinCountCost": "2.2M",
+      "OffLine": 2688.0,
+      "OffLineCost": "2.2M"
+    },
+    {
+      "CoinCount": 1414.0,
+      "CoinCountCost": "2.2M",
+      "OffLine": 2709.0,
+      "OffLineCost": "2.2M"
+    },
+    {
+      "CoinCount": 1429.0,
+      "CoinCountCost": "2.4M",
+      "OffLine": 2730.0,
+      "OffLineCost": "2.4M"
+    },
+    {
+      "CoinCount": 1444.0,
+      "CoinCountCost": "2.5M",
+      "OffLine": 2751.0,
+      "OffLineCost": "2.5M"
+    },
+    {
+      "CoinCount": 1459.0,
+      "CoinCountCost": "2.5M",
+      "OffLine": 2772.0,
+      "OffLineCost": "2.5M"
+    },
+    {
+      "CoinCount": 1474.0,
+      "CoinCountCost": "2.5M",
+      "OffLine": 2793.0,
+      "OffLineCost": "2.5M"
+    },
+    {
+      "CoinCount": 1489.0,
+      "CoinCountCost": "2.5M",
+      "OffLine": 2814.0,
+      "OffLineCost": "2.5M"
+    },
+    {
+      "CoinCount": 1504.0,
+      "CoinCountCost": "2.5M",
+      "OffLine": 2835.0,
+      "OffLineCost": "2.5M"
+    },
+    {
+      "CoinCount": 1519.0,
+      "CoinCountCost": "2.5M",
+      "OffLine": 2856.0,
+      "OffLineCost": "2.5M"
+    },
+    {
+      "CoinCount": 1534.0,
+      "CoinCountCost": "2.6M",
+      "OffLine": 2877.0,
+      "OffLineCost": "2.6M"
+    },
+    {
+      "CoinCount": 1549.0,
+      "CoinCountCost": "2.6M",
+      "OffLine": 2898.0,
+      "OffLineCost": "2.6M"
+    },
+    {
+      "CoinCount": 1564.0,
+      "CoinCountCost": "2.6M",
+      "OffLine": 2919.0,
+      "OffLineCost": "2.6M"
+    },
+    {
+      "CoinCount": 1579.0,
+      "CoinCountCost": "2.8M",
+      "OffLine": 2940.0,
+      "OffLineCost": "2.8M"
+    },
+    {
+      "CoinCount": 1594.0,
+      "CoinCountCost": "2.8M",
+      "OffLine": 2961.0,
+      "OffLineCost": "2.8M"
+    },
+    {
+      "CoinCount": 1609.0,
+      "CoinCountCost": "2.9M",
+      "OffLine": 2982.0,
+      "OffLineCost": "2.9M"
+    },
+    {
+      "CoinCount": 1624.0,
+      "CoinCountCost": "2.9M",
+      "OffLine": 3003.0,
+      "OffLineCost": "2.9M"
+    },
+    {
+      "CoinCount": 1639.0,
+      "CoinCountCost": "2.9M",
+      "OffLine": 3024.0,
+      "OffLineCost": "2.9M"
+    },
+    {
+      "CoinCount": 1654.0,
+      "CoinCountCost": "2.9M",
+      "OffLine": 3045.0,
+      "OffLineCost": "2.9M"
+    },
+    {
+      "CoinCount": 1669.0,
+      "CoinCountCost": "2.9M",
+      "OffLine": 3066.0,
+      "OffLineCost": "2.9M"
+    },
+    {
+      "CoinCount": 1684.0,
+      "CoinCountCost": "3M",
+      "OffLine": 3087.0,
+      "OffLineCost": "3M"
+    },
+    {
+      "CoinCount": 1699.0,
+      "CoinCountCost": "3M",
+      "OffLine": 3108.0,
+      "OffLineCost": "3M"
+    },
+    {
+      "CoinCount": 1714.0,
+      "CoinCountCost": "3M",
+      "OffLine": 3129.0,
+      "OffLineCost": "3M"
+    },
+    {
+      "CoinCount": 1729.0,
+      "CoinCountCost": "3.2M",
+      "OffLine": 3150.0,
+      "OffLineCost": "3.2M"
+    },
+    {
+      "CoinCount": 1744.0,
+      "CoinCountCost": "3.3M",
+      "OffLine": 3171.0,
+      "OffLineCost": "3.3M"
+    },
+    {
+      "CoinCount": 1759.0,
+      "CoinCountCost": "3.3M",
+      "OffLine": 3192.0,
+      "OffLineCost": "3.3M"
+    },
+    {
+      "CoinCount": 1774.0,
+      "CoinCountCost": "3.3M",
+      "OffLine": 3213.0,
+      "OffLineCost": "3.3M"
+    },
+    {
+      "CoinCount": 1789.0,
+      "CoinCountCost": "3.3M",
+      "OffLine": 3234.0,
+      "OffLineCost": "3.3M"
+    },
+    {
+      "CoinCount": 1804.0,
+      "CoinCountCost": "3.3M",
+      "OffLine": 3255.0,
+      "OffLineCost": "3.3M"
+    },
+    {
+      "CoinCount": 1819.0,
+      "CoinCountCost": "3.4M",
+      "OffLine": 3276.0,
+      "OffLineCost": "3.4M"
+    },
+    {
+      "CoinCount": 1834.0,
+      "CoinCountCost": "3.4M",
+      "OffLine": 3297.0,
+      "OffLineCost": "3.4M"
+    },
+    {
+      "CoinCount": 1849.0,
+      "CoinCountCost": "3.4M",
+      "OffLine": 3318.0,
+      "OffLineCost": "3.4M"
+    },
+    {
+      "CoinCount": 1864.0,
+      "CoinCountCost": "3.4M",
+      "OffLine": 3339.0,
+      "OffLineCost": "3.4M"
+    },
+    {
+      "CoinCount": 1879.0,
+      "CoinCountCost": "3.7M",
+      "OffLine": 3360.0,
+      "OffLineCost": "3.7M"
+    },
+    {
+      "CoinCount": 1894.0,
+      "CoinCountCost": "3.7M",
+      "OffLine": 3381.0,
+      "OffLineCost": "3.7M"
+    },
+    {
+      "CoinCount": 1909.0,
+      "CoinCountCost": "3.7M",
+      "OffLine": 3402.0,
+      "OffLineCost": "3.7M"
+    },
+    {
+      "CoinCount": 1924.0,
+      "CoinCountCost": "3.8M",
+      "OffLine": 3423.0,
+      "OffLineCost": "3.8M"
+    },
+    {
+      "CoinCount": 1939.0,
+      "CoinCountCost": "3.8M",
+      "OffLine": 3444.0,
+      "OffLineCost": "3.8M"
+    },
+    {
+      "CoinCount": 1954.0,
+      "CoinCountCost": "3.8M",
+      "OffLine": 3465.0,
+      "OffLineCost": "3.8M"
+    },
+    {
+      "CoinCount": 1969.0,
+      "CoinCountCost": "3.8M",
+      "OffLine": 3486.0,
+      "OffLineCost": "3.8M"
+    },
+    {
+      "CoinCount": 1984.0,
+      "CoinCountCost": "3.8M",
+      "OffLine": 3507.0,
+      "OffLineCost": "3.8M"
+    },
+    {
+      "CoinCount": 1999.0,
+      "CoinCountCost": "3.9M",
+      "OffLine": 3528.0,
+      "OffLineCost": "3.9M"
+    },
+    {
+      "CoinCount": 2014.0,
+      "CoinCountCost": "3.9M",
+      "OffLine": 3549.0,
+      "OffLineCost": "3.9M"
+    },
+    {
+      "CoinCount": 2029.0,
+      "CoinCountCost": "4.2M",
+      "OffLine": 3570.0,
+      "OffLineCost": "4.2M"
+    },
+    {
+      "CoinCount": 2044.0,
+      "CoinCountCost": "4.2M",
+      "OffLine": 3591.0,
+      "OffLineCost": "4.2M"
+    },
+    {
+      "CoinCount": 2059.0,
+      "CoinCountCost": "4.2M",
+      "OffLine": 3612.0,
+      "OffLineCost": "4.2M"
+    },
+    {
+      "CoinCount": 2074.0,
+      "CoinCountCost": "4.2M",
+      "OffLine": 3633.0,
+      "OffLineCost": "4.2M"
+    },
+    {
+      "CoinCount": 2089.0,
+      "CoinCountCost": "4.3M",
+      "OffLine": 3654.0,
+      "OffLineCost": "4.3M"
+    },
+    {
+      "CoinCount": 2104.0,
+      "CoinCountCost": "4.3M",
+      "OffLine": 3675.0,
+      "OffLineCost": "4.3M"
+    },
+    {
+      "CoinCount": 2119.0,
+      "CoinCountCost": "4.3M",
+      "OffLine": 3696.0,
+      "OffLineCost": "4.3M"
+    },
+    {
+      "CoinCount": 2134.0,
+      "CoinCountCost": "4.3M",
+      "OffLine": 3717.0,
+      "OffLineCost": "4.3M"
+    },
+    {
+      "CoinCount": 2149.0,
+      "CoinCountCost": "4.4M",
+      "OffLine": 3738.0,
+      "OffLineCost": "4.4M"
+    },
+    {
+      "CoinCount": 2164.0,
+      "CoinCountCost": "4.4M",
+      "OffLine": 3759.0,
+      "OffLineCost": "4.4M"
+    },
+    {
+      "CoinCount": 2179.0,
+      "CoinCountCost": "4.7M",
+      "OffLine": 3780.0,
+      "OffLineCost": "4.7M"
+    },
+    {
+      "CoinCount": 2194.0,
+      "CoinCountCost": "4.7M",
+      "OffLine": 3801.0,
+      "OffLineCost": "4.7M"
+    },
+    {
+      "CoinCount": 2209.0,
+      "CoinCountCost": "4.7M",
+      "OffLine": 3822.0,
+      "OffLineCost": "4.7M"
+    },
+    {
+      "CoinCount": 2224.0,
+      "CoinCountCost": "4.7M",
+      "OffLine": 3843.0,
+      "OffLineCost": "4.7M"
+    },
+    {
+      "CoinCount": 2239.0,
+      "CoinCountCost": "4.8M",
+      "OffLine": 3864.0,
+      "OffLineCost": "4.8M"
+    },
+    {
+      "CoinCount": 2254.0,
+      "CoinCountCost": "4.8M",
+      "OffLine": 3885.0,
+      "OffLineCost": "4.8M"
+    },
+    {
+      "CoinCount": 2269.0,
+      "CoinCountCost": "4.8M",
+      "OffLine": 3906.0,
+      "OffLineCost": "4.8M"
+    },
+    {
+      "CoinCount": 2284.0,
+      "CoinCountCost": "4.8M",
+      "OffLine": 3927.0,
+      "OffLineCost": "4.8M"
+    },
+    {
+      "CoinCount": 2299.0,
+      "CoinCountCost": "4.9M",
+      "OffLine": 3948.0,
+      "OffLineCost": "4.9M"
+    },
+    {
+      "CoinCount": 2314.0,
+      "CoinCountCost": "4.9M",
+      "OffLine": 3969.0,
+      "OffLineCost": "4.9M"
+    },
+    {
+      "CoinCount": 2329.0,
+      "CoinCountCost": "5.2M",
+      "OffLine": 3990.0,
+      "OffLineCost": "5.2M"
+    },
+    {
+      "CoinCount": 2344.0,
+      "CoinCountCost": "5.2M",
+      "OffLine": 4011.0,
+      "OffLineCost": "5.2M"
+    },
+    {
+      "CoinCount": 2359.0,
+      "CoinCountCost": "5.3M",
+      "OffLine": 4032.0,
+      "OffLineCost": "5.3M"
+    },
+    {
+      "CoinCount": 2374.0,
+      "CoinCountCost": "5.3M",
+      "OffLine": 4053.0,
+      "OffLineCost": "5.3M"
+    },
+    {
+      "CoinCount": 2389.0,
+      "CoinCountCost": "5.3M",
+      "OffLine": 4074.0,
+      "OffLineCost": "5.3M"
+    },
+    {
+      "CoinCount": 2404.0,
+      "CoinCountCost": "5.3M",
+      "OffLine": 4095.0,
+      "OffLineCost": "5.3M"
+    },
+    {
+      "CoinCount": 2419.0,
+      "CoinCountCost": "5.4M",
+      "OffLine": 4116.0,
+      "OffLineCost": "5.4M"
+    },
+    {
+      "CoinCount": 2434.0,
+      "CoinCountCost": "5.4M",
+      "OffLine": 4137.0,
+      "OffLineCost": "5.4M"
+    },
+    {
+      "CoinCount": 2449.0,
+      "CoinCountCost": "5.4M",
+      "OffLine": 4158.0,
+      "OffLineCost": "5.4M"
+    },
+    {
+      "CoinCount": 2464.0,
+      "CoinCountCost": "5.4M",
+      "OffLine": 4179.0,
+      "OffLineCost": "5.4M"
+    },
+    {
+      "CoinCount": 2479.0,
+      "CoinCountCost": "5.8M",
+      "OffLine": 4200.0,
+      "OffLineCost": "5.8M"
+    },
+    {
+      "CoinCount": 2493.0,
+      "CoinCountCost": "5.8M",
+      "OffLine": 4221.0,
+      "OffLineCost": "5.8M"
+    },
+    {
+      "CoinCount": 2507.0,
+      "CoinCountCost": "5.8M",
+      "OffLine": 4242.0,
+      "OffLineCost": "5.8M"
+    },
+    {
+      "CoinCount": 2521.0,
+      "CoinCountCost": "5.8M",
+      "OffLine": 4263.0,
+      "OffLineCost": "5.8M"
+    },
+    {
+      "CoinCount": 2535.0,
+      "CoinCountCost": "5.9M",
+      "OffLine": 4284.0,
+      "OffLineCost": "5.9M"
+    },
+    {
+      "CoinCount": 2549.0,
+      "CoinCountCost": "5.9M",
+      "OffLine": 4305.0,
+      "OffLineCost": "5.9M"
+    },
+    {
+      "CoinCount": 2563.0,
+      "CoinCountCost": "5.9M",
+      "OffLine": 4326.0,
+      "OffLineCost": "5.9M"
+    },
+    {
+      "CoinCount": 2577.0,
+      "CoinCountCost": "6M",
+      "OffLine": 4347.0,
+      "OffLineCost": "6M"
+    },
+    {
+      "CoinCount": 2591.0,
+      "CoinCountCost": "6M",
+      "OffLine": 4368.0,
+      "OffLineCost": "6M"
+    },
+    {
+      "CoinCount": 2605.0,
+      "CoinCountCost": "6M",
+      "OffLine": 4389.0,
+      "OffLineCost": "6M"
+    },
+    {
+      "CoinCount": 2619.0,
+      "CoinCountCost": "6.4M",
+      "OffLine": 4410.0,
+      "OffLineCost": "6.4M"
+    },
+    {
+      "CoinCount": 2632.0,
+      "CoinCountCost": "6.4M",
+      "OffLine": 4431.0,
+      "OffLineCost": "6.4M"
+    },
+    {
+      "CoinCount": 2645.0,
+      "CoinCountCost": "6.4M",
+      "OffLine": 4452.0,
+      "OffLineCost": "6.4M"
+    },
+    {
+      "CoinCount": 2658.0,
+      "CoinCountCost": "6.4M",
+      "OffLine": 4473.0,
+      "OffLineCost": "6.4M"
+    },
+    {
+      "CoinCount": 2671.0,
+      "CoinCountCost": "6.5M",
+      "OffLine": 4494.0,
+      "OffLineCost": "6.5M"
+    },
+    {
+      "CoinCount": 2684.0,
+      "CoinCountCost": "6.5M",
+      "OffLine": 4515.0,
+      "OffLineCost": "6.5M"
+    },
+    {
+      "CoinCount": 2697.0,
+      "CoinCountCost": "6.5M",
+      "OffLine": 4536.0,
+      "OffLineCost": "6.5M"
+    },
+    {
+      "CoinCount": 2710.0,
+      "CoinCountCost": "6.6M",
+      "OffLine": 4557.0,
+      "OffLineCost": "6.6M"
+    },
+    {
+      "CoinCount": 2723.0,
+      "CoinCountCost": "6.6M",
+      "OffLine": 4578.0,
+      "OffLineCost": "6.6M"
+    },
+    {
+      "CoinCount": 2736.0,
+      "CoinCountCost": "6.6M",
+      "OffLine": 4599.0,
+      "OffLineCost": "6.6M"
+    },
+    {
+      "CoinCount": 2749.0,
+      "CoinCountCost": "6.7M",
+      "OffLine": 4620.0,
+      "OffLineCost": "6.7M"
+    },
+    {
+      "CoinCount": 2761.0,
+      "CoinCountCost": "6.7M",
+      "OffLine": 4641.0,
+      "OffLineCost": "6.7M"
+    },
+    {
+      "CoinCount": 2773.0,
+      "CoinCountCost": "6.7M",
+      "OffLine": 4662.0,
+      "OffLineCost": "6.7M"
+    },
+    {
+      "CoinCount": 2785.0,
+      "CoinCountCost": "6.7M",
+      "OffLine": 4683.0,
+      "OffLineCost": "6.7M"
+    },
+    {
+      "CoinCount": 2797.0,
+      "CoinCountCost": "6.8M",
+      "OffLine": 4704.0,
+      "OffLineCost": "6.8M"
+    },
+    {
+      "CoinCount": 2809.0,
+      "CoinCountCost": "6.8M",
+      "OffLine": 4725.0,
+      "OffLineCost": "6.8M"
+    },
+    {
+      "CoinCount": 2821.0,
+      "CoinCountCost": "6.8M",
+      "OffLine": 4746.0,
+      "OffLineCost": "6.8M"
+    },
+    {
+      "CoinCount": 2833.0,
+      "CoinCountCost": "6.9M",
+      "OffLine": 4767.0,
+      "OffLineCost": "6.9M"
+    },
+    {
+      "CoinCount": 2845.0,
+      "CoinCountCost": "6.9M",
+      "OffLine": 4788.0,
+      "OffLineCost": "6.9M"
+    },
+    {
+      "CoinCount": 2857.0,
+      "CoinCountCost": "6.9M",
+      "OffLine": 4809.0,
+      "OffLineCost": "6.9M"
+    },
+    {
+      "CoinCount": 2869.0,
+      "CoinCountCost": "7M",
+      "OffLine": 4830.0,
+      "OffLineCost": "7M"
+    },
+    {
+      "CoinCount": 2880.0,
+      "CoinCountCost": "7M",
+      "OffLine": 4851.0,
+      "OffLineCost": "7M"
+    },
+    {
+      "CoinCount": 2891.0,
+      "CoinCountCost": "7M",
+      "OffLine": 4872.0,
+      "OffLineCost": "7M"
+    },
+    {
+      "CoinCount": 2902.0,
+      "CoinCountCost": "7M",
+      "OffLine": 4893.0,
+      "OffLineCost": "7M"
+    },
+    {
+      "CoinCount": 2913.0,
+      "CoinCountCost": "7.1M",
+      "OffLine": 4914.0,
+      "OffLineCost": "7.1M"
+    },
+    {
+      "CoinCount": 2924.0,
+      "CoinCountCost": "7.1M",
+      "OffLine": 4935.0,
+      "OffLineCost": "7.1M"
+    },
+    {
+      "CoinCount": 2935.0,
+      "CoinCountCost": "7.1M",
+      "OffLine": 4956.0,
+      "OffLineCost": "7.1M"
+    },
+    {
+      "CoinCount": 2946.0,
+      "CoinCountCost": "7.2M",
+      "OffLine": 4977.0,
+      "OffLineCost": "7.2M"
+    },
+    {
+      "CoinCount": 2957.0,
+      "CoinCountCost": "7.2M",
+      "OffLine": 4998.0,
+      "OffLineCost": "7.2M"
+    },
+    {
+      "CoinCount": 2968.0,
+      "CoinCountCost": "7.2M",
+      "OffLine": 5019.0,
+      "OffLineCost": "7.2M"
+    },
+    {
+      "CoinCount": 2979.0,
+      "CoinCountCost": "7.3M",
+      "OffLine": 5040.0,
+      "OffLineCost": "7.3M"
+    },
+    {
+      "CoinCount": 2989.0,
+      "CoinCountCost": "7.3M",
+      "OffLine": 5061.0,
+      "OffLineCost": "7.3M"
+    },
+    {
+      "CoinCount": 2999.0,
+      "CoinCountCost": "7.3M",
+      "OffLine": 5082.0,
+      "OffLineCost": "7.3M"
+    },
+    {
+      "CoinCount": 3009.0,
+      "CoinCountCost": "7.3M",
+      "OffLine": 5103.0,
+      "OffLineCost": "7.3M"
+    },
+    {
+      "CoinCount": 3019.0,
+      "CoinCountCost": "7.4M",
+      "OffLine": 5124.0,
+      "OffLineCost": "7.4M"
+    },
+    {
+      "CoinCount": 3029.0,
+      "CoinCountCost": "7.4M",
+      "OffLine": 5145.0,
+      "OffLineCost": "7.4M"
+    },
+    {
+      "CoinCount": 3039.0,
+      "CoinCountCost": "7.4M",
+      "OffLine": 5166.0,
+      "OffLineCost": "7.4M"
+    },
+    {
+      "CoinCount": 3049.0,
+      "CoinCountCost": "7.5M",
+      "OffLine": 5187.0,
+      "OffLineCost": "7.5M"
+    },
+    {
+      "CoinCount": 3059.0,
+      "CoinCountCost": "7.5M",
+      "OffLine": 5208.0,
+      "OffLineCost": "7.5M"
+    },
+    {
+      "CoinCount": 3069.0,
+      "CoinCountCost": "7.5M",
+      "OffLine": 5229.0,
+      "OffLineCost": "7.5M"
+    },
+    {
+      "CoinCount": 3079.0,
+      "CoinCountCost": "7.6M",
+      "OffLine": 5250.0,
+      "OffLineCost": "7.6M"
+    },
+    {
+      "CoinCount": 3088.0,
+      "CoinCountCost": "7.6M",
+      "OffLine": 5271.0,
+      "OffLineCost": "7.6M"
+    },
+    {
+      "CoinCount": 3097.0,
+      "CoinCountCost": "7.6M",
+      "OffLine": 5292.0,
+      "OffLineCost": "7.6M"
+    },
+    {
+      "CoinCount": 3106.0,
+      "CoinCountCost": "7.7M",
+      "OffLine": 5313.0,
+      "OffLineCost": "7.7M"
+    },
+    {
+      "CoinCount": 3115.0,
+      "CoinCountCost": "7.7M",
+      "OffLine": 5334.0,
+      "OffLineCost": "7.7M"
+    },
+    {
+      "CoinCount": 3124.0,
+      "CoinCountCost": "7.7M",
+      "OffLine": 5355.0,
+      "OffLineCost": "7.7M"
+    },
+    {
+      "CoinCount": 3133.0,
+      "CoinCountCost": "7.7M",
+      "OffLine": 5376.0,
+      "OffLineCost": "7.7M"
+    },
+    {
+      "CoinCount": 3142.0,
+      "CoinCountCost": "7.8M",
+      "OffLine": 5397.0,
+      "OffLineCost": "7.8M"
+    },
+    {
+      "CoinCount": 3151.0,
+      "CoinCountCost": "7.8M",
+      "OffLine": 5418.0,
+      "OffLineCost": "7.8M"
+    },
+    {
+      "CoinCount": 3160.0,
+      "CoinCountCost": "7.8M",
+      "OffLine": 5439.0,
+      "OffLineCost": "7.8M"
+    },
+    {
+      "CoinCount": 3169.0,
+      "CoinCountCost": "7.9M",
+      "OffLine": 5460.0,
+      "OffLineCost": "7.9M"
+    },
+    {
+      "CoinCount": 3177.0,
+      "CoinCountCost": "7.9M",
+      "OffLine": 5481.0,
+      "OffLineCost": "7.9M"
+    },
+    {
+      "CoinCount": 3185.0,
+      "CoinCountCost": "7.9M",
+      "OffLine": 5502.0,
+      "OffLineCost": "7.9M"
+    },
+    {
+      "CoinCount": 3193.0,
+      "CoinCountCost": "8M",
+      "OffLine": 5523.0,
+      "OffLineCost": "8M"
+    },
+    {
+      "CoinCount": 3201.0,
+      "CoinCountCost": "8M",
+      "OffLine": 5544.0,
+      "OffLineCost": "8M"
+    },
+    {
+      "CoinCount": 3209.0,
+      "CoinCountCost": "8M",
+      "OffLine": 5565.0,
+      "OffLineCost": "8M"
+    },
+    {
+      "CoinCount": 3217.0,
+      "CoinCountCost": "8M",
+      "OffLine": 5586.0,
+      "OffLineCost": "8M"
+    },
+    {
+      "CoinCount": 3225.0,
+      "CoinCountCost": "8.1M",
+      "OffLine": 5607.0,
+      "OffLineCost": "8.1M"
+    },
+    {
+      "CoinCount": 3233.0,
+      "CoinCountCost": "8.1M",
+      "OffLine": 5628.0,
+      "OffLineCost": "8.1M"
+    },
+    {
+      "CoinCount": 3241.0,
+      "CoinCountCost": "8.1M",
+      "OffLine": 5649.0,
+      "OffLineCost": "8.1M"
+    },
+    {
+      "CoinCount": 3249.0,
+      "CoinCountCost": "8.2M",
+      "OffLine": 5670.0,
+      "OffLineCost": "8.2M"
+    },
+    {
+      "CoinCount": 3257.0,
+      "CoinCountCost": "8.2M",
+      "OffLine": 5691.0,
+      "OffLineCost": "8.2M"
+    },
+    {
+      "CoinCount": 3265.0,
+      "CoinCountCost": "8.2M",
+      "OffLine": 5712.0,
+      "OffLineCost": "8.2M"
+    },
+    {
+      "CoinCount": 3273.0,
+      "CoinCountCost": "8.3M",
+      "OffLine": 5733.0,
+      "OffLineCost": "8.3M"
+    },
+    {
+      "CoinCount": 3281.0,
+      "CoinCountCost": "8.3M",
+      "OffLine": 5754.0,
+      "OffLineCost": "8.3M"
+    },
+    {
+      "CoinCount": 3289.0,
+      "CoinCountCost": "8.3M",
+      "OffLine": 5775.0,
+      "OffLineCost": "8.3M"
+    },
+    {
+      "CoinCount": 3297.0,
+      "CoinCountCost": "8.3M",
+      "OffLine": 5796.0,
+      "OffLineCost": "8.3M"
+    },
+    {
+      "CoinCount": 3305.0,
+      "CoinCountCost": "8.4M",
+      "OffLine": 5817.0,
+      "OffLineCost": "8.4M"
+    },
+    {
+      "CoinCount": 3313.0,
+      "CoinCountCost": "8.4M",
+      "OffLine": 5838.0,
+      "OffLineCost": "8.4M"
+    },
+    {
+      "CoinCount": 3321.0,
+      "CoinCountCost": "8.4M",
+      "OffLine": 5859.0,
+      "OffLineCost": "8.4M"
+    },
+    {
+      "CoinCount": 3329.0,
+      "CoinCountCost": "8.5M",
+      "OffLine": 5880.0,
+      "OffLineCost": "8.5M"
+    },
+    {
+      "CoinCount": 3337.0,
+      "CoinCountCost": "8.5M",
+      "OffLine": 5901.0,
+      "OffLineCost": "8.5M"
+    },
+    {
+      "CoinCount": 3345.0,
+      "CoinCountCost": "8.5M",
+      "OffLine": 5922.0,
+      "OffLineCost": "8.5M"
+    },
+    {
+      "CoinCount": 3353.0,
+      "CoinCountCost": "8.6M",
+      "OffLine": 5943.0,
+      "OffLineCost": "8.6M"
+    },
+    {
+      "CoinCount": 3361.0,
+      "CoinCountCost": "8.6M",
+      "OffLine": 5964.0,
+      "OffLineCost": "8.6M"
+    },
+    {
+      "CoinCount": 3369.0,
+      "CoinCountCost": "8.6M",
+      "OffLine": 5985.0,
+      "OffLineCost": "8.6M"
+    },
+    {
+      "CoinCount": 3377.0,
+      "CoinCountCost": "8.6M",
+      "OffLine": 6006.0,
+      "OffLineCost": "8.6M"
+    },
+    {
+      "CoinCount": 3385.0,
+      "CoinCountCost": "8.7M",
+      "OffLine": 6027.0,
+      "OffLineCost": "8.7M"
+    },
+    {
+      "CoinCount": 3393.0,
+      "CoinCountCost": "8.7M",
+      "OffLine": 6048.0,
+      "OffLineCost": "8.7M"
+    },
+    {
+      "CoinCount": 3401.0,
+      "CoinCountCost": "8.7M",
+      "OffLine": 6069.0,
+      "OffLineCost": "8.7M"
+    },
+    {
+      "CoinCount": 3409.0,
+      "CoinCountCost": "8.8M",
+      "OffLine": 6090.0,
+      "OffLineCost": "8.8M"
+    },
+    {
+      "CoinCount": 3417.0,
+      "CoinCountCost": "8.8M",
+      "OffLine": 6111.0,
+      "OffLineCost": "8.8M"
+    },
+    {
+      "CoinCount": 3425.0,
+      "CoinCountCost": "8.8M",
+      "OffLine": 6132.0,
+      "OffLineCost": "8.8M"
+    },
+    {
+      "CoinCount": 3433.0,
+      "CoinCountCost": "8.9M",
+      "OffLine": 6153.0,
+      "OffLineCost": "8.9M"
+    },
+    {
+      "CoinCount": 3441.0,
+      "CoinCountCost": "8.9M",
+      "OffLine": 6174.0,
+      "OffLineCost": "8.9M"
+    },
+    {
+      "CoinCount": 3449.0,
+      "CoinCountCost": "8.9M",
+      "OffLine": 6195.0,
+      "OffLineCost": "8.9M"
+    },
+    {
+      "CoinCount": 3457.0,
+      "CoinCountCost": "9M",
+      "OffLine": 6216.0,
+      "OffLineCost": "9M"
+    },
+    {
+      "CoinCount": 3465.0,
+      "CoinCountCost": "9M",
+      "OffLine": 6237.0,
+      "OffLineCost": "9M"
+    },
+    {
+      "CoinCount": 3473.0,
+      "CoinCountCost": "9M",
+      "OffLine": 6258.0,
+      "OffLineCost": "9M"
+    },
+    {
+      "CoinCount": 3481.0,
+      "CoinCountCost": "9M",
+      "OffLine": 6279.0,
+      "OffLineCost": "9M"
+    },
+    {
+      "CoinCount": 3489.0,
+      "CoinCountCost": "9.1M",
+      "OffLine": 6300.0,
+      "OffLineCost": "9.1M"
+    },
+    {
+      "CoinCount": 3497.0,
+      "CoinCountCost": "9.1M",
+      "OffLine": 6321.0,
+      "OffLineCost": "9.1M"
+    },
+    {
+      "CoinCount": 3505.0,
+      "CoinCountCost": "9.1M",
+      "OffLine": 6342.0,
+      "OffLineCost": "9.1M"
+    },
+    {
+      "CoinCount": 3513.0,
+      "CoinCountCost": "9.2M",
+      "OffLine": 6363.0,
+      "OffLineCost": "9.2M"
+    },
+    {
+      "CoinCount": 3521.0,
+      "CoinCountCost": "9.2M",
+      "OffLine": 6384.0,
+      "OffLineCost": "9.2M"
+    },
+    {
+      "CoinCount": 3529.0,
+      "CoinCountCost": "9.2M",
+      "OffLine": 6405.0,
+      "OffLineCost": "9.2M"
+    },
+    {
+      "CoinCount": 3537.0,
+      "CoinCountCost": "9.3M",
+      "OffLine": 6426.0,
+      "OffLineCost": "9.3M"
+    },
+    {
+      "CoinCount": 3545.0,
+      "CoinCountCost": "9.3M",
+      "OffLine": 6447.0,
+      "OffLineCost": "9.3M"
+    },
+    {
+      "CoinCount": 3553.0,
+      "CoinCountCost": "9.3M",
+      "OffLine": 6468.0,
+      "OffLineCost": "9.3M"
+    },
+    {
+      "CoinCount": 3561.0,
+      "CoinCountCost": "9.3M",
+      "OffLine": 6489.0,
+      "OffLineCost": "9.3M"
+    },
+    {
+      "CoinCount": 3569.0,
+      "CoinCountCost": "9.4M",
+      "OffLine": 6510.0,
+      "OffLineCost": "9.4M"
+    },
+    {
+      "CoinCount": 3577.0,
+      "CoinCountCost": "9.4M",
+      "OffLine": 6531.0,
+      "OffLineCost": "9.4M"
+    },
+    {
+      "CoinCount": 3585.0,
+      "CoinCountCost": "9.4M",
+      "OffLine": 6552.0,
+      "OffLineCost": "9.4M"
+    },
+    {
+      "CoinCount": 3593.0,
+      "CoinCountCost": "9.5M",
+      "OffLine": 6573.0,
+      "OffLineCost": "9.5M"
+    },
+    {
+      "CoinCount": 3601.0,
+      "CoinCountCost": "9.5M",
+      "OffLine": 6594.0,
+      "OffLineCost": "9.5M"
+    },
+    {
+      "CoinCount": 3609.0,
+      "CoinCountCost": "9.5M",
+      "OffLine": 6615.0,
+      "OffLineCost": "9.5M"
+    },
+    {
+      "CoinCount": 3617.0,
+      "CoinCountCost": "9.6M",
+      "OffLine": 6636.0,
+      "OffLineCost": "9.6M"
+    },
+    {
+      "CoinCount": 3625.0,
+      "CoinCountCost": "9.6M",
+      "OffLine": 6657.0,
+      "OffLineCost": "9.6M"
+    },
+    {
+      "CoinCount": 3633.0,
+      "CoinCountCost": "9.6M",
+      "OffLine": 6678.0,
+      "OffLineCost": "9.6M"
+    },
+    {
+      "CoinCount": 3641.0,
+      "CoinCountCost": "9.6M",
+      "OffLine": 6699.0,
+      "OffLineCost": "9.6M"
+    },
+    {
+      "CoinCount": 3649.0,
+      "CoinCountCost": "9.7M",
+      "OffLine": 6720.0,
+      "OffLineCost": "9.7M"
+    },
+    {
+      "CoinCount": 3657.0,
+      "CoinCountCost": "9.7M",
+      "OffLine": 6741.0,
+      "OffLineCost": "9.7M"
+    },
+    {
+      "CoinCount": 3665.0,
+      "CoinCountCost": "9.7M",
+      "OffLine": 6762.0,
+      "OffLineCost": "9.7M"
+    },
+    {
+      "CoinCount": 3673.0,
+      "CoinCountCost": "9.8M",
+      "OffLine": 6783.0,
+      "OffLineCost": "9.8M"
+    },
+    {
+      "CoinCount": 3681.0,
+      "CoinCountCost": "9.8M",
+      "OffLine": 6804.0,
+      "OffLineCost": "9.8M"
+    },
+    {
+      "CoinCount": 3689.0,
+      "CoinCountCost": "9.8M",
+      "OffLine": 6825.0,
+      "OffLineCost": "9.8M"
+    },
+    {
+      "CoinCount": 3697.0,
+      "CoinCountCost": "9.9M",
+      "OffLine": 6846.0,
+      "OffLineCost": "9.9M"
+    },
+    {
+      "CoinCount": 3705.0,
+      "CoinCountCost": "9.9M",
+      "OffLine": 6867.0,
+      "OffLineCost": "9.9M"
+    },
+    {
+      "CoinCount": 3713.0,
+      "CoinCountCost": "9.9M",
+      "OffLine": 6888.0,
+      "OffLineCost": "9.9M"
+    },
+    {
+      "CoinCount": 3721.0,
+      "CoinCountCost": "9.9M",
+      "OffLine": 6909.0,
+      "OffLineCost": "9.9M"
+    },
+    {
+      "CoinCount": 3729.0,
+      "CoinCountCost": "10M",
+      "OffLine": 6930.0,
+      "OffLineCost": "10M"
+    },
+    {
+      "CoinCount": 3737.0,
+      "CoinCountCost": "10M",
+      "OffLine": 6951.0,
+      "OffLineCost": "10M"
+    },
+    {
+      "CoinCount": 3745.0,
+      "CoinCountCost": "10M",
+      "OffLine": 6972.0,
+      "OffLineCost": "10M"
+    },
+    {
+      "CoinCount": 3753.0,
+      "CoinCountCost": "10.1M",
+      "OffLine": 6993.0,
+      "OffLineCost": "10.1M"
+    },
+    {
+      "CoinCount": 3761.0,
+      "CoinCountCost": "10.1M",
+      "OffLine": 7014.0,
+      "OffLineCost": "10.1M"
+    },
+    {
+      "CoinCount": 3769.0,
+      "CoinCountCost": "10.1M",
+      "OffLine": 7035.0,
+      "OffLineCost": "10.1M"
+    },
+    {
+      "CoinCount": 3777.0,
+      "CoinCountCost": "10.2M",
+      "OffLine": 7056.0,
+      "OffLineCost": "10.2M"
+    },
+    {
+      "CoinCount": 3785.0,
+      "CoinCountCost": "10.2M",
+      "OffLine": 7077.0,
+      "OffLineCost": "10.2M"
+    },
+    {
+      "CoinCount": 3793.0,
+      "CoinCountCost": "10.2M",
+      "OffLine": 7098.0,
+      "OffLineCost": "10.2M"
+    },
+    {
+      "CoinCount": 3801.0,
+      "CoinCountCost": "10.3M",
+      "OffLine": 7119.0,
+      "OffLineCost": "10.3M"
+    },
+    {
+      "CoinCount": 3809.0,
+      "CoinCountCost": "10.3M",
+      "OffLine": 7140.0,
+      "OffLineCost": "10.3M"
+    },
+    {
+      "CoinCount": 3817.0,
+      "CoinCountCost": "10.3M",
+      "OffLine": 7161.0,
+      "OffLineCost": "10.3M"
+    },
+    {
+      "CoinCount": 3825.0,
+      "CoinCountCost": "10.3M",
+      "OffLine": 7182.0,
+      "OffLineCost": "10.3M"
+    },
+    {
+      "CoinCount": 3833.0,
+      "CoinCountCost": "10.4M",
+      "OffLine": 7203.0,
+      "OffLineCost": "10.4M"
+    },
+    {
+      "CoinCount": 3841.0,
+      "CoinCountCost": "10.4M",
+      "OffLine": 7224.0,
+      "OffLineCost": "10.4M"
+    },
+    {
+      "CoinCount": 3849.0,
+      "CoinCountCost": "10.4M",
+      "OffLine": 7245.0,
+      "OffLineCost": "10.4M"
+    },
+    {
+      "CoinCount": 3857.0,
+      "CoinCountCost": "10.5M",
+      "OffLine": 7266.0,
+      "OffLineCost": "10.5M"
+    },
+    {
+      "CoinCount": 3865.0,
+      "CoinCountCost": "10.5M",
+      "OffLine": 7287.0,
+      "OffLineCost": "10.5M"
+    },
+    {
+      "CoinCount": 3873.0,
+      "CoinCountCost": "10.5M",
+      "OffLine": 7308.0,
+      "OffLineCost": "10.5M"
+    },
+    {
+      "CoinCount": 3881.0,
+      "CoinCountCost": "10.6M",
+      "OffLine": 7329.0,
+      "OffLineCost": "10.6M"
+    },
+    {
+      "CoinCount": 3889.0,
+      "CoinCountCost": "10.6M",
+      "OffLine": 7350.0,
+      "OffLineCost": "10.6M"
+    },
+    {
+      "CoinCount": 3897.0,
+      "CoinCountCost": "10.6M",
+      "OffLine": 7371.0,
+      "OffLineCost": "10.6M"
+    },
+    {
+      "CoinCount": 3905.0,
+      "CoinCountCost": "10.6M",
+      "OffLine": 7392.0,
+      "OffLineCost": "10.6M"
+    },
+    {
+      "CoinCount": 3913.0,
+      "CoinCountCost": "10.7M",
+      "OffLine": 7413.0,
+      "OffLineCost": "10.7M"
+    },
+    {
+      "CoinCount": 3921.0,
+      "CoinCountCost": "10.7M",
+      "OffLine": 7434.0,
+      "OffLineCost": "10.7M"
+    },
+    {
+      "CoinCount": 3929.0,
+      "CoinCountCost": "10.7M",
+      "OffLine": 7455.0,
+      "OffLineCost": "10.7M"
+    },
+    {
+      "CoinCount": 3937.0,
+      "CoinCountCost": "10.8M",
+      "OffLine": 7476.0,
+      "OffLineCost": "10.8M"
+    },
+    {
+      "CoinCount": 3945.0,
+      "CoinCountCost": "10.8M",
+      "OffLine": 7497.0,
+      "OffLineCost": "10.8M"
+    },
+    {
+      "CoinCount": 3953.0,
+      "CoinCountCost": "10.8M",
+      "OffLine": 7518.0,
+      "OffLineCost": "10.8M"
+    },
+    {
+      "CoinCount": 3961.0,
+      "CoinCountCost": "10.9M",
+      "OffLine": 7539.0,
+      "OffLineCost": "10.9M"
+    },
+    {
+      "CoinCount": 3969.0,
+      "CoinCountCost": "10.9M",
+      "OffLine": 7560.0,
+      "OffLineCost": "10.9M"
+    },
+    {
+      "CoinCount": 3977.0,
+      "CoinCountCost": "10.9M",
+      "OffLine": 7581.0,
+      "OffLineCost": "10.9M"
+    },
+    {
+      "CoinCount": 3985.0,
+      "CoinCountCost": "10.9M",
+      "OffLine": 7602.0,
+      "OffLineCost": "10.9M"
+    },
+    {
+      "CoinCount": 3993.0,
+      "CoinCountCost": "11M",
+      "OffLine": 7623.0,
+      "OffLineCost": "11M"
+    },
+    {
+      "CoinCount": 4001.0,
+      "CoinCountCost": "11M",
+      "OffLine": 7644.0,
+      "OffLineCost": "11M"
+    },
+    {
+      "CoinCount": 4009.0,
+      "CoinCountCost": "11M",
+      "OffLine": 7665.0,
+      "OffLineCost": "11M"
+    },
+    {
+      "CoinCount": 4017.0,
+      "CoinCountCost": "11.1M",
+      "OffLine": 7686.0,
+      "OffLineCost": "11.1M"
+    },
+    {
+      "CoinCount": 4025.0,
+      "CoinCountCost": "11.1M",
+      "OffLine": 7707.0,
+      "OffLineCost": "11.1M"
+    },
+    {
+      "CoinCount": 4033.0,
+      "CoinCountCost": "11.1M",
+      "OffLine": 7728.0,
+      "OffLineCost": "11.1M"
+    },
+    {
+      "CoinCount": 4041.0,
+      "CoinCountCost": "11.2M",
+      "OffLine": 7749.0,
+      "OffLineCost": "11.2M"
+    },
+    {
+      "CoinCount": 4049.0,
+      "CoinCountCost": "11.2M",
+      "OffLine": 7770.0,
+      "OffLineCost": "11.2M"
+    },
+    {
+      "CoinCount": 4057.0,
+      "CoinCountCost": "11.2M",
+      "OffLine": 7791.0,
+      "OffLineCost": "11.2M"
+    },
+    {
+      "CoinCount": 4065.0,
+      "CoinCountCost": "11.2M",
+      "OffLine": 7812.0,
+      "OffLineCost": "11.2M"
+    },
+    {
+      "CoinCount": 4073.0,
+      "CoinCountCost": "11.3M",
+      "OffLine": 7833.0,
+      "OffLineCost": "11.3M"
+    },
+    {
+      "CoinCount": 4081.0,
+      "CoinCountCost": "11.3M",
+      "OffLine": 7854.0,
+      "OffLineCost": "11.3M"
+    },
+    {
+      "CoinCount": 4089.0,
+      "CoinCountCost": "11.3M",
+      "OffLine": 7875.0,
+      "OffLineCost": "11.3M"
+    },
+    {
+      "CoinCount": 4097.0,
+      "CoinCountCost": "11.4M",
+      "OffLine": 7896.0,
+      "OffLineCost": "11.4M"
+    },
+    {
+      "CoinCount": 4105.0,
+      "CoinCountCost": "11.4M",
+      "OffLine": 7917.0,
+      "OffLineCost": "11.4M"
+    },
+    {
+      "CoinCount": 4113.0,
+      "CoinCountCost": "11.4M",
+      "OffLine": 7938.0,
+      "OffLineCost": "11.4M"
+    },
+    {
+      "CoinCount": 4121.0,
+      "CoinCountCost": "11.5M",
+      "OffLine": 7959.0,
+      "OffLineCost": "11.5M"
+    },
+    {
+      "CoinCount": 4129.0,
+      "CoinCountCost": "11.5M",
+      "OffLine": 7980.0,
+      "OffLineCost": "11.5M"
+    },
+    {
+      "CoinCount": 4137.0,
+      "CoinCountCost": "11.5M",
+      "OffLine": 8001.0,
+      "OffLineCost": "11.5M"
+    },
+    {
+      "CoinCount": 4145.0,
+      "CoinCountCost": "11.6M",
+      "OffLine": 8022.0,
+      "OffLineCost": "11.6M"
+    },
+    {
+      "CoinCount": 4153.0,
+      "CoinCountCost": "11.6M",
+      "OffLine": 8043.0,
+      "OffLineCost": "11.6M"
+    },
+    {
+      "CoinCount": 4161.0,
+      "CoinCountCost": "11.6M",
+      "OffLine": 8064.0,
+      "OffLineCost": "11.6M"
+    },
+    {
+      "CoinCount": 4169.0,
+      "CoinCountCost": "11.6M",
+      "OffLine": 8085.0,
+      "OffLineCost": "11.6M"
+    },
+    {
+      "CoinCount": 4177.0,
+      "CoinCountCost": "11.7M",
+      "OffLine": 8106.0,
+      "OffLineCost": "11.7M"
+    },
+    {
+      "CoinCount": 4185.0,
+      "CoinCountCost": "11.7M",
+      "OffLine": 8127.0,
+      "OffLineCost": "11.7M"
+    },
+    {
+      "CoinCount": 4193.0,
+      "CoinCountCost": "11.7M",
+      "OffLine": 8148.0,
+      "OffLineCost": "11.7M"
+    },
+    {
+      "CoinCount": 4201.0,
+      "CoinCountCost": "11.8M",
+      "OffLine": 8169.0,
+      "OffLineCost": "11.8M"
+    },
+    {
+      "CoinCount": 4209.0,
+      "CoinCountCost": "11.8M",
+      "OffLine": 8190.0,
+      "OffLineCost": "11.8M"
+    },
+    {
+      "CoinCount": 4217.0,
+      "CoinCountCost": "11.8M",
+      "OffLine": 8211.0,
+      "OffLineCost": "11.8M"
+    },
+    {
+      "CoinCount": 4225.0,
+      "CoinCountCost": "11.9M",
+      "OffLine": 8232.0,
+      "OffLineCost": "11.9M"
+    },
+    {
+      "CoinCount": 4233.0,
+      "CoinCountCost": "11.9M",
+      "OffLine": 8253.0,
+      "OffLineCost": "11.9M"
+    },
+    {
+      "CoinCount": 4241.0,
+      "CoinCountCost": "11.9M",
+      "OffLine": 8274.0,
+      "OffLineCost": "11.9M"
+    },
+    {
+      "CoinCount": 4249.0,
+      "CoinCountCost": "11.9M",
+      "OffLine": 8295.0,
+      "OffLineCost": "11.9M"
+    },
+    {
+      "CoinCount": 4257.0,
+      "CoinCountCost": "12M",
+      "OffLine": 8316.0,
+      "OffLineCost": "12M"
+    },
+    {
+      "CoinCount": 4265.0,
+      "CoinCountCost": "12M",
+      "OffLine": 8337.0,
+      "OffLineCost": "12M"
+    },
+    {
+      "CoinCount": 4273.0,
+      "CoinCountCost": "12M",
+      "OffLine": 8358.0,
+      "OffLineCost": "12M"
+    },
+    {
+      "CoinCount": 4281.0,
+      "CoinCountCost": "12.1M",
+      "OffLine": 8379.0,
+      "OffLineCost": "12.1M"
+    },
+    {
+      "CoinCount": 4289.0,
+      "CoinCountCost": "12.1M",
+      "OffLine": 8400.0,
+      "OffLineCost": "12.1M"
+    },
+    {
+      "CoinCount": 4297.0,
+      "CoinCountCost": "12.1M",
+      "OffLine": 8421.0,
+      "OffLineCost": "12.1M"
+    },
+    {
+      "CoinCount": 4305.0,
+      "CoinCountCost": "12.2M",
+      "OffLine": 8442.0,
+      "OffLineCost": "12.2M"
+    },
+    {
+      "CoinCount": 4313.0,
+      "CoinCountCost": "12.2M",
+      "OffLine": 8463.0,
+      "OffLineCost": "12.2M"
+    },
+    {
+      "CoinCount": 4321.0,
+      "CoinCountCost": "12.2M",
+      "OffLine": 8484.0,
+      "OffLineCost": "12.2M"
+    },
+    {
+      "CoinCount": 4329.0,
+      "CoinCountCost": "12.2M",
+      "OffLine": 8505.0,
+      "OffLineCost": "12.2M"
+    },
+    {
+      "CoinCount": 4337.0,
+      "CoinCountCost": "12.3M",
+      "OffLine": 8526.0,
+      "OffLineCost": "12.3M"
+    },
+    {
+      "CoinCount": 4345.0,
+      "CoinCountCost": "12.3M",
+      "OffLine": 8547.0,
+      "OffLineCost": "12.3M"
+    },
+    {
+      "CoinCount": 4353.0,
+      "CoinCountCost": "12.3M",
+      "OffLine": 8568.0,
+      "OffLineCost": "12.3M"
+    },
+    {
+      "CoinCount": 4361.0,
+      "CoinCountCost": "12.4M",
+      "OffLine": 8589.0,
+      "OffLineCost": "12.4M"
+    },
+    {
+      "CoinCount": 4369.0,
+      "CoinCountCost": "12.4M",
+      "OffLine": 8610.0,
+      "OffLineCost": "12.4M"
+    },
+    {
+      "CoinCount": 4377.0,
+      "CoinCountCost": "12.4M",
+      "OffLine": 8631.0,
+      "OffLineCost": "12.4M"
+    },
+    {
+      "CoinCount": 4385.0,
+      "CoinCountCost": "12.5M",
+      "OffLine": 8652.0,
+      "OffLineCost": "12.5M"
+    },
+    {
+      "CoinCount": 4393.0,
+      "CoinCountCost": "12.5M",
+      "OffLine": 8673.0,
+      "OffLineCost": "12.5M"
+    },
+    {
+      "CoinCount": 4401.0,
+      "CoinCountCost": "12.5M",
+      "OffLine": 8694.0,
+      "OffLineCost": "12.5M"
+    },
+    {
+      "CoinCount": 4409.0,
+      "CoinCountCost": "12.5M",
+      "OffLine": 8715.0,
+      "OffLineCost": "12.5M"
+    },
+    {
+      "CoinCount": 4417.0,
+      "CoinCountCost": "12.6M",
+      "OffLine": 8736.0,
+      "OffLineCost": "12.6M"
+    },
+    {
+      "CoinCount": 4425.0,
+      "CoinCountCost": "12.6M",
+      "OffLine": 8757.0,
+      "OffLineCost": "12.6M"
+    },
+    {
+      "CoinCount": 4433.0,
+      "CoinCountCost": "12.6M",
+      "OffLine": 8778.0,
+      "OffLineCost": "12.6M"
+    },
+    {
+      "CoinCount": 4441.0,
+      "CoinCountCost": "12.7M",
+      "OffLine": 8799.0,
+      "OffLineCost": "12.7M"
+    },
+    {
+      "CoinCount": 4449.0,
+      "CoinCountCost": "12.7M",
+      "OffLine": 8820.0,
+      "OffLineCost": "12.7M"
+    },
+    {
+      "CoinCount": 4457.0,
+      "CoinCountCost": "12.7M",
+      "OffLine": 8841.0,
+      "OffLineCost": "12.7M"
+    },
+    {
+      "CoinCount": 4465.0,
+      "CoinCountCost": "12.8M",
+      "OffLine": 8862.0,
+      "OffLineCost": "12.8M"
+    },
+    {
+      "CoinCount": 4473.0,
+      "CoinCountCost": "12.8M",
+      "OffLine": 8883.0,
+      "OffLineCost": "12.8M"
+    },
+    {
+      "CoinCount": 4481.0,
+      "CoinCountCost": "12.8M",
+      "OffLine": 8904.0,
+      "OffLineCost": "12.8M"
+    },
+    {
+      "CoinCount": 4489.0,
+      "CoinCountCost": "12.9M",
+      "OffLine": 8925.0,
+      "OffLineCost": "12.9M"
+    },
+    {
+      "CoinCount": 4497.0,
+      "CoinCountCost": "12.9M",
+      "OffLine": 8946.0,
+      "OffLineCost": "12.9M"
+    },
+    {
+      "CoinCount": 4505.0,
+      "CoinCountCost": "12.9M",
+      "OffLine": 8967.0,
+      "OffLineCost": "12.9M"
+    },
+    {
+      "CoinCount": 4513.0,
+      "CoinCountCost": "12.9M",
+      "OffLine": 8988.0,
+      "OffLineCost": "12.9M"
+    },
+    {
+      "CoinCount": 4521.0,
+      "CoinCountCost": "13M",
+      "OffLine": 9009.0,
+      "OffLineCost": "13M"
+    },
+    {
+      "CoinCount": 4529.0,
+      "CoinCountCost": "13M",
+      "OffLine": 9030.0,
+      "OffLineCost": "13M"
+    },
+    {
+      "CoinCount": 4537.0,
+      "CoinCountCost": "13M",
+      "OffLine": 9051.0,
+      "OffLineCost": "13M"
+    },
+    {
+      "CoinCount": 4545.0,
+      "CoinCountCost": "13.1M",
+      "OffLine": 9072.0,
+      "OffLineCost": "13.1M"
+    },
+    {
+      "CoinCount": 4553.0,
+      "CoinCountCost": "13.1M",
+      "OffLine": 9093.0,
+      "OffLineCost": "13.1M"
+    },
+    {
+      "CoinCount": 4561.0,
+      "CoinCountCost": "13.1M",
+      "OffLine": 9114.0,
+      "OffLineCost": "13.1M"
+    },
+    {
+      "CoinCount": 4569.0,
+      "CoinCountCost": "13.2M",
+      "OffLine": 9135.0,
+      "OffLineCost": "13.2M"
+    },
+    {
+      "CoinCount": 4577.0,
+      "CoinCountCost": "13.2M",
+      "OffLine": 9156.0,
+      "OffLineCost": "13.2M"
+    },
+    {
+      "CoinCount": 4585.0,
+      "CoinCountCost": "13.2M",
+      "OffLine": 9177.0,
+      "OffLineCost": "13.2M"
+    },
+    {
+      "CoinCount": 4593.0,
+      "CoinCountCost": "13.2M",
+      "OffLine": 9198.0,
+      "OffLineCost": "13.2M"
+    },
+    {
+      "CoinCount": 4601.0,
+      "CoinCountCost": "13.3M",
+      "OffLine": 9219.0,
+      "OffLineCost": "13.3M"
+    },
+    {
+      "CoinCount": 4609.0,
+      "CoinCountCost": "13.3M",
+      "OffLine": 9240.0,
+      "OffLineCost": "13.3M"
+    },
+    {
+      "CoinCount": 4617.0,
+      "CoinCountCost": "13.3M",
+      "OffLine": 9261.0,
+      "OffLineCost": "13.3M"
+    },
+    {
+      "CoinCount": 4625.0,
+      "CoinCountCost": "13.4M",
+      "OffLine": 9282.0,
+      "OffLineCost": "13.4M"
+    },
+    {
+      "CoinCount": 4633.0,
+      "CoinCountCost": "13.4M",
+      "OffLine": 9303.0,
+      "OffLineCost": "13.4M"
+    },
+    {
+      "CoinCount": 4641.0,
+      "CoinCountCost": "13.4M",
+      "OffLine": 9324.0,
+      "OffLineCost": "13.4M"
+    },
+    {
+      "CoinCount": 4649.0,
+      "CoinCountCost": "13.5M",
+      "OffLine": 9345.0,
+      "OffLineCost": "13.5M"
+    },
+    {
+      "CoinCount": 4657.0,
+      "CoinCountCost": "13.5M",
+      "OffLine": 9366.0,
+      "OffLineCost": "13.5M"
+    },
+    {
+      "CoinCount": 4665.0,
+      "CoinCountCost": "13.5M",
+      "OffLine": 9387.0,
+      "OffLineCost": "13.5M"
+    },
+    {
+      "CoinCount": 4673.0,
+      "CoinCountCost": "13.5M",
+      "OffLine": 9408.0,
+      "OffLineCost": "13.5M"
+    },
+    {
+      "CoinCount": 4681.0,
+      "CoinCountCost": "13.6M",
+      "OffLine": 9429.0,
+      "OffLineCost": "13.6M"
+    },
+    {
+      "CoinCount": 4689.0,
+      "CoinCountCost": "13.6M",
+      "OffLine": 9450.0,
+      "OffLineCost": "13.6M"
+    },
+    {
+      "CoinCount": 4697.0,
+      "CoinCountCost": "13.6M",
+      "OffLine": 9471.0,
+      "OffLineCost": "13.6M"
+    },
+    {
+      "CoinCount": 4705.0,
+      "CoinCountCost": "13.7M",
+      "OffLine": 9492.0,
+      "OffLineCost": "13.7M"
+    },
+    {
+      "CoinCount": 4713.0,
+      "CoinCountCost": "13.7M",
+      "OffLine": 9513.0,
+      "OffLineCost": "13.7M"
+    },
+    {
+      "CoinCount": 4721.0,
+      "CoinCountCost": "13.7M",
+      "OffLine": 9534.0,
+      "OffLineCost": "13.7M"
+    },
+    {
+      "CoinCount": 4729.0,
+      "CoinCountCost": "13.8M",
+      "OffLine": 9555.0,
+      "OffLineCost": "13.8M"
+    },
+    {
+      "CoinCount": 4737.0,
+      "CoinCountCost": "13.8M",
+      "OffLine": 9576.0,
+      "OffLineCost": "13.8M"
+    },
+    {
+      "CoinCount": 4745.0,
+      "CoinCountCost": "13.8M",
+      "OffLine": 9597.0,
+      "OffLineCost": "13.8M"
+    },
+    {
+      "CoinCount": 4753.0,
+      "CoinCountCost": "13.8M",
+      "OffLine": 9618.0,
+      "OffLineCost": "13.8M"
+    },
+    {
+      "CoinCount": 4761.0,
+      "CoinCountCost": "13.9M",
+      "OffLine": 9639.0,
+      "OffLineCost": "13.9M"
+    },
+    {
+      "CoinCount": 4769.0,
+      "CoinCountCost": "13.9M",
+      "OffLine": 9660.0,
+      "OffLineCost": "13.9M"
+    },
+    {
+      "CoinCount": 4777.0,
+      "CoinCountCost": "13.9M",
+      "OffLine": 9681.0,
+      "OffLineCost": "13.9M"
+    },
+    {
+      "CoinCount": 4785.0,
+      "CoinCountCost": "14M",
+      "OffLine": 9702.0,
+      "OffLineCost": "14M"
+    },
+    {
+      "CoinCount": 4793.0,
+      "CoinCountCost": "14M",
+      "OffLine": 9723.0,
+      "OffLineCost": "14M"
+    },
+    {
+      "CoinCount": 4801.0,
+      "CoinCountCost": "14M",
+      "OffLine": 9744.0,
+      "OffLineCost": "14M"
+    },
+    {
+      "CoinCount": 4809.0,
+      "CoinCountCost": "14.1M",
+      "OffLine": 9765.0,
+      "OffLineCost": "14.1M"
+    },
+    {
+      "CoinCount": 4817.0,
+      "CoinCountCost": "14.1M",
+      "OffLine": 9786.0,
+      "OffLineCost": "14.1M"
+    },
+    {
+      "CoinCount": 4825.0,
+      "CoinCountCost": "14.1M",
+      "OffLine": 9807.0,
+      "OffLineCost": "14.1M"
+    },
+    {
+      "CoinCount": 4833.0,
+      "CoinCountCost": "14.2M",
+      "OffLine": 9828.0,
+      "OffLineCost": "14.2M"
+    },
+    {
+      "CoinCount": 4841.0,
+      "CoinCountCost": "14.2M",
+      "OffLine": 9849.0,
+      "OffLineCost": "14.2M"
+    },
+    {
+      "CoinCount": 4849.0,
+      "CoinCountCost": "14.2M",
+      "OffLine": 9870.0,
+      "OffLineCost": "14.2M"
+    },
+    {
+      "CoinCount": 4857.0,
+      "CoinCountCost": "14.2M",
+      "OffLine": 9891.0,
+      "OffLineCost": "14.2M"
+    },
+    {
+      "CoinCount": 4865.0,
+      "CoinCountCost": "14.3M",
+      "OffLine": 9912.0,
+      "OffLineCost": "14.3M"
+    },
+    {
+      "CoinCount": 4873.0,
+      "CoinCountCost": "14.3M",
+      "OffLine": 9933.0,
+      "OffLineCost": "14.3M"
+    },
+    {
+      "CoinCount": 4881.0,
+      "CoinCountCost": "14.3M",
+      "OffLine": 9954.0,
+      "OffLineCost": "14.3M"
+    },
+    {
+      "CoinCount": 4889.0,
+      "CoinCountCost": "14.4M",
+      "OffLine": 9975.0,
+      "OffLineCost": "14.4M"
+    },
+    {
+      "CoinCount": 4897.0,
+      "CoinCountCost": "14.4M",
+      "OffLine": 9996.0,
+      "OffLineCost": "14.4M"
+    },
+    {
+      "CoinCount": 4905.0,
+      "CoinCountCost": "14.4M",
+      "OffLine": 10017.0,
+      "OffLineCost": "14.4M"
+    },
+    {
+      "CoinCount": 4913.0,
+      "CoinCountCost": "14.5M",
+      "OffLine": 10038.0,
+      "OffLineCost": "14.5M"
+    },
+    {
+      "CoinCount": 4921.0,
+      "CoinCountCost": "14.5M",
+      "OffLine": 10059.0,
+      "OffLineCost": "14.5M"
+    },
+    {
+      "CoinCount": 4929.0,
+      "CoinCountCost": "14.5M",
+      "OffLine": 10080.0,
+      "OffLineCost": "14.5M"
+    },
+    {
+      "CoinCount": 4937.0,
+      "CoinCountCost": "14.5M",
+      "OffLine": 10101.0,
+      "OffLineCost": "14.5M"
+    },
+    {
+      "CoinCount": 4945.0,
+      "CoinCountCost": "14.6M",
+      "OffLine": 10122.0,
+      "OffLineCost": "14.6M"
+    },
+    {
+      "CoinCount": 4953.0,
+      "CoinCountCost": "14.6M",
+      "OffLine": 10143.0,
+      "OffLineCost": "14.6M"
+    },
+    {
+      "CoinCount": 4961.0,
+      "CoinCountCost": "14.6M",
+      "OffLine": 10164.0,
+      "OffLineCost": "14.6M"
+    },
+    {
+      "CoinCount": 4969.0,
+      "CoinCountCost": "14.7M",
+      "OffLine": 10185.0,
+      "OffLineCost": "14.7M"
+    },
+    {
+      "CoinCount": 4977.0,
+      "CoinCountCost": "14.7M",
+      "OffLine": 10206.0,
+      "OffLineCost": "14.7M"
+    },
+    {
+      "CoinCount": 4985.0,
+      "CoinCountCost": "14.7M",
+      "OffLine": 10227.0,
+      "OffLineCost": "14.7M"
+    },
+    {
+      "CoinCount": 4993.0,
+      "CoinCountCost": "14.8M",
+      "OffLine": 10248.0,
+      "OffLineCost": "14.8M"
+    },
+    {
+      "CoinCount": 5001.0,
+      "CoinCountCost": "14.8M",
+      "OffLine": 10269.0,
+      "OffLineCost": "14.8M"
+    },
+    {
+      "CoinCount": 5009.0,
+      "CoinCountCost": "14.8M",
+      "OffLine": 10290.0,
+      "OffLineCost": "14.8M"
+    },
+    {
+      "CoinCount": 5017.0,
+      "CoinCountCost": "14.8M",
+      "OffLine": 10311.0,
+      "OffLineCost": "14.8M"
+    },
+    {
+      "CoinCount": 5025.0,
+      "CoinCountCost": "14.9M",
+      "OffLine": 10332.0,
+      "OffLineCost": "14.9M"
+    },
+    {
+      "CoinCount": 5033.0,
+      "CoinCountCost": "14.9M",
+      "OffLine": 10353.0,
+      "OffLineCost": "14.9M"
+    },
+    {
+      "CoinCount": 5041.0,
+      "CoinCountCost": "14.9M",
+      "OffLine": 10374.0,
+      "OffLineCost": "14.9M"
+    },
+    {
+      "CoinCount": 5049.0,
+      "CoinCountCost": "15M",
+      "OffLine": 10395.0,
+      "OffLineCost": "15M"
+    },
+    {
+      "CoinCount": 5057.0,
+      "CoinCountCost": "15M",
+      "OffLine": 10416.0,
+      "OffLineCost": "15M"
+    },
+    {
+      "CoinCount": 5065.0,
+      "CoinCountCost": "15M",
+      "OffLine": 10437.0,
+      "OffLineCost": "15M"
+    },
+    {
+      "CoinCount": 5073.0,
+      "CoinCountCost": "15.1M",
+      "OffLine": 10458.0,
+      "OffLineCost": "15.1M"
+    },
+    {
+      "CoinCount": 5081.0,
+      "CoinCountCost": "15.1M",
+      "OffLine": 10479.0,
+      "OffLineCost": "15.1M"
+    },
+    {
+      "CoinCount": 5089.0,
+      "CoinCountCost": "15.1M",
+      "OffLine": 10500.0,
+      "OffLineCost": "15.1M"
+    },
+    {
+      "CoinCount": 5097.0,
+      "CoinCountCost": "15.2M",
+      "OffLine": 10521.0,
+      "OffLineCost": "15.2M"
+    },
+    {
+      "CoinCount": 5105.0,
+      "CoinCountCost": "15.2M",
+      "OffLine": 10542.0,
+      "OffLineCost": "15.2M"
+    },
+    {
+      "CoinCount": 5113.0,
+      "CoinCountCost": "15.2M",
+      "OffLine": 10563.0,
+      "OffLineCost": "15.2M"
+    },
+    {
+      "CoinCount": 5121.0,
+      "CoinCountCost": "15.2M",
+      "OffLine": 10584.0,
+      "OffLineCost": "15.2M"
+    },
+    {
+      "CoinCount": 5129.0,
+      "CoinCountCost": "15.3M",
+      "OffLine": 10605.0,
+      "OffLineCost": "15.3M"
+    },
+    {
+      "CoinCount": 5137.0,
+      "CoinCountCost": "15.3M",
+      "OffLine": 10626.0,
+      "OffLineCost": "15.3M"
+    },
+    {
+      "CoinCount": 5145.0,
+      "CoinCountCost": "15.3M",
+      "OffLine": 10647.0,
+      "OffLineCost": "15.3M"
+    },
+    {
+      "CoinCount": 5153.0,
+      "CoinCountCost": "15.4M",
+      "OffLine": 10668.0,
+      "OffLineCost": "15.4M"
+    },
+    {
+      "CoinCount": 5161.0,
+      "CoinCountCost": "15.4M",
+      "OffLine": 10689.0,
+      "OffLineCost": "15.4M"
+    },
+    {
+      "CoinCount": 5169.0,
+      "CoinCountCost": "15.4M",
+      "OffLine": 10710.0,
+      "OffLineCost": "15.4M"
+    },
+    {
+      "CoinCount": 5177.0,
+      "CoinCountCost": "15.5M",
+      "OffLine": 10731.0,
+      "OffLineCost": "15.5M"
+    },
+    {
+      "CoinCount": 5185.0,
+      "CoinCountCost": "15.5M",
+      "OffLine": 10752.0,
+      "OffLineCost": "15.5M"
+    },
+    {
+      "CoinCount": 5193.0,
+      "CoinCountCost": "15.5M",
+      "OffLine": 10773.0,
+      "OffLineCost": "15.5M"
+    },
+    {
+      "CoinCount": 5201.0,
+      "CoinCountCost": "15.5M",
+      "OffLine": 10794.0,
+      "OffLineCost": "15.5M"
+    },
+    {
+      "CoinCount": 5209.0,
+      "CoinCountCost": "15.6M",
+      "OffLine": 10815.0,
+      "OffLineCost": "15.6M"
+    },
+    {
+      "CoinCount": 5217.0,
+      "CoinCountCost": "15.6M",
+      "OffLine": 10836.0,
+      "OffLineCost": "15.6M"
+    },
+    {
+      "CoinCount": 5225.0,
+      "CoinCountCost": "15.6M",
+      "OffLine": 10857.0,
+      "OffLineCost": "15.6M"
+    },
+    {
+      "CoinCount": 5233.0,
+      "CoinCountCost": "15.7M",
+      "OffLine": 10878.0,
+      "OffLineCost": "15.7M"
+    },
+    {
+      "CoinCount": 5241.0,
+      "CoinCountCost": "15.7M",
+      "OffLine": 10899.0,
+      "OffLineCost": "15.7M"
+    },
+    {
+      "CoinCount": 5249.0,
+      "CoinCountCost": "15.7M",
+      "OffLine": 10920.0,
+      "OffLineCost": "15.7M"
+    },
+    {
+      "CoinCount": 5257.0,
+      "CoinCountCost": "15.8M",
+      "OffLine": 10941.0,
+      "OffLineCost": "15.8M"
+    },
+    {
+      "CoinCount": 5265.0,
+      "CoinCountCost": "15.8M",
+      "OffLine": 10962.0,
+      "OffLineCost": "15.8M"
+    },
+    {
+      "CoinCount": 5273.0,
+      "CoinCountCost": "15.8M",
+      "OffLine": 10983.0,
+      "OffLineCost": "15.8M"
+    },
+    {
+      "CoinCount": 5281.0,
+      "CoinCountCost": "15.8M",
+      "OffLine": 11004.0,
+      "OffLineCost": "15.8M"
+    },
+    {
+      "CoinCount": 5289.0,
+      "CoinCountCost": "15.9M",
+      "OffLine": 11025.0,
+      "OffLineCost": "15.9M"
+    },
+    {
+      "CoinCount": 5297.0,
+      "CoinCountCost": "15.9M",
+      "OffLine": 11046.0,
+      "OffLineCost": "15.9M"
+    },
+    {
+      "CoinCount": 5305.0,
+      "CoinCountCost": "15.9M",
+      "OffLine": 11067.0,
+      "OffLineCost": "15.9M"
+    },
+    {
+      "CoinCount": 5313.0,
+      "CoinCountCost": "16M",
+      "OffLine": 11088.0,
+      "OffLineCost": "16M"
+    },
+    {
+      "CoinCount": 5321.0,
+      "CoinCountCost": "16M",
+      "OffLine": 11109.0,
+      "OffLineCost": "16M"
+    },
+    {
+      "CoinCount": 5329.0,
+      "CoinCountCost": "16M",
+      "OffLine": 11130.0,
+      "OffLineCost": "16M"
+    },
+    {
+      "CoinCount": 5337.0,
+      "CoinCountCost": "16.1M",
+      "OffLine": 11151.0,
+      "OffLineCost": "16.1M"
+    },
+    {
+      "CoinCount": 5345.0,
+      "CoinCountCost": "16.1M",
+      "OffLine": 11172.0,
+      "OffLineCost": "16.1M"
+    },
+    {
+      "CoinCount": 5353.0,
+      "CoinCountCost": "16.1M",
+      "OffLine": 11193.0,
+      "OffLineCost": "16.1M"
+    },
+    {
+      "CoinCount": 5361.0,
+      "CoinCountCost": "16.1M",
+      "OffLine": 11214.0,
+      "OffLineCost": "16.1M"
+    },
+    {
+      "CoinCount": 5369.0,
+      "CoinCountCost": "16.2M",
+      "OffLine": 11235.0,
+      "OffLineCost": "16.2M"
+    },
+    {
+      "CoinCount": 5377.0,
+      "CoinCountCost": "16.2M",
+      "OffLine": 11256.0,
+      "OffLineCost": "16.2M"
+    },
+    {
+      "CoinCount": 5385.0,
+      "CoinCountCost": "16.2M",
+      "OffLine": 11277.0,
+      "OffLineCost": "16.2M"
+    },
+    {
+      "CoinCount": 5393.0,
+      "CoinCountCost": "16.3M",
+      "OffLine": 11298.0,
+      "OffLineCost": "16.3M"
+    },
+    {
+      "CoinCount": 5401.0,
+      "CoinCountCost": "16.3M",
+      "OffLine": 11319.0,
+      "OffLineCost": "16.3M"
+    },
+    {
+      "CoinCount": 5409.0,
+      "CoinCountCost": "16.3M",
+      "OffLine": 11340.0,
+      "OffLineCost": "16.3M"
+    },
+    {
+      "CoinCount": 5417.0,
+      "CoinCountCost": "16.4M",
+      "OffLine": 11361.0,
+      "OffLineCost": "16.4M"
+    },
+    {
+      "CoinCount": 5425.0,
+      "CoinCountCost": "16.4M",
+      "OffLine": 11382.0,
+      "OffLineCost": "16.4M"
+    },
+    {
+      "CoinCount": 5433.0,
+      "CoinCountCost": "16.4M",
+      "OffLine": 11403.0,
+      "OffLineCost": "16.4M"
+    },
+    {
+      "CoinCount": 5441.0,
+      "CoinCountCost": "16.5M",
+      "OffLine": 11424.0,
+      "OffLineCost": "16.5M"
+    },
+    {
+      "CoinCount": 5449.0,
+      "CoinCountCost": "16.5M",
+      "OffLine": 11445.0,
+      "OffLineCost": "16.5M"
+    },
+    {
+      "CoinCount": 5457.0,
+      "CoinCountCost": "16.5M",
+      "OffLine": 11466.0,
+      "OffLineCost": "16.5M"
+    },
+    {
+      "CoinCount": 5465.0,
+      "CoinCountCost": "16.5M",
+      "OffLine": 11487.0,
+      "OffLineCost": "16.5M"
+    },
+    {
+      "CoinCount": 5473.0,
+      "CoinCountCost": "16.6M",
+      "OffLine": 11508.0,
+      "OffLineCost": "16.6M"
+    },
+    {
+      "CoinCount": 5481.0,
+      "CoinCountCost": "16.6M",
+      "OffLine": 11529.0,
+      "OffLineCost": "16.6M"
+    },
+    {
+      "CoinCount": 5489.0,
+      "CoinCountCost": "16.6M",
+      "OffLine": 11550.0,
+      "OffLineCost": "16.6M"
+    },
+    {
+      "CoinCount": 5497.0,
+      "CoinCountCost": "16.7M",
+      "OffLine": 11571.0,
+      "OffLineCost": "16.7M"
+    },
+    {
+      "CoinCount": 5505.0,
+      "CoinCountCost": "16.7M",
+      "OffLine": 11592.0,
+      "OffLineCost": "16.7M"
+    },
+    {
+      "CoinCount": 5513.0,
+      "CoinCountCost": "16.7M",
+      "OffLine": 11613.0,
+      "OffLineCost": "16.7M"
+    },
+    {
+      "CoinCount": 5521.0,
+      "CoinCountCost": "16.8M",
+      "OffLine": 11634.0,
+      "OffLineCost": "16.8M"
+    },
+    {
+      "CoinCount": 5529.0,
+      "CoinCountCost": "16.8M",
+      "OffLine": 11655.0,
+      "OffLineCost": "16.8M"
+    },
+    {
+      "CoinCount": 5537.0,
+      "CoinCountCost": "16.8M",
+      "OffLine": 11676.0,
+      "OffLineCost": "16.8M"
+    },
+    {
+      "CoinCount": 5545.0,
+      "CoinCountCost": "16.8M",
+      "OffLine": 11697.0,
+      "OffLineCost": "16.8M"
+    },
+    {
+      "CoinCount": 5553.0,
+      "CoinCountCost": "16.9M",
+      "OffLine": 11718.0,
+      "OffLineCost": "16.9M"
+    },
+    {
+      "CoinCount": 5561.0,
+      "CoinCountCost": "16.9M",
+      "OffLine": 11739.0,
+      "OffLineCost": "16.9M"
+    },
+    {
+      "CoinCount": 5569.0,
+      "CoinCountCost": "16.9M",
+      "OffLine": 11760.0,
+      "OffLineCost": "16.9M"
+    },
+    {
+      "CoinCount": 5577.0,
+      "CoinCountCost": "17M",
+      "OffLine": 11781.0,
+      "OffLineCost": "17M"
+    },
+    {
+      "CoinCount": 5585.0,
+      "CoinCountCost": "17M",
+      "OffLine": 11802.0,
+      "OffLineCost": "17M"
+    },
+    {
+      "CoinCount": 5593.0,
+      "CoinCountCost": "17M",
+      "OffLine": 11823.0,
+      "OffLineCost": "17M"
+    },
+    {
+      "CoinCount": 5601.0,
+      "CoinCountCost": "17.1M",
+      "OffLine": 11844.0,
+      "OffLineCost": "17.1M"
+    },
+    {
+      "CoinCount": 5609.0,
+      "CoinCountCost": "17.1M",
+      "OffLine": 11865.0,
+      "OffLineCost": "17.1M"
+    },
+    {
+      "CoinCount": 5617.0,
+      "CoinCountCost": "17.1M",
+      "OffLine": 11886.0,
+      "OffLineCost": "17.1M"
+    },
+    {
+      "CoinCount": 5625.0,
+      "CoinCountCost": "17.1M",
+      "OffLine": 11907.0,
+      "OffLineCost": "17.1M"
+    },
+    {
+      "CoinCount": 5633.0,
+      "CoinCountCost": "17.2M",
+      "OffLine": 11928.0,
+      "OffLineCost": "17.2M"
+    },
+    {
+      "CoinCount": 5641.0,
+      "CoinCountCost": "17.2M",
+      "OffLine": 11949.0,
+      "OffLineCost": "17.2M"
+    },
+    {
+      "CoinCount": 5649.0,
+      "CoinCountCost": "17.2M",
+      "OffLine": 11970.0,
+      "OffLineCost": "17.2M"
+    },
+    {
+      "CoinCount": 5657.0,
+      "CoinCountCost": "17.3M",
+      "OffLine": 11991.0,
+      "OffLineCost": "17.3M"
+    },
+    {
+      "CoinCount": 5665.0,
+      "CoinCountCost": "17.3M",
+      "OffLine": 12012.0,
+      "OffLineCost": "17.3M"
+    },
+    {
+      "CoinCount": 5673.0,
+      "CoinCountCost": "17.3M",
+      "OffLine": 12033.0,
+      "OffLineCost": "17.3M"
+    },
+    {
+      "CoinCount": 5681.0,
+      "CoinCountCost": "17.4M",
+      "OffLine": 12054.0,
+      "OffLineCost": "17.4M"
+    },
+    {
+      "CoinCount": 5689.0,
+      "CoinCountCost": "17.4M",
+      "OffLine": 12075.0,
+      "OffLineCost": "17.4M"
+    },
+    {
+      "CoinCount": 5697.0,
+      "CoinCountCost": "17.4M",
+      "OffLine": 12096.0,
+      "OffLineCost": "17.4M"
+    },
+    {
+      "CoinCount": 5705.0,
+      "CoinCountCost": "17.4M",
+      "OffLine": 12117.0,
+      "OffLineCost": "17.4M"
+    },
+    {
+      "CoinCount": 5713.0,
+      "CoinCountCost": "17.5M",
+      "OffLine": 12138.0,
+      "OffLineCost": "17.5M"
+    },
+    {
+      "CoinCount": 5721.0,
+      "CoinCountCost": "17.5M",
+      "OffLine": 12159.0,
+      "OffLineCost": "17.5M"
+    },
+    {
+      "CoinCount": 5729.0,
+      "CoinCountCost": "17.5M",
+      "OffLine": 12180.0,
+      "OffLineCost": "17.5M"
+    },
+    {
+      "CoinCount": 5737.0,
+      "CoinCountCost": "17.6M",
+      "OffLine": 12201.0,
+      "OffLineCost": "17.6M"
+    },
+    {
+      "CoinCount": 5745.0,
+      "CoinCountCost": "17.6M",
+      "OffLine": 12222.0,
+      "OffLineCost": "17.6M"
+    },
+    {
+      "CoinCount": 5753.0,
+      "CoinCountCost": "17.6M",
+      "OffLine": 12243.0,
+      "OffLineCost": "17.6M"
+    },
+    {
+      "CoinCount": 5761.0,
+      "CoinCountCost": "17.7M",
+      "OffLine": 12264.0,
+      "OffLineCost": "17.7M"
+    },
+    {
+      "CoinCount": 5769.0,
+      "CoinCountCost": "17.7M",
+      "OffLine": 12285.0,
+      "OffLineCost": "17.7M"
+    },
+    {
+      "CoinCount": 5777.0,
+      "CoinCountCost": "17.7M",
+      "OffLine": 12306.0,
+      "OffLineCost": "17.7M"
+    },
+    {
+      "CoinCount": 5785.0,
+      "CoinCountCost": "17.8M",
+      "OffLine": 12327.0,
+      "OffLineCost": "17.8M"
+    },
+    {
+      "CoinCount": 5793.0,
+      "CoinCountCost": "17.8M",
+      "OffLine": 12348.0,
+      "OffLineCost": "17.8M"
+    },
+    {
+      "CoinCount": 5801.0,
+      "CoinCountCost": "17.8M",
+      "OffLine": 12369.0,
+      "OffLineCost": "17.8M"
+    },
+    {
+      "CoinCount": 5809.0,
+      "CoinCountCost": "17.8M",
+      "OffLine": 12390.0,
+      "OffLineCost": "17.8M"
+    },
+    {
+      "CoinCount": 5817.0,
+      "CoinCountCost": "17.9M",
+      "OffLine": 12411.0,
+      "OffLineCost": "17.9M"
+    },
+    {
+      "CoinCount": 5825.0,
+      "CoinCountCost": "17.9M",
+      "OffLine": 12432.0,
+      "OffLineCost": "17.9M"
+    },
+    {
+      "CoinCount": 5833.0,
+      "CoinCountCost": "17.9M",
+      "OffLine": 12453.0,
+      "OffLineCost": "17.9M"
+    },
+    {
+      "CoinCount": 5841.0,
+      "CoinCountCost": "18M",
+      "OffLine": 12474.0,
+      "OffLineCost": "18M"
+    },
+    {
+      "CoinCount": 5849.0,
+      "CoinCountCost": "18M",
+      "OffLine": 12495.0,
+      "OffLineCost": "18M"
+    },
+    {
+      "CoinCount": 5857.0,
+      "CoinCountCost": "18M",
+      "OffLine": 12516.0,
+      "OffLineCost": "18M"
+    },
+    {
+      "CoinCount": 5865.0,
+      "CoinCountCost": "18.1M",
+      "OffLine": 12537.0,
+      "OffLineCost": "18.1M"
+    },
+    {
+      "CoinCount": 5873.0,
+      "CoinCountCost": "18.1M",
+      "OffLine": 12558.0,
+      "OffLineCost": "18.1M"
+    },
+    {
+      "CoinCount": 5881.0,
+      "CoinCountCost": "18.1M",
+      "OffLine": 12579.0,
+      "OffLineCost": "18.1M"
+    },
+    {
+      "CoinCount": 5889.0,
+      "CoinCountCost": "18.1M",
+      "OffLine": 12600.0,
+      "OffLineCost": "18.1M"
+    },
+    {
+      "CoinCount": 5897.0,
+      "CoinCountCost": "18.2M",
+      "OffLine": 12621.0,
+      "OffLineCost": "18.2M"
+    },
+    {
+      "CoinCount": 5905.0,
+      "CoinCountCost": "18.2M",
+      "OffLine": 12642.0,
+      "OffLineCost": "18.2M"
+    },
+    {
+      "CoinCount": 5913.0,
+      "CoinCountCost": "18.2M",
+      "OffLine": 12663.0,
+      "OffLineCost": "18.2M"
+    },
+    {
+      "CoinCount": 5921.0,
+      "CoinCountCost": "18.3M",
+      "OffLine": 12684.0,
+      "OffLineCost": "18.3M"
+    },
+    {
+      "CoinCount": 5929.0,
+      "CoinCountCost": "18.3M",
+      "OffLine": 12705.0,
+      "OffLineCost": "18.3M"
+    },
+    {
+      "CoinCount": 5937.0,
+      "CoinCountCost": "18.3M",
+      "OffLine": 12726.0,
+      "OffLineCost": "18.3M"
+    },
+    {
+      "CoinCount": 5945.0,
+      "CoinCountCost": "18.4M",
+      "OffLine": 12747.0,
+      "OffLineCost": "18.4M"
+    },
+    {
+      "CoinCount": 5953.0,
+      "CoinCountCost": "18.4M",
+      "OffLine": 12768.0,
+      "OffLineCost": "18.4M"
+    },
+    {
+      "CoinCount": 5961.0,
+      "CoinCountCost": "18.4M",
+      "OffLine": 12789.0,
+      "OffLineCost": "18.4M"
+    },
+    {
+      "CoinCount": 5969.0,
+      "CoinCountCost": "18.4M",
+      "OffLine": 12810.0,
+      "OffLineCost": "18.4M"
+    },
+    {
+      "CoinCount": 5977.0,
+      "CoinCountCost": "18.5M",
+      "OffLine": 12831.0,
+      "OffLineCost": "18.5M"
+    },
+    {
+      "CoinCount": 5985.0,
+      "CoinCountCost": "18.5M",
+      "OffLine": 12852.0,
+      "OffLineCost": "18.5M"
+    },
+    {
+      "CoinCount": 5993.0,
+      "CoinCountCost": "18.5M",
+      "OffLine": 12873.0,
+      "OffLineCost": "18.5M"
+    },
+    {
+      "CoinCount": 6001.0,
+      "CoinCountCost": "18.6M",
+      "OffLine": 12894.0,
+      "OffLineCost": "18.6M"
+    },
+    {
+      "CoinCount": 6009.0,
+      "CoinCountCost": "18.6M",
+      "OffLine": 12915.0,
+      "OffLineCost": "18.6M"
+    },
+    {
+      "CoinCount": 6017.0,
+      "CoinCountCost": "18.6M",
+      "OffLine": 12936.0,
+      "OffLineCost": "18.6M"
+    },
+    {
+      "CoinCount": 6025.0,
+      "CoinCountCost": "18.7M",
+      "OffLine": 12957.0,
+      "OffLineCost": "18.7M"
+    },
+    {
+      "CoinCount": 6033.0,
+      "CoinCountCost": "18.7M",
+      "OffLine": 12978.0,
+      "OffLineCost": "18.7M"
+    },
+    {
+      "CoinCount": 6041.0,
+      "CoinCountCost": "18.7M",
+      "OffLine": 12999.0,
+      "OffLineCost": "18.7M"
+    },
+    {
+      "CoinCount": 6049.0,
+      "CoinCountCost": "18.7M",
+      "OffLine": 13020.0,
+      "OffLineCost": "18.7M"
+    },
+    {
+      "CoinCount": 6057.0,
+      "CoinCountCost": "18.8M",
+      "OffLine": 13041.0,
+      "OffLineCost": "18.8M"
+    },
+    {
+      "CoinCount": 6065.0,
+      "CoinCountCost": "18.8M",
+      "OffLine": 13062.0,
+      "OffLineCost": "18.8M"
+    },
+    {
+      "CoinCount": 6073.0,
+      "CoinCountCost": "18.8M",
+      "OffLine": 13083.0,
+      "OffLineCost": "18.8M"
+    },
+    {
+      "CoinCount": 6081.0,
+      "CoinCountCost": "18.9M",
+      "OffLine": 13104.0,
+      "OffLineCost": "18.9M"
+    },
+    {
+      "CoinCount": 6089.0,
+      "CoinCountCost": "18.9M",
+      "OffLine": 13125.0,
+      "OffLineCost": "18.9M"
+    },
+    {
+      "CoinCount": 6097.0,
+      "CoinCountCost": "18.9M",
+      "OffLine": 13146.0,
+      "OffLineCost": "18.9M"
+    },
+    {
+      "CoinCount": 6105.0,
+      "CoinCountCost": "19M",
+      "OffLine": 13167.0,
+      "OffLineCost": "19M"
+    },
+    {
+      "CoinCount": 6113.0,
+      "CoinCountCost": "19M",
+      "OffLine": 13188.0,
+      "OffLineCost": "19M"
+    },
+    {
+      "CoinCount": 6121.0,
+      "CoinCountCost": "19M",
+      "OffLine": 13209.0,
+      "OffLineCost": "19M"
+    },
+    {
+      "CoinCount": 6129.0,
+      "CoinCountCost": "19.1M",
+      "OffLine": 13230.0,
+      "OffLineCost": "19.1M"
+    },
+    {
+      "CoinCount": 6137.0,
+      "CoinCountCost": "19.1M",
+      "OffLine": 13251.0,
+      "OffLineCost": "19.1M"
+    },
+    {
+      "CoinCount": 6145.0,
+      "CoinCountCost": "19.1M",
+      "OffLine": 13272.0,
+      "OffLineCost": "19.1M"
+    },
+    {
+      "CoinCount": 6153.0,
+      "CoinCountCost": "19.1M",
+      "OffLine": 13293.0,
+      "OffLineCost": "19.1M"
+    },
+    {
+      "CoinCount": 6161.0,
+      "CoinCountCost": "19.2M",
+      "OffLine": 13314.0,
+      "OffLineCost": "19.2M"
+    },
+    {
+      "CoinCount": 6169.0,
+      "CoinCountCost": "19.2M",
+      "OffLine": 13335.0,
+      "OffLineCost": "19.2M"
+    },
+    {
+      "CoinCount": 6177.0,
+      "CoinCountCost": "19.2M",
+      "OffLine": 13356.0,
+      "OffLineCost": "19.2M"
+    },
+    {
+      "CoinCount": 6185.0,
+      "CoinCountCost": "19.3M",
+      "OffLine": 13377.0,
+      "OffLineCost": "19.3M"
+    },
+    {
+      "CoinCount": 6193.0,
+      "CoinCountCost": "19.3M",
+      "OffLine": 13398.0,
+      "OffLineCost": "19.3M"
+    },
+    {
+      "CoinCount": 6201.0,
+      "CoinCountCost": "19.3M",
+      "OffLine": 13419.0,
+      "OffLineCost": "19.3M"
+    },
+    {
+      "CoinCount": 6209.0,
+      "CoinCountCost": "19.4M",
+      "OffLine": 13440.0,
+      "OffLineCost": "19.4M"
+    },
+    {
+      "CoinCount": 6217.0,
+      "CoinCountCost": "19.4M",
+      "OffLine": 13461.0,
+      "OffLineCost": "19.4M"
+    },
+    {
+      "CoinCount": 6225.0,
+      "CoinCountCost": "19.4M",
+      "OffLine": 13482.0,
+      "OffLineCost": "19.4M"
+    },
+    {
+      "CoinCount": 6233.0,
+      "CoinCountCost": "19.4M",
+      "OffLine": 13503.0,
+      "OffLineCost": "19.4M"
+    },
+    {
+      "CoinCount": 6241.0,
+      "CoinCountCost": "19.5M",
+      "OffLine": 13524.0,
+      "OffLineCost": "19.5M"
+    },
+    {
+      "CoinCount": 6249.0,
+      "CoinCountCost": "19.5M",
+      "OffLine": 13545.0,
+      "OffLineCost": "19.5M"
+    },
+    {
+      "CoinCount": 6257.0,
+      "CoinCountCost": "19.5M",
+      "OffLine": 13566.0,
+      "OffLineCost": "19.5M"
+    },
+    {
+      "CoinCount": 6265.0,
+      "CoinCountCost": "19.6M",
+      "OffLine": 13587.0,
+      "OffLineCost": "19.6M"
+    },
+    {
+      "CoinCount": 6273.0,
+      "CoinCountCost": "19.6M",
+      "OffLine": 13608.0,
+      "OffLineCost": "19.6M"
+    },
+    {
+      "CoinCount": 6281.0,
+      "CoinCountCost": "19.6M",
+      "OffLine": 13629.0,
+      "OffLineCost": "19.6M"
+    },
+    {
+      "CoinCount": 6289.0,
+      "CoinCountCost": "19.7M",
+      "OffLine": 13650.0,
+      "OffLineCost": "19.7M"
+    },
+    {
+      "CoinCount": 6297.0,
+      "CoinCountCost": "19.7M",
+      "OffLine": 13671.0,
+      "OffLineCost": "19.7M"
+    },
+    {
+      "CoinCount": 6305.0,
+      "CoinCountCost": "19.7M",
+      "OffLine": 13692.0,
+      "OffLineCost": "19.7M"
+    },
+    {
+      "CoinCount": 6313.0,
+      "CoinCountCost": "19.7M",
+      "OffLine": 13713.0,
+      "OffLineCost": "19.7M"
+    },
+    {
+      "CoinCount": 6321.0,
+      "CoinCountCost": "19.8M",
+      "OffLine": 13734.0,
+      "OffLineCost": "19.8M"
+    },
+    {
+      "CoinCount": 6329.0,
+      "CoinCountCost": "19.8M",
+      "OffLine": 13755.0,
+      "OffLineCost": "19.8M"
+    },
+    {
+      "CoinCount": 6337.0,
+      "CoinCountCost": "19.8M",
+      "OffLine": 13776.0,
+      "OffLineCost": "19.8M"
+    },
+    {
+      "CoinCount": 6345.0,
+      "CoinCountCost": "19.9M",
+      "OffLine": 13797.0,
+      "OffLineCost": "19.9M"
+    },
+    {
+      "CoinCount": 6353.0,
+      "CoinCountCost": "19.9M",
+      "OffLine": 13818.0,
+      "OffLineCost": "19.9M"
+    },
+    {
+      "CoinCount": 6361.0,
+      "CoinCountCost": "19.9M",
+      "OffLine": 13839.0,
+      "OffLineCost": "19.9M"
+    },
+    {
+      "CoinCount": 6369.0,
+      "CoinCountCost": "20M",
+      "OffLine": 13860.0,
+      "OffLineCost": "20M"
+    },
+    {
+      "CoinCount": 6377.0,
+      "CoinCountCost": "20M",
+      "OffLine": 13881.0,
+      "OffLineCost": "20M"
+    },
+    {
+      "CoinCount": 6385.0,
+      "CoinCountCost": "20M",
+      "OffLine": 13902.0,
+      "OffLineCost": "20M"
+    },
+    {
+      "CoinCount": 6393.0,
+      "CoinCountCost": "20M",
+      "OffLine": 13923.0,
+      "OffLineCost": "20M"
+    },
+    {
+      "CoinCount": 6401.0,
+      "CoinCountCost": "20.1M",
+      "OffLine": 13944.0,
+      "OffLineCost": "20.1M"
+    },
+    {
+      "CoinCount": 6409.0,
+      "CoinCountCost": "20.1M",
+      "OffLine": 13965.0,
+      "OffLineCost": "20.1M"
+    },
+    {
+      "CoinCount": 6417.0,
+      "CoinCountCost": "20.1M",
+      "OffLine": 13986.0,
+      "OffLineCost": "20.1M"
+    },
+    {
+      "CoinCount": 6425.0,
+      "CoinCountCost": "20.2M",
+      "OffLine": 14007.0,
+      "OffLineCost": "20.2M"
+    },
+    {
+      "CoinCount": 6433.0,
+      "CoinCountCost": "20.2M",
+      "OffLine": 14028.0,
+      "OffLineCost": "20.2M"
+    },
+    {
+      "CoinCount": 6441.0,
+      "CoinCountCost": "20.2M",
+      "OffLine": 14049.0,
+      "OffLineCost": "20.2M"
+    },
+    {
+      "CoinCount": 6449.0,
+      "CoinCountCost": "20.3M",
+      "OffLine": 14070.0,
+      "OffLineCost": "20.3M"
+    },
+    {
+      "CoinCount": 6457.0,
+      "CoinCountCost": "20.3M",
+      "OffLine": 14091.0,
+      "OffLineCost": "20.3M"
+    },
+    {
+      "CoinCount": 6465.0,
+      "CoinCountCost": "20.3M",
+      "OffLine": 14112.0,
+      "OffLineCost": "20.3M"
+    },
+    {
+      "CoinCount": 6473.0,
+      "CoinCountCost": "20.4M",
+      "OffLine": 14133.0,
+      "OffLineCost": "20.4M"
+    },
+    {
+      "CoinCount": 6481.0,
+      "CoinCountCost": "20.4M",
+      "OffLine": 14154.0,
+      "OffLineCost": "20.4M"
+    },
+    {
+      "CoinCount": 6489.0,
+      "CoinCountCost": "20.4M",
+      "OffLine": 14175.0,
+      "OffLineCost": "20.4M"
+    },
+    {
+      "CoinCount": 6497.0,
+      "CoinCountCost": "20.4M",
+      "OffLine": 14196.0,
+      "OffLineCost": "20.4M"
+    },
+    {
+      "CoinCount": 6505.0,
+      "CoinCountCost": "20.5M",
+      "OffLine": 14217.0,
+      "OffLineCost": "20.5M"
+    },
+    {
+      "CoinCount": 6513.0,
+      "CoinCountCost": "20.5M",
+      "OffLine": 14238.0,
+      "OffLineCost": "20.5M"
+    },
+    {
+      "CoinCount": 6521.0,
+      "CoinCountCost": "20.5M",
+      "OffLine": 14259.0,
+      "OffLineCost": "20.5M"
+    },
+    {
+      "CoinCount": 6529.0,
+      "CoinCountCost": "20.6M",
+      "OffLine": 14280.0,
+      "OffLineCost": "20.6M"
+    },
+    {
+      "CoinCount": 6537.0,
+      "CoinCountCost": "20.6M",
+      "OffLine": 14301.0,
+      "OffLineCost": "20.6M"
+    },
+    {
+      "CoinCount": 6545.0,
+      "CoinCountCost": "20.6M",
+      "OffLine": 14322.0,
+      "OffLineCost": "20.6M"
+    },
+    {
+      "CoinCount": 6553.0,
+      "CoinCountCost": "20.7M",
+      "OffLine": 14343.0,
+      "OffLineCost": "20.7M"
+    },
+    {
+      "CoinCount": 6561.0,
+      "CoinCountCost": "20.7M",
+      "OffLine": 14364.0,
+      "OffLineCost": "20.7M"
+    },
+    {
+      "CoinCount": 6569.0,
+      "CoinCountCost": "20.7M",
+      "OffLine": 14385.0,
+      "OffLineCost": "20.7M"
+    },
+    {
+      "CoinCount": 6577.0,
+      "CoinCountCost": "20.7M",
+      "OffLine": 14406.0,
+      "OffLineCost": "20.7M"
+    },
+    {
+      "CoinCount": 6585.0,
+      "CoinCountCost": "20.8M",
+      "OffLine": 14427.0,
+      "OffLineCost": "20.8M"
+    },
+    {
+      "CoinCount": 6593.0,
+      "CoinCountCost": "20.8M",
+      "OffLine": 14448.0,
+      "OffLineCost": "20.8M"
+    },
+    {
+      "CoinCount": 6601.0,
+      "CoinCountCost": "20.8M",
+      "OffLine": 14469.0,
+      "OffLineCost": "20.8M"
+    },
+    {
+      "CoinCount": 6609.0,
+      "CoinCountCost": "20.9M",
+      "OffLine": 14490.0,
+      "OffLineCost": "20.9M"
+    },
+    {
+      "CoinCount": 6617.0,
+      "CoinCountCost": "20.9M",
+      "OffLine": 14511.0,
+      "OffLineCost": "20.9M"
+    },
+    {
+      "CoinCount": 6625.0,
+      "CoinCountCost": "20.9M",
+      "OffLine": 14532.0,
+      "OffLineCost": "20.9M"
+    },
+    {
+      "CoinCount": 6633.0,
+      "CoinCountCost": "21M",
+      "OffLine": 14553.0,
+      "OffLineCost": "21M"
+    },
+    {
+      "CoinCount": 6641.0,
+      "CoinCountCost": "21M",
+      "OffLine": 14574.0,
+      "OffLineCost": "21M"
+    },
+    {
+      "CoinCount": 6649.0,
+      "CoinCountCost": "21M",
+      "OffLine": 14595.0,
+      "OffLineCost": "21M"
+    },
+    {
+      "CoinCount": 6657.0,
+      "CoinCountCost": "21M",
+      "OffLine": 14616.0,
+      "OffLineCost": "21M"
+    },
+    {
+      "CoinCount": 6665.0,
+      "CoinCountCost": "21.1M",
+      "OffLine": 14637.0,
+      "OffLineCost": "21.1M"
+    },
+    {
+      "CoinCount": 6673.0,
+      "CoinCountCost": "21.1M",
+      "OffLine": 14658.0,
+      "OffLineCost": "21.1M"
+    },
+    {
+      "CoinCount": 6681.0,
+      "CoinCountCost": "21.1M",
+      "OffLine": 14679.0,
+      "OffLineCost": "21.1M"
+    },
+    {
+      "CoinCount": 6689.0,
+      "CoinCountCost": "21.2M",
+      "OffLine": 14700.0,
+      "OffLineCost": "21.2M"
+    },
+    {
+      "CoinCount": 6697.0,
+      "CoinCountCost": "21.2M",
+      "OffLine": 14721.0,
+      "OffLineCost": "21.2M"
+    },
+    {
+      "CoinCount": 6705.0,
+      "CoinCountCost": "21.2M",
+      "OffLine": 14742.0,
+      "OffLineCost": "21.2M"
+    },
+    {
+      "CoinCount": 6713.0,
+      "CoinCountCost": "21.3M",
+      "OffLine": 14763.0,
+      "OffLineCost": "21.3M"
+    },
+    {
+      "CoinCount": 6721.0,
+      "CoinCountCost": "21.3M",
+      "OffLine": 14784.0,
+      "OffLineCost": "21.3M"
+    },
+    {
+      "CoinCount": 6729.0,
+      "CoinCountCost": "21.3M",
+      "OffLine": 14805.0,
+      "OffLineCost": "21.3M"
+    },
+    {
+      "CoinCount": 6737.0,
+      "CoinCountCost": "21.3M",
+      "OffLine": 14826.0,
+      "OffLineCost": "21.3M"
+    },
+    {
+      "CoinCount": 6745.0,
+      "CoinCountCost": "21.4M",
+      "OffLine": 14847.0,
+      "OffLineCost": "21.4M"
+    },
+    {
+      "CoinCount": 6753.0,
+      "CoinCountCost": "21.4M",
+      "OffLine": 14868.0,
+      "OffLineCost": "21.4M"
+    },
+    {
+      "CoinCount": 6761.0,
+      "CoinCountCost": "21.4M",
+      "OffLine": 14889.0,
+      "OffLineCost": "21.4M"
+    },
+    {
+      "CoinCount": 6769.0,
+      "CoinCountCost": "21.5M",
+      "OffLine": 14910.0,
+      "OffLineCost": "21.5M"
+    },
+    {
+      "CoinCount": 6777.0,
+      "CoinCountCost": "21.5M",
+      "OffLine": 14931.0,
+      "OffLineCost": "21.5M"
+    },
+    {
+      "CoinCount": 6785.0,
+      "CoinCountCost": "21.5M",
+      "OffLine": 14952.0,
+      "OffLineCost": "21.5M"
+    },
+    {
+      "CoinCount": 6793.0,
+      "CoinCountCost": "21.6M",
+      "OffLine": 14973.0,
+      "OffLineCost": "21.6M"
+    },
+    {
+      "CoinCount": 6801.0,
+      "CoinCountCost": "21.6M",
+      "OffLine": 14994.0,
+      "OffLineCost": "21.6M"
+    },
+    {
+      "CoinCount": 6809.0,
+      "CoinCountCost": "21.6M",
+      "OffLine": 15015.0,
+      "OffLineCost": "21.6M"
+    },
+    {
+      "CoinCount": 6817.0,
+      "CoinCountCost": "21.7M",
+      "OffLine": 15036.0,
+      "OffLineCost": "21.7M"
+    },
+    {
+      "CoinCount": 6825.0,
+      "CoinCountCost": "21.7M",
+      "OffLine": 15057.0,
+      "OffLineCost": "21.7M"
+    },
+    {
+      "CoinCount": 6833.0,
+      "CoinCountCost": "21.7M",
+      "OffLine": 15078.0,
+      "OffLineCost": "21.7M"
+    },
+    {
+      "CoinCount": 6841.0,
+      "CoinCountCost": "21.7M",
+      "OffLine": 15099.0,
+      "OffLineCost": "21.7M"
+    },
+    {
+      "CoinCount": 6849.0,
+      "CoinCountCost": "21.8M",
+      "OffLine": 15120.0,
+      "OffLineCost": "21.8M"
+    },
+    {
+      "CoinCount": 6857.0,
+      "CoinCountCost": "21.8M",
+      "OffLine": 15141.0,
+      "OffLineCost": "21.8M"
+    },
+    {
+      "CoinCount": 6865.0,
+      "CoinCountCost": "21.8M",
+      "OffLine": 15162.0,
+      "OffLineCost": "21.8M"
+    },
+    {
+      "CoinCount": 6873.0,
+      "CoinCountCost": "21.9M",
+      "OffLine": 15183.0,
+      "OffLineCost": "21.9M"
+    },
+    {
+      "CoinCount": 6881.0,
+      "CoinCountCost": "21.9M",
+      "OffLine": 15204.0,
+      "OffLineCost": "21.9M"
+    },
+    {
+      "CoinCount": 6889.0,
+      "CoinCountCost": "21.9M",
+      "OffLine": 15225.0,
+      "OffLineCost": "21.9M"
+    },
+    {
+      "CoinCount": 6897.0,
+      "CoinCountCost": "22M",
+      "OffLine": 15246.0,
+      "OffLineCost": "22M"
+    },
+    {
+      "CoinCount": 6905.0,
+      "CoinCountCost": "22M",
+      "OffLine": 15267.0,
+      "OffLineCost": "22M"
+    },
+    {
+      "CoinCount": 6913.0,
+      "CoinCountCost": "22M",
+      "OffLine": 15288.0,
+      "OffLineCost": "22M"
+    },
+    {
+      "CoinCount": 6921.0,
+      "CoinCountCost": "22M",
+      "OffLine": 15309.0,
+      "OffLineCost": "22M"
+    },
+    {
+      "CoinCount": 6929.0,
+      "CoinCountCost": "22.1M",
+      "OffLine": 15330.0,
+      "OffLineCost": "22.1M"
+    },
+    {
+      "CoinCount": 6937.0,
+      "CoinCountCost": "22.1M",
+      "OffLine": 15351.0,
+      "OffLineCost": "22.1M"
+    },
+    {
+      "CoinCount": 6945.0,
+      "CoinCountCost": "22.1M",
+      "OffLine": 15372.0,
+      "OffLineCost": "22.1M"
+    },
+    {
+      "CoinCount": 6953.0,
+      "CoinCountCost": "22.2M",
+      "OffLine": 15393.0,
+      "OffLineCost": "22.2M"
+    },
+    {
+      "CoinCount": 6961.0,
+      "CoinCountCost": "22.2M",
+      "OffLine": 15414.0,
+      "OffLineCost": "22.2M"
+    },
+    {
+      "CoinCount": 6969.0,
+      "CoinCountCost": "22.2M",
+      "OffLine": 15435.0,
+      "OffLineCost": "22.2M"
+    },
+    {
+      "CoinCount": 6977.0,
+      "CoinCountCost": "22.3M",
+      "OffLine": 15456.0,
+      "OffLineCost": "22.3M"
+    },
+    {
+      "CoinCount": 6985.0,
+      "CoinCountCost": "22.3M",
+      "OffLine": 15477.0,
+      "OffLineCost": "22.3M"
+    },
+    {
+      "CoinCount": 6993.0,
+      "CoinCountCost": "22.3M",
+      "OffLine": 15498.0,
+      "OffLineCost": "22.3M"
+    },
+    {
+      "CoinCount": 7001.0,
+      "CoinCountCost": "22.3M",
+      "OffLine": 15519.0,
+      "OffLineCost": "22.3M"
+    },
+    {
+      "CoinCount": 7009.0,
+      "CoinCountCost": "22.4M",
+      "OffLine": 15540.0,
+      "OffLineCost": "22.4M"
+    },
+    {
+      "CoinCount": 7017.0,
+      "CoinCountCost": "22.4M",
+      "OffLine": 15561.0,
+      "OffLineCost": "22.4M"
+    },
+    {
+      "CoinCount": 7025.0,
+      "CoinCountCost": "22.4M",
+      "OffLine": 15582.0,
+      "OffLineCost": "22.4M"
+    },
+    {
+      "CoinCount": 7033.0,
+      "CoinCountCost": "22.5M",
+      "OffLine": 15603.0,
+      "OffLineCost": "22.5M"
+    },
+    {
+      "CoinCount": 7041.0,
+      "CoinCountCost": "22.5M",
+      "OffLine": 15624.0,
+      "OffLineCost": "22.5M"
+    },
+    {
+      "CoinCount": 7049.0,
+      "CoinCountCost": "22.5M",
+      "OffLine": 15645.0,
+      "OffLineCost": "22.5M"
+    },
+    {
+      "CoinCount": 7057.0,
+      "CoinCountCost": "22.6M",
+      "OffLine": 15666.0,
+      "OffLineCost": "22.6M"
+    },
+    {
+      "CoinCount": 7065.0,
+      "CoinCountCost": "22.6M",
+      "OffLine": 15687.0,
+      "OffLineCost": "22.6M"
+    },
+    {
+      "CoinCount": 7073.0,
+      "CoinCountCost": "22.6M",
+      "OffLine": 15708.0,
+      "OffLineCost": "22.6M"
+    },
+    {
+      "CoinCount": 7081.0,
+      "CoinCountCost": "22.6M",
+      "OffLine": 15729.0,
+      "OffLineCost": "22.6M"
+    },
+    {
+      "CoinCount": 7089.0,
+      "CoinCountCost": "22.7M",
+      "OffLine": 15750.0,
+      "OffLineCost": "22.7M"
+    },
+    {
+      "CoinCount": 7097.0,
+      "CoinCountCost": "22.7M",
+      "OffLine": 15771.0,
+      "OffLineCost": "22.7M"
+    },
+    {
+      "CoinCount": 7105.0,
+      "CoinCountCost": "22.7M",
+      "OffLine": 15792.0,
+      "OffLineCost": "22.7M"
+    },
+    {
+      "CoinCount": 7113.0,
+      "CoinCountCost": "22.8M",
+      "OffLine": 15813.0,
+      "OffLineCost": "22.8M"
+    },
+    {
+      "CoinCount": 7121.0,
+      "CoinCountCost": "22.8M",
+      "OffLine": 15834.0,
+      "OffLineCost": "22.8M"
+    },
+    {
+      "CoinCount": 7129.0,
+      "CoinCountCost": "22.8M",
+      "OffLine": 15855.0,
+      "OffLineCost": "22.8M"
+    },
+    {
+      "CoinCount": 7137.0,
+      "CoinCountCost": "22.9M",
+      "OffLine": 15876.0,
+      "OffLineCost": "22.9M"
+    },
+    {
+      "CoinCount": 7145.0,
+      "CoinCountCost": "22.9M",
+      "OffLine": 15897.0,
+      "OffLineCost": "22.9M"
+    },
+    {
+      "CoinCount": 7153.0,
+      "CoinCountCost": "22.9M",
+      "OffLine": 15918.0,
+      "OffLineCost": "22.9M"
+    },
+    {
+      "CoinCount": 7161.0,
+      "CoinCountCost": "23M",
+      "OffLine": 15939.0,
+      "OffLineCost": "23M"
+    },
+    {
+      "CoinCount": 7169.0,
+      "CoinCountCost": "23M",
+      "OffLine": 15960.0,
+      "OffLineCost": "23M"
+    },
+    {
+      "CoinCount": 7177.0,
+      "CoinCountCost": "23M",
+      "OffLine": 15981.0,
+      "OffLineCost": "23M"
+    },
+    {
+      "CoinCount": 7185.0,
+      "CoinCountCost": "23M",
+      "OffLine": 16002.0,
+      "OffLineCost": "23M"
+    },
+    {
+      "CoinCount": 7193.0,
+      "CoinCountCost": "23.1M",
+      "OffLine": 16023.0,
+      "OffLineCost": "23.1M"
+    },
+    {
+      "CoinCount": 7201.0,
+      "CoinCountCost": "23.1M",
+      "OffLine": 16044.0,
+      "OffLineCost": "23.1M"
+    },
+    {
+      "CoinCount": 7209.0,
+      "CoinCountCost": "23.1M",
+      "OffLine": 16065.0,
+      "OffLineCost": "23.1M"
+    },
+    {
+      "CoinCount": 7217.0,
+      "CoinCountCost": "23.2M",
+      "OffLine": 16086.0,
+      "OffLineCost": "23.2M"
+    },
+    {
+      "CoinCount": 7225.0,
+      "CoinCountCost": "23.2M",
+      "OffLine": 16107.0,
+      "OffLineCost": "23.2M"
+    },
+    {
+      "CoinCount": 7233.0,
+      "CoinCountCost": "23.2M",
+      "OffLine": 16128.0,
+      "OffLineCost": "23.2M"
+    },
+    {
+      "CoinCount": 7241.0,
+      "CoinCountCost": "23.3M",
+      "OffLine": 16149.0,
+      "OffLineCost": "23.3M"
+    },
+    {
+      "CoinCount": 7249.0,
+      "CoinCountCost": "23.3M",
+      "OffLine": 16170.0,
+      "OffLineCost": "23.3M"
+    },
+    {
+      "CoinCount": 7257.0,
+      "CoinCountCost": "23.3M",
+      "OffLine": 16191.0,
+      "OffLineCost": "23.3M"
+    },
+    {
+      "CoinCount": 7265.0,
+      "CoinCountCost": "23.3M",
+      "OffLine": 16212.0,
+      "OffLineCost": "23.3M"
+    },
+    {
+      "CoinCount": 7273.0,
+      "CoinCountCost": "23.4M",
+      "OffLine": 16233.0,
+      "OffLineCost": "23.4M"
+    },
+    {
+      "CoinCount": 7281.0,
+      "CoinCountCost": "23.4M",
+      "OffLine": 16254.0,
+      "OffLineCost": "23.4M"
+    },
+    {
+      "CoinCount": 7289.0,
+      "CoinCountCost": "23.4M",
+      "OffLine": 16275.0,
+      "OffLineCost": "23.4M"
+    },
+    {
+      "CoinCount": 7297.0,
+      "CoinCountCost": "23.5M",
+      "OffLine": 16296.0,
+      "OffLineCost": "23.5M"
+    },
+    {
+      "CoinCount": 7305.0,
+      "CoinCountCost": "23.5M",
+      "OffLine": 16317.0,
+      "OffLineCost": "23.5M"
+    },
+    {
+      "CoinCount": 7313.0,
+      "CoinCountCost": "23.5M",
+      "OffLine": 16338.0,
+      "OffLineCost": "23.5M"
+    },
+    {
+      "CoinCount": 7321.0,
+      "CoinCountCost": "23.6M",
+      "OffLine": 16359.0,
+      "OffLineCost": "23.6M"
+    },
+    {
+      "CoinCount": 7329.0,
+      "CoinCountCost": "23.6M",
+      "OffLine": 16380.0,
+      "OffLineCost": "23.6M"
+    },
+    {
+      "CoinCount": 7337.0,
+      "CoinCountCost": "23.6M",
+      "OffLine": 16401.0,
+      "OffLineCost": "23.6M"
+    },
+    {
+      "CoinCount": 7345.0,
+      "CoinCountCost": "23.6M",
+      "OffLine": 16422.0,
+      "OffLineCost": "23.6M"
+    },
+    {
+      "CoinCount": 7353.0,
+      "CoinCountCost": "23.7M",
+      "OffLine": 16443.0,
+      "OffLineCost": "23.7M"
+    },
+    {
+      "CoinCount": 7361.0,
+      "CoinCountCost": "23.7M",
+      "OffLine": 16464.0,
+      "OffLineCost": "23.7M"
+    },
+    {
+      "CoinCount": 7369.0,
+      "CoinCountCost": "23.7M",
+      "OffLine": 16485.0,
+      "OffLineCost": "23.7M"
+    },
+    {
+      "CoinCount": 7377.0,
+      "CoinCountCost": "23.8M",
+      "OffLine": 16506.0,
+      "OffLineCost": "23.8M"
+    },
+    {
+      "CoinCount": 7385.0,
+      "CoinCountCost": "23.8M",
+      "OffLine": 16527.0,
+      "OffLineCost": "23.8M"
+    },
+    {
+      "CoinCount": 7393.0,
+      "CoinCountCost": "23.8M",
+      "OffLine": 16548.0,
+      "OffLineCost": "23.8M"
+    },
+    {
+      "CoinCount": 7401.0,
+      "CoinCountCost": "23.9M",
+      "OffLine": 16569.0,
+      "OffLineCost": "23.9M"
+    },
+    {
+      "CoinCount": 7409.0,
+      "CoinCountCost": "23.9M",
+      "OffLine": 16590.0,
+      "OffLineCost": "23.9M"
+    },
+    {
+      "CoinCount": 7417.0,
+      "CoinCountCost": "23.9M",
+      "OffLine": 16611.0,
+      "OffLineCost": "23.9M"
+    },
+    {
+      "CoinCount": 7425.0,
+      "CoinCountCost": "24M",
+      "OffLine": 16632.0,
+      "OffLineCost": "24M"
+    },
+    {
+      "CoinCount": 7433.0,
+      "CoinCountCost": "24M",
+      "OffLine": 16653.0,
+      "OffLineCost": "24M"
+    },
+    {
+      "CoinCount": 7441.0,
+      "CoinCountCost": "24M",
+      "OffLine": 16674.0,
+      "OffLineCost": "24M"
+    },
+    {
+      "CoinCount": 7449.0,
+      "CoinCountCost": "24M",
+      "OffLine": 16695.0,
+      "OffLineCost": "24M"
+    },
+    {
+      "CoinCount": 7457.0,
+      "CoinCountCost": "24.1M",
+      "OffLine": 16716.0,
+      "OffLineCost": "24.1M"
+    },
+    {
+      "CoinCount": 7465.0,
+      "CoinCountCost": "24.1M",
+      "OffLine": 16737.0,
+      "OffLineCost": "24.1M"
+    },
+    {
+      "CoinCount": 7473.0,
+      "CoinCountCost": "24.1M",
+      "OffLine": 16758.0,
+      "OffLineCost": "24.1M"
+    },
+    {
+      "CoinCount": 7481.0,
+      "CoinCountCost": "24.2M",
+      "OffLine": 16779.0,
+      "OffLineCost": "24.2M"
+    },
+    {
+      "CoinCount": 7489.0,
+      "CoinCountCost": "24.2M",
+      "OffLine": 16800.0,
+      "OffLineCost": "24.2M"
+    },
+    {
+      "CoinCount": 7497.0,
+      "CoinCountCost": "24.2M",
+      "OffLine": 16821.0,
+      "OffLineCost": "24.2M"
+    },
+    {
+      "CoinCount": 7505.0,
+      "CoinCountCost": "24.3M",
+      "OffLine": 16842.0,
+      "OffLineCost": "24.3M"
+    },
+    {
+      "CoinCount": 7513.0,
+      "CoinCountCost": "24.3M",
+      "OffLine": 16863.0,
+      "OffLineCost": "24.3M"
+    },
+    {
+      "CoinCount": 7521.0,
+      "CoinCountCost": "24.3M",
+      "OffLine": 16884.0,
+      "OffLineCost": "24.3M"
+    },
+    {
+      "CoinCount": 7529.0,
+      "CoinCountCost": "24.3M",
+      "OffLine": 16905.0,
+      "OffLineCost": "24.3M"
+    },
+    {
+      "CoinCount": 7537.0,
+      "CoinCountCost": "24.4M",
+      "OffLine": 16926.0,
+      "OffLineCost": "24.4M"
+    },
+    {
+      "CoinCount": 7545.0,
+      "CoinCountCost": "24.4M",
+      "OffLine": 16947.0,
+      "OffLineCost": "24.4M"
+    },
+    {
+      "CoinCount": 7553.0,
+      "CoinCountCost": "24.4M",
+      "OffLine": 16968.0,
+      "OffLineCost": "24.4M"
+    },
+    {
+      "CoinCount": 7561.0,
+      "CoinCountCost": "24.5M",
+      "OffLine": 16989.0,
+      "OffLineCost": "24.5M"
+    },
+    {
+      "CoinCount": 7569.0,
+      "CoinCountCost": "24.5M",
+      "OffLine": 17010.0,
+      "OffLineCost": "24.5M"
+    },
+    {
+      "CoinCount": 7577.0,
+      "CoinCountCost": "24.5M",
+      "OffLine": 17031.0,
+      "OffLineCost": "24.5M"
+    },
+    {
+      "CoinCount": 7585.0,
+      "CoinCountCost": "24.6M",
+      "OffLine": 17052.0,
+      "OffLineCost": "24.6M"
+    },
+    {
+      "CoinCount": 7593.0,
+      "CoinCountCost": "24.6M",
+      "OffLine": 17073.0,
+      "OffLineCost": "24.6M"
+    },
+    {
+      "CoinCount": 7601.0,
+      "CoinCountCost": "24.6M",
+      "OffLine": 17094.0,
+      "OffLineCost": "24.6M"
+    },
+    {
+      "CoinCount": 7609.0,
+      "CoinCountCost": "24.6M",
+      "OffLine": 17115.0,
+      "OffLineCost": "24.6M"
+    },
+    {
+      "CoinCount": 7617.0,
+      "CoinCountCost": "24.7M",
+      "OffLine": 17136.0,
+      "OffLineCost": "24.7M"
+    },
+    {
+      "CoinCount": 7625.0,
+      "CoinCountCost": "24.7M",
+      "OffLine": 17157.0,
+      "OffLineCost": "24.7M"
+    },
+    {
+      "CoinCount": 7633.0,
+      "CoinCountCost": "24.7M",
+      "OffLine": 17178.0,
+      "OffLineCost": "24.7M"
+    },
+    {
+      "CoinCount": 7641.0,
+      "CoinCountCost": "24.8M",
+      "OffLine": 17199.0,
+      "OffLineCost": "24.8M"
+    },
+    {
+      "CoinCount": 7649.0,
+      "CoinCountCost": "24.8M",
+      "OffLine": 17220.0,
+      "OffLineCost": "24.8M"
+    },
+    {
+      "CoinCount": 7657.0,
+      "CoinCountCost": "24.8M",
+      "OffLine": 17241.0,
+      "OffLineCost": "24.8M"
+    },
+    {
+      "CoinCount": 7665.0,
+      "CoinCountCost": "24.9M",
+      "OffLine": 17262.0,
+      "OffLineCost": "24.9M"
+    },
+    {
+      "CoinCount": 7673.0,
+      "CoinCountCost": "24.9M",
+      "OffLine": 17283.0,
+      "OffLineCost": "24.9M"
+    },
+    {
+      "CoinCount": 7681.0,
+      "CoinCountCost": "24.9M",
+      "OffLine": 17304.0,
+      "OffLineCost": "24.9M"
+    },
+    {
+      "CoinCount": 7689.0,
+      "CoinCountCost": "24.9M",
+      "OffLine": 17325.0,
+      "OffLineCost": "24.9M"
+    },
+    {
+      "CoinCount": 7697.0,
+      "CoinCountCost": "25M",
+      "OffLine": 17346.0,
+      "OffLineCost": "25M"
+    },
+    {
+      "CoinCount": 7705.0,
+      "CoinCountCost": "25M",
+      "OffLine": 17367.0,
+      "OffLineCost": "25M"
+    },
+    {
+      "CoinCount": 7713.0,
+      "CoinCountCost": "25M",
+      "OffLine": 17388.0,
+      "OffLineCost": "25M"
+    },
+    {
+      "CoinCount": 7721.0,
+      "CoinCountCost": "25.1M",
+      "OffLine": 17409.0,
+      "OffLineCost": "25.1M"
+    },
+    {
+      "CoinCount": 7729.0,
+      "CoinCountCost": "25.1M",
+      "OffLine": 17430.0,
+      "OffLineCost": "25.1M"
+    },
+    {
+      "CoinCount": 7737.0,
+      "CoinCountCost": "25.1M",
+      "OffLine": 17451.0,
+      "OffLineCost": "25.1M"
+    },
+    {
+      "CoinCount": 7745.0,
+      "CoinCountCost": "25.2M",
+      "OffLine": 17472.0,
+      "OffLineCost": "25.2M"
+    },
+    {
+      "CoinCount": 7753.0,
+      "CoinCountCost": "25.2M",
+      "OffLine": 17493.0,
+      "OffLineCost": "25.2M"
+    },
+    {
+      "CoinCount": 7761.0,
+      "CoinCountCost": "25.2M",
+      "OffLine": 17514.0,
+      "OffLineCost": "25.2M"
+    },
+    {
+      "CoinCount": 7769.0,
+      "CoinCountCost": "25.3M",
+      "OffLine": 17535.0,
+      "OffLineCost": "25.3M"
+    },
+    {
+      "CoinCount": 7777.0,
+      "CoinCountCost": "25.3M",
+      "OffLine": 17556.0,
+      "OffLineCost": "25.3M"
+    },
+    {
+      "CoinCount": 7785.0,
+      "CoinCountCost": "25.3M",
+      "OffLine": 17577.0,
+      "OffLineCost": "25.3M"
+    },
+    {
+      "CoinCount": 7793.0,
+      "CoinCountCost": "25.3M",
+      "OffLine": 17598.0,
+      "OffLineCost": "25.3M"
+    },
+    {
+      "CoinCount": 7801.0,
+      "CoinCountCost": "25.4M",
+      "OffLine": 17619.0,
+      "OffLineCost": "25.4M"
+    },
+    {
+      "CoinCount": 7809.0,
+      "CoinCountCost": "25.4M",
+      "OffLine": 17640.0,
+      "OffLineCost": "25.4M"
+    },
+    {
+      "CoinCount": 7817.0,
+      "CoinCountCost": "25.4M",
+      "OffLine": 17661.0,
+      "OffLineCost": "25.4M"
+    },
+    {
+      "CoinCount": 7825.0,
+      "CoinCountCost": "25.5M",
+      "OffLine": 17682.0,
+      "OffLineCost": "25.5M"
+    },
+    {
+      "CoinCount": 7833.0,
+      "CoinCountCost": "25.5M",
+      "OffLine": 17703.0,
+      "OffLineCost": "25.5M"
+    },
+    {
+      "CoinCount": 7841.0,
+      "CoinCountCost": "25.5M",
+      "OffLine": 17724.0,
+      "OffLineCost": "25.5M"
+    },
+    {
+      "CoinCount": 7849.0,
+      "CoinCountCost": "25.6M",
+      "OffLine": 17745.0,
+      "OffLineCost": "25.6M"
+    },
+    {
+      "CoinCount": 7857.0,
+      "CoinCountCost": "25.6M",
+      "OffLine": 17766.0,
+      "OffLineCost": "25.6M"
+    },
+    {
+      "CoinCount": 7865.0,
+      "CoinCountCost": "25.6M",
+      "OffLine": 17787.0,
+      "OffLineCost": "25.6M"
+    },
+    {
+      "CoinCount": 7873.0,
+      "CoinCountCost": "25.6M",
+      "OffLine": 17808.0,
+      "OffLineCost": "25.6M"
+    },
+    {
+      "CoinCount": 7881.0,
+      "CoinCountCost": "25.7M",
+      "OffLine": 17829.0,
+      "OffLineCost": "25.7M"
+    },
+    {
+      "CoinCount": 7889.0,
+      "CoinCountCost": "25.7M",
+      "OffLine": 17850.0,
+      "OffLineCost": "25.7M"
+    },
+    {
+      "CoinCount": 7897.0,
+      "CoinCountCost": "25.7M",
+      "OffLine": 17871.0,
+      "OffLineCost": "25.7M"
+    },
+    {
+      "CoinCount": 7905.0,
+      "CoinCountCost": "25.8M",
+      "OffLine": 17892.0,
+      "OffLineCost": "25.8M"
+    },
+    {
+      "CoinCount": 7913.0,
+      "CoinCountCost": "25.8M",
+      "OffLine": 17913.0,
+      "OffLineCost": "25.8M"
+    },
+    {
+      "CoinCount": 7921.0,
+      "CoinCountCost": "25.8M",
+      "OffLine": 17934.0,
+      "OffLineCost": "25.8M"
+    },
+    {
+      "CoinCount": 7929.0,
+      "CoinCountCost": "25.9M",
+      "OffLine": 17955.0,
+      "OffLineCost": "25.9M"
+    },
+    {
+      "CoinCount": 7937.0,
+      "CoinCountCost": "25.9M",
+      "OffLine": 17976.0,
+      "OffLineCost": "25.9M"
+    },
+    {
+      "CoinCount": 7945.0,
+      "CoinCountCost": "25.9M",
+      "OffLine": 17997.0,
+      "OffLineCost": "25.9M"
+    },
+    {
+      "CoinCount": 7953.0,
+      "CoinCountCost": "25.9M",
+      "OffLine": 18018.0,
+      "OffLineCost": "25.9M"
+    },
+    {
+      "CoinCount": 7961.0,
+      "CoinCountCost": "26M",
+      "OffLine": 18039.0,
+      "OffLineCost": "26M"
+    },
+    {
+      "CoinCount": 7969.0,
+      "CoinCountCost": "26M",
+      "OffLine": 18060.0,
+      "OffLineCost": "26M"
+    },
+    {
+      "CoinCount": 7977.0,
+      "CoinCountCost": "26M",
+      "OffLine": 18081.0,
+      "OffLineCost": "26M"
+    },
+    {
+      "CoinCount": 7985.0,
+      "CoinCountCost": "26.1M",
+      "OffLine": 18102.0,
+      "OffLineCost": "26.1M"
+    },
+    {
+      "CoinCount": 7993.0,
+      "CoinCountCost": "26.1M",
+      "OffLine": 18123.0,
+      "OffLineCost": "26.1M"
+    },
+    {
+      "CoinCount": 8001.0,
+      "CoinCountCost": "26.1M",
+      "OffLine": 18144.0,
+      "OffLineCost": "26.1M"
+    },
+    {
+      "CoinCount": 8009.0,
+      "CoinCountCost": "26.2M",
+      "OffLine": 18165.0,
+      "OffLineCost": "26.2M"
+    },
+    {
+      "CoinCount": 8017.0,
+      "CoinCountCost": "26.2M",
+      "OffLine": 18186.0,
+      "OffLineCost": "26.2M"
+    },
+    {
+      "CoinCount": 8025.0,
+      "CoinCountCost": "26.2M",
+      "OffLine": 18207.0,
+      "OffLineCost": "26.2M"
+    },
+    {
+      "CoinCount": 8033.0,
+      "CoinCountCost": "26.2M",
+      "OffLine": 18228.0,
+      "OffLineCost": "26.2M"
+    },
+    {
+      "CoinCount": 8041.0,
+      "CoinCountCost": "26.3M",
+      "OffLine": 18249.0,
+      "OffLineCost": "26.3M"
+    },
+    {
+      "CoinCount": 8049.0,
+      "CoinCountCost": "26.3M",
+      "OffLine": 18270.0,
+      "OffLineCost": "26.3M"
+    },
+    {
+      "CoinCount": 8057.0,
+      "CoinCountCost": "26.3M",
+      "OffLine": 18291.0,
+      "OffLineCost": "26.3M"
+    },
+    {
+      "CoinCount": 8065.0,
+      "CoinCountCost": "26.4M",
+      "OffLine": 18312.0,
+      "OffLineCost": "26.4M"
+    },
+    {
+      "CoinCount": 8073.0,
+      "CoinCountCost": "26.4M",
+      "OffLine": 18333.0,
+      "OffLineCost": "26.4M"
+    },
+    {
+      "CoinCount": 8081.0,
+      "CoinCountCost": "26.4M",
+      "OffLine": 18354.0,
+      "OffLineCost": "26.4M"
+    },
+    {
+      "CoinCount": 8089.0,
+      "CoinCountCost": "26.5M",
+      "OffLine": 18375.0,
+      "OffLineCost": "26.5M"
+    },
+    {
+      "CoinCount": 8097.0,
+      "CoinCountCost": "26.5M",
+      "OffLine": 18396.0,
+      "OffLineCost": "26.5M"
+    },
+    {
+      "CoinCount": 8105.0,
+      "CoinCountCost": "26.5M",
+      "OffLine": 18417.0,
+      "OffLineCost": "26.5M"
+    },
+    {
+      "CoinCount": 8113.0,
+      "CoinCountCost": "26.6M",
+      "OffLine": 18438.0,
+      "OffLineCost": "26.6M"
+    },
+    {
+      "CoinCount": 8121.0,
+      "CoinCountCost": "26.6M",
+      "OffLine": 18459.0,
+      "OffLineCost": "26.6M"
+    },
+    {
+      "CoinCount": 8129.0,
+      "CoinCountCost": "26.6M",
+      "OffLine": 18480.0,
+      "OffLineCost": "26.6M"
+    },
+    {
+      "CoinCount": 8137.0,
+      "CoinCountCost": "26.6M",
+      "OffLine": 18501.0,
+      "OffLineCost": "26.6M"
+    },
+    {
+      "CoinCount": 8145.0,
+      "CoinCountCost": "26.7M",
+      "OffLine": 18522.0,
+      "OffLineCost": "26.7M"
+    },
+    {
+      "CoinCount": 8153.0,
+      "CoinCountCost": "26.7M",
+      "OffLine": 18543.0,
+      "OffLineCost": "26.7M"
+    },
+    {
+      "CoinCount": 8161.0,
+      "CoinCountCost": "26.7M",
+      "OffLine": 18564.0,
+      "OffLineCost": "26.7M"
+    },
+    {
+      "CoinCount": 8169.0,
+      "CoinCountCost": "26.8M",
+      "OffLine": 18585.0,
+      "OffLineCost": "26.8M"
+    },
+    {
+      "CoinCount": 8177.0,
+      "CoinCountCost": "26.8M",
+      "OffLine": 18606.0,
+      "OffLineCost": "26.8M"
+    },
+    {
+      "CoinCount": 8185.0,
+      "CoinCountCost": "26.8M",
+      "OffLine": 18627.0,
+      "OffLineCost": "26.8M"
+    },
+    {
+      "CoinCount": 8193.0,
+      "CoinCountCost": "26.9M",
+      "OffLine": 18648.0,
+      "OffLineCost": "26.9M"
+    },
+    {
+      "CoinCount": 8201.0,
+      "CoinCountCost": "26.9M",
+      "OffLine": 18669.0,
+      "OffLineCost": "26.9M"
+    },
+    {
+      "CoinCount": 8209.0,
+      "CoinCountCost": "26.9M",
+      "OffLine": 18690.0,
+      "OffLineCost": "26.9M"
+    },
+    {
+      "CoinCount": 8217.0,
+      "CoinCountCost": "26.9M",
+      "OffLine": 18711.0,
+      "OffLineCost": "26.9M"
+    },
+    {
+      "CoinCount": 8225.0,
+      "CoinCountCost": "27M",
+      "OffLine": 18732.0,
+      "OffLineCost": "27M"
+    },
+    {
+      "CoinCount": 8233.0,
+      "CoinCountCost": "27M",
+      "OffLine": 18753.0,
+      "OffLineCost": "27M"
+    },
+    {
+      "CoinCount": 8241.0,
+      "CoinCountCost": "27M",
+      "OffLine": 18774.0,
+      "OffLineCost": "27M"
+    },
+    {
+      "CoinCount": 8249.0,
+      "CoinCountCost": "27.1M",
+      "OffLine": 18795.0,
+      "OffLineCost": "27.1M"
+    },
+    {
+      "CoinCount": 8257.0,
+      "CoinCountCost": "27.1M",
+      "OffLine": 18816.0,
+      "OffLineCost": "27.1M"
+    },
+    {
+      "CoinCount": 8265.0,
+      "CoinCountCost": "27.1M",
+      "OffLine": 18837.0,
+      "OffLineCost": "27.1M"
+    },
+    {
+      "CoinCount": 8273.0,
+      "CoinCountCost": "27.2M",
+      "OffLine": 18858.0,
+      "OffLineCost": "27.2M"
+    },
+    {
+      "CoinCount": 8281.0,
+      "CoinCountCost": "27.2M",
+      "OffLine": 18879.0,
+      "OffLineCost": "27.2M"
+    },
+    {
+      "CoinCount": 8289.0,
+      "CoinCountCost": "27.2M",
+      "OffLine": 18900.0,
+      "OffLineCost": "27.2M"
+    },
+    {
+      "CoinCount": 8297.0,
+      "CoinCountCost": "27.2M",
+      "OffLine": 18921.0,
+      "OffLineCost": "27.2M"
+    },
+    {
+      "CoinCount": 8305.0,
+      "CoinCountCost": "27.3M",
+      "OffLine": 18942.0,
+      "OffLineCost": "27.3M"
+    },
+    {
+      "CoinCount": 8313.0,
+      "CoinCountCost": "27.3M",
+      "OffLine": 18963.0,
+      "OffLineCost": "27.3M"
+    },
+    {
+      "CoinCount": 8321.0,
+      "CoinCountCost": "27.3M",
+      "OffLine": 18984.0,
+      "OffLineCost": "27.3M"
+    },
+    {
+      "CoinCount": 8329.0,
+      "CoinCountCost": "27.4M",
+      "OffLine": 19005.0,
+      "OffLineCost": "27.4M"
+    },
+    {
+      "CoinCount": 8337.0,
+      "CoinCountCost": "27.4M",
+      "OffLine": 19026.0,
+      "OffLineCost": "27.4M"
+    },
+    {
+      "CoinCount": 8345.0,
+      "CoinCountCost": "27.4M",
+      "OffLine": 19047.0,
+      "OffLineCost": "27.4M"
+    },
+    {
+      "CoinCount": 8353.0,
+      "CoinCountCost": "27.5M",
+      "OffLine": 19068.0,
+      "OffLineCost": "27.5M"
+    },
+    {
+      "CoinCount": 8361.0,
+      "CoinCountCost": "27.5M",
+      "OffLine": 19089.0,
+      "OffLineCost": "27.5M"
+    },
+    {
+      "CoinCount": 8369.0,
+      "CoinCountCost": "27.5M",
+      "OffLine": 19110.0,
+      "OffLineCost": "27.5M"
+    },
+    {
+      "CoinCount": 8377.0,
+      "CoinCountCost": "27.5M",
+      "OffLine": 19131.0,
+      "OffLineCost": "27.5M"
+    },
+    {
+      "CoinCount": 8385.0,
+      "CoinCountCost": "27.6M",
+      "OffLine": 19152.0,
+      "OffLineCost": "27.6M"
+    },
+    {
+      "CoinCount": 8393.0,
+      "CoinCountCost": "27.6M",
+      "OffLine": 19173.0,
+      "OffLineCost": "27.6M"
+    },
+    {
+      "CoinCount": 8401.0,
+      "CoinCountCost": "27.6M",
+      "OffLine": 19194.0,
+      "OffLineCost": "27.6M"
+    },
+    {
+      "CoinCount": 8409.0,
+      "CoinCountCost": "27.7M",
+      "OffLine": 19215.0,
+      "OffLineCost": "27.7M"
+    },
+    {
+      "CoinCount": 8417.0,
+      "CoinCountCost": "27.7M",
+      "OffLine": 19236.0,
+      "OffLineCost": "27.7M"
+    },
+    {
+      "CoinCount": 8425.0,
+      "CoinCountCost": "27.7M",
+      "OffLine": 19257.0,
+      "OffLineCost": "27.7M"
+    },
+    {
+      "CoinCount": 8433.0,
+      "CoinCountCost": "27.8M",
+      "OffLine": 19278.0,
+      "OffLineCost": "27.8M"
+    },
+    {
+      "CoinCount": 8441.0,
+      "CoinCountCost": "27.8M",
+      "OffLine": 19299.0,
+      "OffLineCost": "27.8M"
+    },
+    {
+      "CoinCount": 8449.0,
+      "CoinCountCost": "27.8M",
+      "OffLine": 19320.0,
+      "OffLineCost": "27.8M"
+    },
+    {
+      "CoinCount": 8457.0,
+      "CoinCountCost": "27.9M",
+      "OffLine": 19341.0,
+      "OffLineCost": "27.9M"
+    },
+    {
+      "CoinCount": 8465.0,
+      "CoinCountCost": "27.9M",
+      "OffLine": 19362.0,
+      "OffLineCost": "27.9M"
+    },
+    {
+      "CoinCount": 8473.0,
+      "CoinCountCost": "27.9M",
+      "OffLine": 19383.0,
+      "OffLineCost": "27.9M"
+    },
+    {
+      "CoinCount": 8481.0,
+      "CoinCountCost": "27.9M",
+      "OffLine": 19404.0,
+      "OffLineCost": "27.9M"
+    },
+    {
+      "CoinCount": 8489.0,
+      "CoinCountCost": "28M",
+      "OffLine": 19425.0,
+      "OffLineCost": "28M"
+    },
+    {
+      "CoinCount": 8497.0,
+      "CoinCountCost": "28M",
+      "OffLine": 19446.0,
+      "OffLineCost": "28M"
+    },
+    {
+      "CoinCount": 8505.0,
+      "CoinCountCost": "28M",
+      "OffLine": 19467.0,
+      "OffLineCost": "28M"
+    },
+    {
+      "CoinCount": 8513.0,
+      "CoinCountCost": "28.1M",
+      "OffLine": 19488.0,
+      "OffLineCost": "28.1M"
+    },
+    {
+      "CoinCount": 8521.0,
+      "CoinCountCost": "28.1M",
+      "OffLine": 19509.0,
+      "OffLineCost": "28.1M"
+    },
+    {
+      "CoinCount": 8529.0,
+      "CoinCountCost": "28.1M",
+      "OffLine": 19530.0,
+      "OffLineCost": "28.1M"
+    },
+    {
+      "CoinCount": 8537.0,
+      "CoinCountCost": "28.2M",
+      "OffLine": 19551.0,
+      "OffLineCost": "28.2M"
+    },
+    {
+      "CoinCount": 8545.0,
+      "CoinCountCost": "28.2M",
+      "OffLine": 19572.0,
+      "OffLineCost": "28.2M"
+    },
+    {
+      "CoinCount": 8553.0,
+      "CoinCountCost": "28.2M",
+      "OffLine": 19593.0,
+      "OffLineCost": "28.2M"
+    },
+    {
+      "CoinCount": 8561.0,
+      "CoinCountCost": "28.2M",
+      "OffLine": 19614.0,
+      "OffLineCost": "28.2M"
+    },
+    {
+      "CoinCount": 8569.0,
+      "CoinCountCost": "28.3M",
+      "OffLine": 19635.0,
+      "OffLineCost": "28.3M"
+    },
+    {
+      "CoinCount": 8577.0,
+      "CoinCountCost": "28.3M",
+      "OffLine": 19656.0,
+      "OffLineCost": "28.3M"
+    },
+    {
+      "CoinCount": 8585.0,
+      "CoinCountCost": "28.3M",
+      "OffLine": 19677.0,
+      "OffLineCost": "28.3M"
+    },
+    {
+      "CoinCount": 8593.0,
+      "CoinCountCost": "28.4M",
+      "OffLine": 19698.0,
+      "OffLineCost": "28.4M"
+    },
+    {
+      "CoinCount": 8601.0,
+      "CoinCountCost": "28.4M",
+      "OffLine": 19719.0,
+      "OffLineCost": "28.4M"
+    },
+    {
+      "CoinCount": 8609.0,
+      "CoinCountCost": "28.4M",
+      "OffLine": 19740.0,
+      "OffLineCost": "28.4M"
+    },
+    {
+      "CoinCount": 8617.0,
+      "CoinCountCost": "28.5M",
+      "OffLine": 19761.0,
+      "OffLineCost": "28.5M"
+    },
+    {
+      "CoinCount": 8625.0,
+      "CoinCountCost": "28.5M",
+      "OffLine": 19782.0,
+      "OffLineCost": "28.5M"
+    },
+    {
+      "CoinCount": 8633.0,
+      "CoinCountCost": "28.5M",
+      "OffLine": 19803.0,
+      "OffLineCost": "28.5M"
+    },
+    {
+      "CoinCount": 8641.0,
+      "CoinCountCost": "28.5M",
+      "OffLine": 19824.0,
+      "OffLineCost": "28.5M"
+    },
+    {
+      "CoinCount": 8649.0,
+      "CoinCountCost": "28.6M",
+      "OffLine": 19845.0,
+      "OffLineCost": "28.6M"
+    },
+    {
+      "CoinCount": 8657.0,
+      "CoinCountCost": "28.6M",
+      "OffLine": 19866.0,
+      "OffLineCost": "28.6M"
+    },
+    {
+      "CoinCount": 8665.0,
+      "CoinCountCost": "28.6M",
+      "OffLine": 19887.0,
+      "OffLineCost": "28.6M"
+    },
+    {
+      "CoinCount": 8673.0,
+      "CoinCountCost": "28.7M",
+      "OffLine": 19908.0,
+      "OffLineCost": "28.7M"
+    },
+    {
+      "CoinCount": 8681.0,
+      "CoinCountCost": "28.7M",
+      "OffLine": 19929.0,
+      "OffLineCost": "28.7M"
+    },
+    {
+      "CoinCount": 8689.0,
+      "CoinCountCost": "28.7M",
+      "OffLine": 19950.0,
+      "OffLineCost": "28.7M"
+    },
+    {
+      "CoinCount": 8697.0,
+      "CoinCountCost": "28.8M",
+      "OffLine": 19971.0,
+      "OffLineCost": "28.8M"
+    },
+    {
+      "CoinCount": 8705.0,
+      "CoinCountCost": "28.8M",
+      "OffLine": 19992.0,
+      "OffLineCost": "28.8M"
+    },
+    {
+      "CoinCount": 8713.0,
+      "CoinCountCost": "28.8M",
+      "OffLine": 20013.0,
+      "OffLineCost": "28.8M"
+    },
+    {
+      "CoinCount": 8721.0,
+      "CoinCountCost": "28.8M",
+      "OffLine": 20034.0,
+      "OffLineCost": "28.8M"
+    },
+    {
+      "CoinCount": 8729.0,
+      "CoinCountCost": "28.9M",
+      "OffLine": 20055.0,
+      "OffLineCost": "28.9M"
+    },
+    {
+      "CoinCount": 8737.0,
+      "CoinCountCost": "28.9M",
+      "OffLine": 20076.0,
+      "OffLineCost": "28.9M"
+    },
+    {
+      "CoinCount": 8745.0,
+      "CoinCountCost": "28.9M",
+      "OffLine": 20097.0,
+      "OffLineCost": "28.9M"
+    },
+    {
+      "CoinCount": 8753.0,
+      "CoinCountCost": "29M",
+      "OffLine": 20118.0,
+      "OffLineCost": "29M"
+    },
+    {
+      "CoinCount": 8761.0,
+      "CoinCountCost": "29M",
+      "OffLine": 20139.0,
+      "OffLineCost": "29M"
+    },
+    {
+      "CoinCount": 8769.0,
+      "CoinCountCost": "29M",
+      "OffLine": 20160.0,
+      "OffLineCost": "29M"
+    },
+    {
+      "CoinCount": 8777.0,
+      "CoinCountCost": "29.1M",
+      "OffLine": 20181.0,
+      "OffLineCost": "29.1M"
+    },
+    {
+      "CoinCount": 8785.0,
+      "CoinCountCost": "29.1M",
+      "OffLine": 20202.0,
+      "OffLineCost": "29.1M"
+    },
+    {
+      "CoinCount": 8793.0,
+      "CoinCountCost": "29.1M",
+      "OffLine": 20223.0,
+      "OffLineCost": "29.1M"
+    },
+    {
+      "CoinCount": 8801.0,
+      "CoinCountCost": "29.2M",
+      "OffLine": 20244.0,
+      "OffLineCost": "29.2M"
+    },
+    {
+      "CoinCount": 8809.0,
+      "CoinCountCost": "29.2M",
+      "OffLine": 20265.0,
+      "OffLineCost": "29.2M"
+    },
+    {
+      "CoinCount": 8817.0,
+      "CoinCountCost": "29.2M",
+      "OffLine": 20286.0,
+      "OffLineCost": "29.2M"
+    },
+    {
+      "CoinCount": 8825.0,
+      "CoinCountCost": "29.2M",
+      "OffLine": 20307.0,
+      "OffLineCost": "29.2M"
+    },
+    {
+      "CoinCount": 8833.0,
+      "CoinCountCost": "29.3M",
+      "OffLine": 20328.0,
+      "OffLineCost": "29.3M"
+    },
+    {
+      "CoinCount": 8841.0,
+      "CoinCountCost": "29.3M",
+      "OffLine": 20349.0,
+      "OffLineCost": "29.3M"
+    },
+    {
+      "CoinCount": 8849.0,
+      "CoinCountCost": "29.3M",
+      "OffLine": 20370.0,
+      "OffLineCost": "29.3M"
+    },
+    {
+      "CoinCount": 8857.0,
+      "CoinCountCost": "29.4M",
+      "OffLine": 20391.0,
+      "OffLineCost": "29.4M"
+    },
+    {
+      "CoinCount": 8865.0,
+      "CoinCountCost": "29.4M",
+      "OffLine": 20412.0,
+      "OffLineCost": "29.4M"
+    },
+    {
+      "CoinCount": 8873.0,
+      "CoinCountCost": "29.4M",
+      "OffLine": 20433.0,
+      "OffLineCost": "29.4M"
+    },
+    {
+      "CoinCount": 8881.0,
+      "CoinCountCost": "29.5M",
+      "OffLine": 20454.0,
+      "OffLineCost": "29.5M"
+    },
+    {
+      "CoinCount": 8889.0,
+      "CoinCountCost": "29.5M",
+      "OffLine": 20475.0,
+      "OffLineCost": "29.5M"
+    },
+    {
+      "CoinCount": 8897.0,
+      "CoinCountCost": "29.5M",
+      "OffLine": 20496.0,
+      "OffLineCost": "29.5M"
+    },
+    {
+      "CoinCount": 8905.0,
+      "CoinCountCost": "29.5M",
+      "OffLine": 20517.0,
+      "OffLineCost": "29.5M"
+    },
+    {
+      "CoinCount": 8913.0,
+      "CoinCountCost": "29.6M",
+      "OffLine": 20538.0,
+      "OffLineCost": "29.6M"
+    },
+    {
+      "CoinCount": 8921.0,
+      "CoinCountCost": "29.6M",
+      "OffLine": 20559.0,
+      "OffLineCost": "29.6M"
+    },
+    {
+      "CoinCount": 8929.0,
+      "CoinCountCost": "29.6M",
+      "OffLine": 20580.0,
+      "OffLineCost": "29.6M"
+    },
+    {
+      "CoinCount": 8937.0,
+      "CoinCountCost": "29.7M",
+      "OffLine": 20601.0,
+      "OffLineCost": "29.7M"
+    },
+    {
+      "CoinCount": 8945.0,
+      "CoinCountCost": "29.7M",
+      "OffLine": 20622.0,
+      "OffLineCost": "29.7M"
+    },
+    {
+      "CoinCount": 8953.0,
+      "CoinCountCost": "29.7M",
+      "OffLine": 20643.0,
+      "OffLineCost": "29.7M"
+    },
+    {
+      "CoinCount": 8961.0,
+      "CoinCountCost": "29.8M",
+      "OffLine": 20664.0,
+      "OffLineCost": "29.8M"
+    },
+    {
+      "CoinCount": 8969.0,
+      "CoinCountCost": "29.8M",
+      "OffLine": 20685.0,
+      "OffLineCost": "29.8M"
+    },
+    {
+      "CoinCount": 8977.0,
+      "CoinCountCost": "29.8M",
+      "OffLine": 20706.0,
+      "OffLineCost": "29.8M"
+    },
+    {
+      "CoinCount": 8985.0,
+      "CoinCountCost": "29.8M",
+      "OffLine": 20727.0,
+      "OffLineCost": "29.8M"
+    },
+    {
+      "CoinCount": 8993.0,
+      "CoinCountCost": "29.9M",
+      "OffLine": 20748.0,
+      "OffLineCost": "29.9M"
+    },
+    {
+      "CoinCount": 9001.0,
+      "CoinCountCost": "29.9M",
+      "OffLine": 20769.0,
+      "OffLineCost": "29.9M"
+    },
+    {
+      "CoinCount": 9009.0,
+      "CoinCountCost": "29.9M",
+      "OffLine": 20790.0,
+      "OffLineCost": "29.9M"
+    },
+    {
+      "CoinCount": 9017.0,
+      "CoinCountCost": "30M",
+      "OffLine": 20811.0,
+      "OffLineCost": "30M"
+    },
+    {
+      "CoinCount": 9025.0,
+      "CoinCountCost": "30M",
+      "OffLine": 20832.0,
+      "OffLineCost": "30M"
+    },
+    {
+      "CoinCount": 9033.0,
+      "CoinCountCost": "30M",
+      "OffLine": 20853.0,
+      "OffLineCost": "30M"
+    },
+    {
+      "CoinCount": 9041.0,
+      "CoinCountCost": "30.1M",
+      "OffLine": 20874.0,
+      "OffLineCost": "30.1M"
+    },
+    {
+      "CoinCount": 9049.0,
+      "CoinCountCost": "30.1M",
+      "OffLine": 20895.0,
+      "OffLineCost": "30.1M"
+    },
+    {
+      "CoinCount": 9057.0,
+      "CoinCountCost": "30.1M",
+      "OffLine": 20916.0,
+      "OffLineCost": "30.1M"
+    },
+    {
+      "CoinCount": 9065.0,
+      "CoinCountCost": "30.1M",
+      "OffLine": 20937.0,
+      "OffLineCost": "30.1M"
+    },
+    {
+      "CoinCount": 9073.0,
+      "CoinCountCost": "30.2M",
+      "OffLine": 20958.0,
+      "OffLineCost": "30.2M"
+    },
+    {
+      "CoinCount": 9081.0,
+      "CoinCountCost": "30.2M",
+      "OffLine": 20979.0,
+      "OffLineCost": "30.2M"
+    }
+  ]

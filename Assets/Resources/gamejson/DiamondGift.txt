@@ -1,0 +1,44 @@
+[
+    {
+      "ID": 0,
+      "Counts": "100",
+      "CostTyps": 1,
+      "Cost": 0.99,
+      "Free": "0"
+    },
+    {
+      "ID": 1,
+      "Counts": "300",
+      "CostTyps": 1,
+      "Cost": 2.99,
+      "Free": "30"
+    },
+    {
+      "ID": 2,
+      "Counts": "600",
+      "CostTyps": 1,
+      "Cost": 5.99,
+      "Free": "90"
+    },
+    {
+      "ID": 3,
+      "Counts": "1K",
+      "CostTyps": 1,
+      "Cost": 9.99,
+      "Free": "200"
+    },
+    {
+      "ID": 4,
+      "Counts": "2K",
+      "CostTyps": 1,
+      "Cost": 19.99,
+      "Free": "600"
+    },
+    {
+      "ID": 5,
+      "Counts": "4K",
+      "CostTyps": 1,
+      "Cost": 39.99,
+      "Free": "2K"
+    }
+  ]

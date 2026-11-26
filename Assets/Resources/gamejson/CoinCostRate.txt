@@ -1,0 +1,10 @@
+[
+    {
+      "CostSpeed": 1.04,
+      "CostFire": 1.04,
+      "CoinCountCost": 1.04,
+      "OffLineCost": 1.04,
+      "WeaponCost": 1.04,
+      "CoinCount": 1.04
+    }
+  ]

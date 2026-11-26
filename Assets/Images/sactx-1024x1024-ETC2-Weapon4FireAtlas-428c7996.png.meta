@@ -1,0 +1,1752 @@
+fileFormatVersion: 2
+guid: b38b1f6700c2430dbb2d2808d77f0a0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: fupao5_zidan_7
+  - first:
+      213: 21300002
+    second: fupao5_zidan_14
+  - first:
+      213: 21300004
+    second: fupao5_zidan_5
+  - first:
+      213: 21300006
+    second: fupao5_zidan_2
+  - first:
+      213: 21300008
+    second: fupao5_fire_5
+  - first:
+      213: 21300010
+    second: fupao5_zidan_6
+  - first:
+      213: 21300012
+    second: fupao5_zidan_11
+  - first:
+      213: 21300014
+    second: fupao5_zidan_4
+  - first:
+      213: 21300016
+    second: fupao5_fire_4
+  - first:
+      213: 21300018
+    second: fupao5_fire_1
+  - first:
+      213: 21300020
+    second: fupao5_zidan_9
+  - first:
+      213: 21300022
+    second: fupao5_zidan_10
+  - first:
+      213: 21300024
+    second: fupao5_zidan_3
+  - first:
+      213: 21300026
+    second: fupao5_fire_3
+  - first:
+      213: 21300028
+    second: fupao5_zidan_1
+  - first:
+      213: 21300030
+    second: fupao5_zidan_12
+  - first:
+      213: 21300032
+    second: fupao5_zidan_8
+  - first:
+      213: 21300034
+    second: fupao5_fire_2
+  - first:
+      213: 21300036
+    second: fupao5_zidan_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fupao5_zidan_7
+      rect:
+        serializedVersion: 2
+        x: 702.0761
+        y: 243.0761
+        width: 212.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -33.5}
+        - {x: -107, y: 22.5}
+        - {x: -102, y: -57.5}
+      - - {x: -101, y: 39.5}
+        - {x: -102, y: -57.5}
+        - {x: -107, y: 22.5}
+      - - {x: -74, y: -100.5}
+        - {x: -102, y: -57.5}
+        - {x: -101, y: 39.5}
+      - - {x: -18, y: 119.5}
+        - {x: -74, y: -100.5}
+        - {x: -101, y: 39.5}
+      - - {x: -14, y: -119.5}
+        - {x: -74, y: -100.5}
+        - {x: -18, y: 119.5}
+      - - {x: -5, y: 121.5}
+        - {x: -14, y: -119.5}
+        - {x: -18, y: 119.5}
+      - - {x: 23, y: -119.5}
+        - {x: -14, y: -119.5}
+        - {x: -5, y: 121.5}
+      - - {x: 33, y: 121.5}
+        - {x: 23, y: -119.5}
+        - {x: -5, y: 121.5}
+      - - {x: 54, y: -106.5}
+        - {x: 23, y: -119.5}
+        - {x: 33, y: 121.5}
+      - - {x: 70, y: 69.5}
+        - {x: 54, y: -106.5}
+        - {x: 33, y: 121.5}
+      - - {x: 101, y: -61.5}
+        - {x: 54, y: -106.5}
+        - {x: 70, y: 69.5}
+      - - {x: 106, y: 28.5}
+        - {x: 101, y: -61.5}
+        - {x: 70, y: 69.5}
+      - - {x: 106, y: -23.5}
+        - {x: 101, y: -61.5}
+        - {x: 106, y: 28.5}
+      physicsShape:
+      - - {x: 54, y: -63.5}
+        - {x: 66, y: -47.5}
+        - {x: 75, y: -49.5}
+        - {x: 82, y: -44.5}
+        - {x: 86, y: -31.5}
+        - {x: 85, y: -18.5}
+        - {x: 90, y: -18.5}
+        - {x: 92, y: -16.5}
+        - {x: 92, y: 1.5}
+        - {x: 97, y: 15.5}
+        - {x: 97, y: 20.5}
+        - {x: 91, y: 24.5}
+        - {x: 81, y: 22.5}
+        - {x: 74, y: 8.5}
+        - {x: 70, y: 20.5}
+        - {x: 60, y: 37.5}
+        - {x: 53, y: 45.5}
+        - {x: 35, y: 57.5}
+        - {x: 32, y: 60.5}
+        - {x: 12, y: 66.5}
+        - {x: 5, y: 67.5}
+        - {x: -11, y: 67.5}
+        - {x: -36, y: 59.5}
+        - {x: -45, y: 52.5}
+        - {x: -60, y: 39.5}
+        - {x: -71, y: 22.5}
+        - {x: -76, y: 7.5}
+        - {x: -89, y: 11.5}
+        - {x: -93, y: 11.5}
+        - {x: -94, y: 8.5}
+        - {x: -83, y: -5.5}
+        - {x: -77, y: -14.5}
+        - {x: -76, y: -42.5}
+        - {x: -50, y: -69.5}
+        - {x: -29, y: -81.5}
+        - {x: -15, y: -85.5}
+        - {x: 9, y: -85.5}
+        - {x: 18, y: -83.5}
+        - {x: 28, y: -81.5}
+        - {x: 44, y: -72.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b846aba110294e6c8188a19f96a0546
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_14
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.07612038
+        width: 231.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -49.5}
+        - {x: -107, y: 23.5}
+        - {x: -76, y: -104.5}
+      - - {x: -87, y: 70.5}
+        - {x: -76, y: -104.5}
+        - {x: -107, y: 23.5}
+      - - {x: -10, y: 109.5}
+        - {x: -76, y: -104.5}
+        - {x: -87, y: 70.5}
+      - - {x: -22, y: -119.5}
+        - {x: -76, y: -104.5}
+        - {x: -10, y: 109.5}
+      - - {x: 15, y: -119.5}
+        - {x: -22, y: -119.5}
+        - {x: -10, y: 109.5}
+      - - {x: 0, y: 121.5}
+        - {x: 15, y: -119.5}
+        - {x: -10, y: 109.5}
+      - - {x: 26, y: 121.5}
+        - {x: 15, y: -119.5}
+        - {x: 0, y: 121.5}
+      - - {x: 26, y: -118.5}
+        - {x: 15, y: -119.5}
+        - {x: 26, y: 121.5}
+      - - {x: 53, y: -105.5}
+        - {x: 26, y: -118.5}
+        - {x: 26, y: 121.5}
+      - - {x: 61, y: 88.5}
+        - {x: 53, y: -105.5}
+        - {x: 26, y: 121.5}
+      - - {x: 99, y: -60.5}
+        - {x: 53, y: -105.5}
+        - {x: 61, y: 88.5}
+      - - {x: 113, y: 36.5}
+        - {x: 99, y: -60.5}
+        - {x: 61, y: 88.5}
+      - - {x: 125, y: -5.5}
+        - {x: 99, y: -60.5}
+        - {x: 113, y: 36.5}
+      - - {x: 125, y: 6.5}
+        - {x: 125, y: -5.5}
+        - {x: 113, y: 36.5}
+      physicsShape:
+      - - {x: 64, y: -54.5}
+        - {x: 70, y: -43.5}
+        - {x: 75, y: -34.5}
+        - {x: 79, y: -3.5}
+        - {x: 79, y: 5.5}
+        - {x: 73, y: 21.5}
+        - {x: 67, y: 33.5}
+        - {x: 48, y: 52.5}
+        - {x: 34, y: 61.5}
+        - {x: 23, y: 65.5}
+        - {x: 6, y: 68.5}
+        - {x: -5, y: 68.5}
+        - {x: -14, y: 67.5}
+        - {x: -27, y: 65.5}
+        - {x: -41, y: 58.5}
+        - {x: -52, y: 51.5}
+        - {x: -70, y: 32.5}
+        - {x: -77, y: 12.5}
+        - {x: -79, y: 1.5}
+        - {x: -79, y: -12.5}
+        - {x: -77, y: -28.5}
+        - {x: -73, y: -42.5}
+        - {x: -69, y: -49.5}
+        - {x: -60, y: -65.5}
+        - {x: -65, y: -68.5}
+        - {x: -64, y: -71.5}
+        - {x: -53, y: -74.5}
+        - {x: -43, y: -76.5}
+        - {x: -29, y: -83.5}
+        - {x: -15, y: -87.5}
+        - {x: 10, y: -87.5}
+        - {x: 20, y: -85.5}
+        - {x: 32, y: -81.5}
+        - {x: 48, y: -72.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f529d8eb830945ac8cdb1e7f80a89a0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_5
+      rect:
+        serializedVersion: 2
+        x: 212.0761
+        y: 486.0761
+        width: 209.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -61.5}
+        - {x: -107, y: 31.5}
+        - {x: -82, y: -94.5}
+      - - {x: -104, y: 41.5}
+        - {x: -82, y: -94.5}
+        - {x: -107, y: 31.5}
+      - - {x: -16, y: 115.5}
+        - {x: -82, y: -94.5}
+        - {x: -104, y: 41.5}
+      - - {x: -48, y: -119.5}
+        - {x: -82, y: -94.5}
+        - {x: -16, y: 115.5}
+      - - {x: 38, y: -119.5}
+        - {x: -48, y: -119.5}
+        - {x: -16, y: 115.5}
+      - - {x: 5, y: 121.5}
+        - {x: 38, y: -119.5}
+        - {x: -16, y: 115.5}
+      - - {x: 27, y: 121.5}
+        - {x: 38, y: -119.5}
+        - {x: 5, y: 121.5}
+      - - {x: 92, y: 50.5}
+        - {x: 38, y: -119.5}
+        - {x: 27, y: 121.5}
+      - - {x: 103, y: -68.5}
+        - {x: 38, y: -119.5}
+        - {x: 92, y: 50.5}
+      - - {x: 103, y: 10.5}
+        - {x: 103, y: -68.5}
+        - {x: 92, y: 50.5}
+      physicsShape:
+      - - {x: 58, y: -61.5}
+        - {x: 68, y: -47.5}
+        - {x: 75, y: -33.5}
+        - {x: 77, y: -24.5}
+        - {x: 77, y: 3.5}
+        - {x: 74, y: 20.5}
+        - {x: 64, y: 36.5}
+        - {x: 48, y: 52.5}
+        - {x: 27, y: 65.5}
+        - {x: 8, y: 69.5}
+        - {x: -10, y: 72.5}
+        - {x: -13, y: 72.5}
+        - {x: -20, y: 66.5}
+        - {x: -37, y: 61.5}
+        - {x: -44, y: 57.5}
+        - {x: -62, y: 39.5}
+        - {x: -70, y: 27.5}
+        - {x: -76, y: 15.5}
+        - {x: -78, y: 5.5}
+        - {x: -79, y: -6.5}
+        - {x: -78, y: -28.5}
+        - {x: -79, y: -31.5}
+        - {x: -79, y: -36.5}
+        - {x: -73, y: -41.5}
+        - {x: -67, y: -53.5}
+        - {x: -56, y: -69.5}
+        - {x: -28, y: -84.5}
+        - {x: -13, y: -87.5}
+        - {x: 12, y: -87.5}
+        - {x: 22, y: -85.5}
+        - {x: 39, y: -78.5}
+        - {x: 52, y: -67.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90790a27f91de464d800431d21088945
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_2
+      rect:
+        serializedVersion: 2
+        x: 212.0761
+        y: 729.0761
+        width: 209.8477
+        height: 215.8477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -52.5}
+        - {x: -107, y: 22.5}
+        - {x: -49, y: -115.5}
+      - - {x: -105, y: 41.5}
+        - {x: -49, y: -115.5}
+        - {x: -107, y: 22.5}
+      - - {x: -64, y: 74.5}
+        - {x: -49, y: -115.5}
+        - {x: -105, y: 41.5}
+      - - {x: -45, y: 87.5}
+        - {x: -49, y: -115.5}
+        - {x: -64, y: 74.5}
+      - - {x: -11, y: -119.5}
+        - {x: -49, y: -115.5}
+        - {x: -45, y: 87.5}
+      - - {x: -1, y: 96.5}
+        - {x: -11, y: -119.5}
+        - {x: -45, y: 87.5}
+      - - {x: 27, y: -119.5}
+        - {x: -11, y: -119.5}
+        - {x: -1, y: 96.5}
+      - - {x: 41, y: 96.5}
+        - {x: 27, y: -119.5}
+        - {x: -1, y: 96.5}
+      - - {x: 54, y: -107.5}
+        - {x: 27, y: -119.5}
+        - {x: 41, y: 96.5}
+      - - {x: 72, y: 71.5}
+        - {x: 54, y: -107.5}
+        - {x: 41, y: 96.5}
+      - - {x: 103, y: -62.5}
+        - {x: 54, y: -107.5}
+        - {x: 72, y: 71.5}
+      - - {x: 103, y: 31.5}
+        - {x: 103, y: -62.5}
+        - {x: 72, y: 71.5}
+      physicsShape:
+      - - {x: 10, y: -86.5}
+        - {x: 39, y: -76.5}
+        - {x: 56, y: -60.5}
+        - {x: 65, y: -48.5}
+        - {x: 73, y: -29.5}
+        - {x: 74, y: -18.5}
+        - {x: 74, y: -0.5}
+        - {x: 70, y: 19.5}
+        - {x: 60, y: 36.5}
+        - {x: 49, y: 48.5}
+        - {x: 28, y: 61.5}
+        - {x: 13, y: 65.5}
+        - {x: -16, y: 65.5}
+        - {x: -36, y: 59.5}
+        - {x: -62, y: 38.5}
+        - {x: -69, y: 25.5}
+        - {x: -75, y: 11.5}
+        - {x: -75, y: -34.5}
+        - {x: -65, y: -57.5}
+        - {x: -62, y: -69.5}
+        - {x: -47, y: -82.5}
+        - {x: -47, y: -89.5}
+        - {x: -45, y: -91.5}
+        - {x: -36, y: -86.5}
+        - {x: -38, y: -75.5}
+        - {x: -20, y: -83.5}
+        - {x: -9, y: -84.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394356bd6b6c6435081892db3ad19757
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_fire_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 729
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+        - {x: 36.5, y: -42.5}
+      - - {x: 36.5, y: 42.5}
+        - {x: 36.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0809a585f5bb14c94bd03a5d991cad1c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_6
+      rect:
+        serializedVersion: 2
+        x: 424.0761
+        y: 486.0761
+        width: 209.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -31.5}
+        - {x: -107, y: 15.5}
+        - {x: -103, y: -56.5}
+      - - {x: -81, y: 81.5}
+        - {x: -103, y: -56.5}
+        - {x: -107, y: 15.5}
+      - - {x: -74, y: -100.5}
+        - {x: -103, y: -56.5}
+        - {x: -81, y: 81.5}
+      - - {x: -44, y: 86.5}
+        - {x: -74, y: -100.5}
+        - {x: -81, y: 81.5}
+      - - {x: -25, y: -119.5}
+        - {x: -74, y: -100.5}
+        - {x: -44, y: 86.5}
+      - - {x: -14, y: 113.5}
+        - {x: -25, y: -119.5}
+        - {x: -44, y: 86.5}
+      - - {x: 23, y: -119.5}
+        - {x: -25, y: -119.5}
+        - {x: -14, y: 113.5}
+      - - {x: 9, y: 121.5}
+        - {x: 23, y: -119.5}
+        - {x: -14, y: 113.5}
+      - - {x: 29, y: 121.5}
+        - {x: 23, y: -119.5}
+        - {x: 9, y: 121.5}
+      - - {x: 54, y: -107.5}
+        - {x: 23, y: -119.5}
+        - {x: 29, y: 121.5}
+      - - {x: 75, y: 87.5}
+        - {x: 54, y: -107.5}
+        - {x: 29, y: 121.5}
+      - - {x: 98, y: -60.5}
+        - {x: 54, y: -107.5}
+        - {x: 75, y: 87.5}
+      - - {x: 103, y: 24.5}
+        - {x: 98, y: -60.5}
+        - {x: 75, y: 87.5}
+      - - {x: 103, y: -30.5}
+        - {x: 98, y: -60.5}
+        - {x: 103, y: 24.5}
+      physicsShape:
+      - - {x: 60, y: -59.5}
+        - {x: 64, y: -52.5}
+        - {x: 73, y: -36.5}
+        - {x: 76, y: -22.5}
+        - {x: 77, y: -19.5}
+        - {x: 77, y: 0.5}
+        - {x: 75, y: 9.5}
+        - {x: 69, y: 26.5}
+        - {x: 62, y: 37.5}
+        - {x: 49, y: 51.5}
+        - {x: 36, y: 60.5}
+        - {x: 24, y: 65.5}
+        - {x: -1, y: 69.5}
+        - {x: -20, y: 69.5}
+        - {x: -39, y: 58.5}
+        - {x: -47, y: 54.5}
+        - {x: -50, y: 51.5}
+        - {x: -64, y: 48.5}
+        - {x: -71, y: 55.5}
+        - {x: -74, y: 62.5}
+        - {x: -77, y: 62.5}
+        - {x: -81, y: 55.5}
+        - {x: -82, y: 45.5}
+        - {x: -85, y: 37.5}
+        - {x: -85, y: 28.5}
+        - {x: -84, y: 25.5}
+        - {x: -77, y: 23.5}
+        - {x: -73, y: 20.5}
+        - {x: -79, y: 1.5}
+        - {x: -79, y: -11.5}
+        - {x: -78, y: -22.5}
+        - {x: -75, y: -40.5}
+        - {x: -66, y: -55.5}
+        - {x: -55, y: -67.5}
+        - {x: -45, y: -75.5}
+        - {x: -26, y: -84.5}
+        - {x: -12, y: -87.5}
+        - {x: 14, y: -87.5}
+        - {x: 28, y: -82.5}
+        - {x: 34, y: -79.5}
+        - {x: 45, y: -73.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d1b654326b4ddcb8f62b7b4799e5e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_11
+      rect:
+        serializedVersion: 2
+        x: 702.0761
+        y: 0.07612038
+        width: 231.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -38.5}
+        - {x: -107, y: 22.5}
+        - {x: -102, y: -62.5}
+      - - {x: -86, y: 67.5}
+        - {x: -102, y: -62.5}
+        - {x: -107, y: 22.5}
+      - - {x: -76, y: -97.5}
+        - {x: -102, y: -62.5}
+        - {x: -86, y: 67.5}
+      - - {x: -13, y: 112.5}
+        - {x: -76, y: -97.5}
+        - {x: -86, y: 67.5}
+      - - {x: -40, y: -109.5}
+        - {x: -76, y: -97.5}
+        - {x: -13, y: 112.5}
+      - - {x: -15, y: -119.5}
+        - {x: -40, y: -109.5}
+        - {x: -13, y: 112.5}
+      - - {x: 22, y: -119.5}
+        - {x: -15, y: -119.5}
+        - {x: -13, y: 112.5}
+      - - {x: 8, y: 121.5}
+        - {x: 22, y: -119.5}
+        - {x: -13, y: 112.5}
+      - - {x: 28, y: 121.5}
+        - {x: 22, y: -119.5}
+        - {x: 8, y: 121.5}
+      - - {x: 57, y: -110.5}
+        - {x: 22, y: -119.5}
+        - {x: 28, y: 121.5}
+      - - {x: 57, y: 81.5}
+        - {x: 57, y: -110.5}
+        - {x: 28, y: 121.5}
+      - - {x: 101, y: -61.5}
+        - {x: 57, y: -110.5}
+        - {x: 57, y: 81.5}
+      - - {x: 114, y: 36.5}
+        - {x: 101, y: -61.5}
+        - {x: 57, y: 81.5}
+      - - {x: 125, y: -1.5}
+        - {x: 101, y: -61.5}
+        - {x: 114, y: 36.5}
+      - - {x: 125, y: 12.5}
+        - {x: 125, y: -1.5}
+        - {x: 114, y: 36.5}
+      physicsShape:
+      - - {x: 75, y: -17.5}
+        - {x: 75, y: -1.5}
+        - {x: 73, y: 13.5}
+        - {x: 66, y: 27.5}
+        - {x: 62, y: 31.5}
+        - {x: 65, y: 45.5}
+        - {x: 71, y: 52.5}
+        - {x: 68, y: 54.5}
+        - {x: 61, y: 55.5}
+        - {x: 47, y: 51.5}
+        - {x: 37, y: 58.5}
+        - {x: 14, y: 66.5}
+        - {x: -5, y: 67.5}
+        - {x: -14, y: 65.5}
+        - {x: -14, y: 73.5}
+        - {x: -16, y: 75.5}
+        - {x: -22, y: 74.5}
+        - {x: -31, y: 69.5}
+        - {x: -49, y: 56.5}
+        - {x: -52, y: 47.5}
+        - {x: -63, y: 38.5}
+        - {x: -72, y: 25.5}
+        - {x: -75, y: 11.5}
+        - {x: -77, y: -2.5}
+        - {x: -77, y: -11.5}
+        - {x: -76, y: -26.5}
+        - {x: -73, y: -36.5}
+        - {x: -63, y: -55.5}
+        - {x: -51, y: -67.5}
+        - {x: -38, y: -77.5}
+        - {x: -20, y: -83.5}
+        - {x: -8, y: -85.5}
+        - {x: 8, y: -85.5}
+        - {x: 12, y: -89.5}
+        - {x: 16, y: -89.5}
+        - {x: 48, y: -69.5}
+        - {x: 59, y: -60.5}
+        - {x: 69, y: -40.5}
+        - {x: 74, y: -29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1de47971cee45ca977edbc44794360
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_4
+      rect:
+        serializedVersion: 2
+        x: 636.0761
+        y: 486.0761
+        width: 209.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -24.5}
+        - {x: -107, y: 11.5}
+        - {x: -106, y: -40.5}
+      - - {x: -99, y: 39.5}
+        - {x: -106, y: -40.5}
+        - {x: -107, y: 11.5}
+      - - {x: -72, y: -98.5}
+        - {x: -106, y: -40.5}
+        - {x: -99, y: 39.5}
+      - - {x: -64, y: 76.5}
+        - {x: -72, y: -98.5}
+        - {x: -99, y: 39.5}
+      - - {x: -21, y: -119.5}
+        - {x: -72, y: -98.5}
+        - {x: -64, y: 76.5}
+      - - {x: -8, y: 116.5}
+        - {x: -21, y: -119.5}
+        - {x: -64, y: 76.5}
+      - - {x: 23, y: -119.5}
+        - {x: -21, y: -119.5}
+        - {x: -8, y: 116.5}
+      - - {x: 3, y: 121.5}
+        - {x: 23, y: -119.5}
+        - {x: -8, y: 116.5}
+      - - {x: 33, y: 121.5}
+        - {x: 23, y: -119.5}
+        - {x: 3, y: 121.5}
+      - - {x: 55, y: -108.5}
+        - {x: 23, y: -119.5}
+        - {x: 33, y: 121.5}
+      - - {x: 89, y: 48.5}
+        - {x: 55, y: -108.5}
+        - {x: 33, y: 121.5}
+      - - {x: 100, y: -61.5}
+        - {x: 55, y: -108.5}
+        - {x: 89, y: 48.5}
+      - - {x: 103, y: 15.5}
+        - {x: 100, y: -61.5}
+        - {x: 89, y: 48.5}
+      - - {x: 103, y: -34.5}
+        - {x: 100, y: -61.5}
+        - {x: 103, y: 15.5}
+      physicsShape:
+      - - {x: 61, y: -58.5}
+        - {x: 71, y: -40.5}
+        - {x: 73, y: -35.5}
+        - {x: 77, y: -21.5}
+        - {x: 77, y: -0.5}
+        - {x: 74, y: 16.5}
+        - {x: 70, y: 26.5}
+        - {x: 53, y: 49.5}
+        - {x: 37, y: 60.5}
+        - {x: 32, y: 68.5}
+        - {x: 28, y: 73.5}
+        - {x: 10, y: 91.5}
+        - {x: 10, y: 98.5}
+        - {x: 20, y: 114.5}
+        - {x: 16, y: 115.5}
+        - {x: 11, y: 115.5}
+        - {x: -6, y: 103.5}
+        - {x: -7, y: 97.5}
+        - {x: 7, y: 75.5}
+        - {x: -15, y: 68.5}
+        - {x: -24, y: 65.5}
+        - {x: -35, y: 61.5}
+        - {x: -50, y: 51.5}
+        - {x: -66, y: 35.5}
+        - {x: -74, y: 21.5}
+        - {x: -79, y: 0.5}
+        - {x: -79, y: -11.5}
+        - {x: -78, y: -21.5}
+        - {x: -74, y: -38.5}
+        - {x: -79, y: -43.5}
+        - {x: -79, y: -45.5}
+        - {x: -76, y: -49.5}
+        - {x: -73, y: -48.5}
+        - {x: -69, y: -48.5}
+        - {x: -56, y: -65.5}
+        - {x: -49, y: -71.5}
+        - {x: -38, y: -78.5}
+        - {x: -26, y: -84.5}
+        - {x: -6, y: -88.5}
+        - {x: 8, y: -88.5}
+        - {x: 26, y: -83.5}
+        - {x: 32, y: -81.5}
+        - {x: 52, y: -68.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf78c23b743c425e8b02dd92150ab5c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_fire_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 729
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+        - {x: 36.5, y: -42.5}
+      - - {x: 36.5, y: 42.5}
+        - {x: 36.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1693dfc22d4fa2bad6066ec81ff28
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_fire_1
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 243
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+        - {x: 32.5, y: -42.5}
+      - - {x: 36.5, y: 42.5}
+        - {x: 32.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+      - - {x: 36.5, y: -41.5}
+        - {x: 32.5, y: -42.5}
+        - {x: 36.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ace8582ecf34067bd0b01568cb9d05
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_9
+      rect:
+        serializedVersion: 2
+        x: 468.0761
+        y: 0.07612038
+        width: 231.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -30.5}
+        - {x: -107, y: 20.5}
+        - {x: -105, y: -40.5}
+      - - {x: -87, y: 68.5}
+        - {x: -105, y: -40.5}
+        - {x: -107, y: 20.5}
+      - - {x: -101, y: -57.5}
+        - {x: -105, y: -40.5}
+        - {x: -87, y: 68.5}
+      - - {x: -72, y: -98.5}
+        - {x: -101, y: -57.5}
+        - {x: -87, y: 68.5}
+      - - {x: 4, y: 121.5}
+        - {x: -72, y: -98.5}
+        - {x: -87, y: 68.5}
+      - - {x: -31, y: -119.5}
+        - {x: -72, y: -98.5}
+        - {x: 4, y: 121.5}
+      - - {x: 21, y: -119.5}
+        - {x: -31, y: -119.5}
+        - {x: 4, y: 121.5}
+      - - {x: 27, y: 121.5}
+        - {x: 21, y: -119.5}
+        - {x: 4, y: 121.5}
+      - - {x: 56, y: -109.5}
+        - {x: 21, y: -119.5}
+        - {x: 27, y: 121.5}
+      - - {x: 70, y: 70.5}
+        - {x: 56, y: -109.5}
+        - {x: 27, y: 121.5}
+      - - {x: 97, y: -60.5}
+        - {x: 56, y: -109.5}
+        - {x: 70, y: 70.5}
+      - - {x: 122, y: 14.5}
+        - {x: 97, y: -60.5}
+        - {x: 70, y: 70.5}
+      - - {x: 125, y: -6.5}
+        - {x: 97, y: -60.5}
+        - {x: 122, y: 14.5}
+      - - {x: 125, y: 7.5}
+        - {x: 125, y: -6.5}
+        - {x: 122, y: 14.5}
+      physicsShape:
+      - - {x: 34, y: -81.5}
+        - {x: 44, y: -74.5}
+        - {x: 63, y: -62.5}
+        - {x: 63, y: -56.5}
+        - {x: 73, y: -40.5}
+        - {x: 77, y: -26.5}
+        - {x: 78, y: -14.5}
+        - {x: 78, y: 2.5}
+        - {x: 77, y: 14.5}
+        - {x: 73, y: 23.5}
+        - {x: 76, y: 26.5}
+        - {x: 78, y: 32.5}
+        - {x: 78, y: 33.5}
+        - {x: 69, y: 48.5}
+        - {x: 59, y: 55.5}
+        - {x: 49, y: 54.5}
+        - {x: 20, y: 67.5}
+        - {x: 17, y: 68.5}
+        - {x: -14, y: 68.5}
+        - {x: -22, y: 67.5}
+        - {x: -35, y: 61.5}
+        - {x: -47, y: 54.5}
+        - {x: -56, y: 46.5}
+        - {x: -67, y: 35.5}
+        - {x: -77, y: 14.5}
+        - {x: -79, y: 5.5}
+        - {x: -79, y: -20.5}
+        - {x: -78, y: -25.5}
+        - {x: -78, y: -40.5}
+        - {x: -65, y: -55.5}
+        - {x: -51, y: -70.5}
+        - {x: -46, y: -75.5}
+        - {x: -25, y: -85.5}
+        - {x: -11, y: -86.5}
+        - {x: -1, y: -100.5}
+        - {x: -9, y: -110.5}
+        - {x: -10, y: -112.5}
+        - {x: -7, y: -113.5}
+        - {x: -2, y: -113.5}
+        - {x: 8, y: -108.5}
+        - {x: 12, y: -105.5}
+        - {x: 9, y: -90.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7a268221d5342889740c8ef3d61408
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_10
+      rect:
+        serializedVersion: 2
+        x: 234.0761
+        y: 243.0761
+        width: 231.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -33.5}
+        - {x: -107, y: 19.5}
+        - {x: -102, y: -62.5}
+      - - {x: -100, y: 36.5}
+        - {x: -102, y: -62.5}
+        - {x: -107, y: 19.5}
+      - - {x: -73, y: -100.5}
+        - {x: -102, y: -62.5}
+        - {x: -100, y: 36.5}
+      - - {x: -91, y: 74.5}
+        - {x: -73, y: -100.5}
+        - {x: -100, y: 36.5}
+      - - {x: -4, y: 121.5}
+        - {x: -73, y: -100.5}
+        - {x: -91, y: 74.5}
+      - - {x: -15, y: -119.5}
+        - {x: -73, y: -100.5}
+        - {x: -4, y: 121.5}
+      - - {x: 8, y: -119.5}
+        - {x: -15, y: -119.5}
+        - {x: -4, y: 121.5}
+      - - {x: 35, y: 121.5}
+        - {x: 8, y: -119.5}
+        - {x: -4, y: 121.5}
+      - - {x: 26, y: -118.5}
+        - {x: 8, y: -119.5}
+        - {x: 35, y: 121.5}
+      - - {x: 53, y: -105.5}
+        - {x: 26, y: -118.5}
+        - {x: 35, y: 121.5}
+      - - {x: 56, y: 79.5}
+        - {x: 53, y: -105.5}
+        - {x: 35, y: 121.5}
+      - - {x: 101, y: -57.5}
+        - {x: 53, y: -105.5}
+        - {x: 56, y: 79.5}
+      - - {x: 109, y: 37.5}
+        - {x: 101, y: -57.5}
+        - {x: 56, y: 79.5}
+      - - {x: 125, y: -8.5}
+        - {x: 101, y: -57.5}
+        - {x: 109, y: 37.5}
+      - - {x: 125, y: 8.5}
+        - {x: 125, y: -8.5}
+        - {x: 109, y: 37.5}
+      physicsShape:
+      - - {x: 36, y: -78.5}
+        - {x: 48, y: -70.5}
+        - {x: 70, y: -59.5}
+        - {x: 69, y: -56.5}
+        - {x: 66, y: -55.5}
+        - {x: 65, y: -50.5}
+        - {x: 70, y: -40.5}
+        - {x: 73, y: -32.5}
+        - {x: 82, y: -31.5}
+        - {x: 84, y: -26.5}
+        - {x: 84, y: -15.5}
+        - {x: 78, y: 6.5}
+        - {x: 77, y: 17.5}
+        - {x: 71, y: 31.5}
+        - {x: 60, y: 45.5}
+        - {x: 61, y: 52.5}
+        - {x: 53, y: 57.5}
+        - {x: 62, y: 63.5}
+        - {x: 60, y: 66.5}
+        - {x: 54, y: 67.5}
+        - {x: 44, y: 67.5}
+        - {x: 34, y: 60.5}
+        - {x: 22, y: 64.5}
+        - {x: 7, y: 68.5}
+        - {x: -5, y: 68.5}
+        - {x: -27, y: 63.5}
+        - {x: -30, y: 68.5}
+        - {x: -33, y: 68.5}
+        - {x: -45, y: 59.5}
+        - {x: -49, y: 53.5}
+        - {x: -64, y: 36.5}
+        - {x: -72, y: 22.5}
+        - {x: -77, y: 9.5}
+        - {x: -78, y: -3.5}
+        - {x: -78, y: -13.5}
+        - {x: -76, y: -28.5}
+        - {x: -73, y: -43.5}
+        - {x: -58, y: -61.5}
+        - {x: -45, y: -73.5}
+        - {x: -30, y: -83.5}
+        - {x: -11, y: -86.5}
+        - {x: -1, y: -100.5}
+        - {x: -11, y: -112.5}
+        - {x: -9, y: -113.5}
+        - {x: -1, y: -113.5}
+        - {x: 13, y: -105.5}
+        - {x: 9, y: -91.5}
+        - {x: 6, y: -88.5}
+      - - {x: 70, y: -57.5}
+        - {x: 73, y: -56.5}
+        - {x: 73, y: -53.5}
+        - {x: 70, y: -52.5}
+        - {x: 68, y: -54.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace05f3180f1642afb2b9e40c940c42c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_3
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 486.0761
+        width: 209.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -44.5}
+        - {x: -107, y: 21.5}
+        - {x: -75, y: -103.5}
+      - - {x: -101, y: 40.5}
+        - {x: -75, y: -103.5}
+        - {x: -107, y: 21.5}
+      - - {x: -56, y: 81.5}
+        - {x: -75, y: -103.5}
+        - {x: -101, y: 40.5}
+      - - {x: -24, y: -119.5}
+        - {x: -75, y: -103.5}
+        - {x: -56, y: 81.5}
+      - - {x: -10, y: 109.5}
+        - {x: -24, y: -119.5}
+        - {x: -56, y: 81.5}
+      - - {x: 45, y: -119.5}
+        - {x: -24, y: -119.5}
+        - {x: -10, y: 109.5}
+      - - {x: 10, y: 121.5}
+        - {x: 45, y: -119.5}
+        - {x: -10, y: 109.5}
+      - - {x: 25, y: 121.5}
+        - {x: 45, y: -119.5}
+        - {x: 10, y: 121.5}
+      - - {x: 95, y: 51.5}
+        - {x: 45, y: -119.5}
+        - {x: 25, y: 121.5}
+      - - {x: 103, y: -68.5}
+        - {x: 45, y: -119.5}
+        - {x: 95, y: 51.5}
+      - - {x: 103, y: 8.5}
+        - {x: 103, y: -68.5}
+        - {x: 95, y: 51.5}
+      physicsShape:
+      - - {x: -7, y: -87.5}
+        - {x: 23, y: -84.5}
+        - {x: 31, y: -81.5}
+        - {x: 47, y: -68.5}
+        - {x: 58, y: -57.5}
+        - {x: 64, y: -49.5}
+        - {x: 69, y: -40.5}
+        - {x: 75, y: -24.5}
+        - {x: 75, y: 2.5}
+        - {x: 71, y: 15.5}
+        - {x: 68, y: 23.5}
+        - {x: 59, y: 38.5}
+        - {x: 47, y: 50.5}
+        - {x: 38, y: 56.5}
+        - {x: 30, y: 74.5}
+        - {x: 11, y: 90.5}
+        - {x: 18, y: 111.5}
+        - {x: 18, y: 115.5}
+        - {x: 15, y: 116.5}
+        - {x: 6, y: 111.5}
+        - {x: -5, y: 103.5}
+        - {x: -6, y: 98.5}
+        - {x: 1, y: 84.5}
+        - {x: 7, y: 74.5}
+        - {x: -1, y: 70.5}
+        - {x: -4, y: 66.5}
+        - {x: -21, y: 65.5}
+        - {x: -43, y: 55.5}
+        - {x: -63, y: 37.5}
+        - {x: -75, y: 10.5}
+        - {x: -77, y: 2.5}
+        - {x: -77, y: -15.5}
+        - {x: -76, y: -21.5}
+        - {x: -72, y: -40.5}
+        - {x: -64, y: -52.5}
+        - {x: -55, y: -62.5}
+        - {x: -49, y: -69.5}
+        - {x: -61, y: -92.5}
+        - {x: -59, y: -93.5}
+        - {x: -54, y: -93.5}
+        - {x: -46, y: -91.5}
+        - {x: -41, y: -86.5}
+        - {x: -30, y: -86.5}
+        - {x: -25, y: -82.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b36766769c14a92882b52af322af3c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_fire_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 729
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -38.5}
+        - {x: -36.5, y: 42.5}
+        - {x: -30.5, y: -42.5}
+      - - {x: 36.5, y: 42.5}
+        - {x: -30.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+      - - {x: 36.5, y: -42.5}
+        - {x: -30.5, y: -42.5}
+        - {x: 36.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e092fdd547db489fad6d2dfe3d6e914
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_1
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 729.0761
+        width: 209.8477
+        height: 215.8477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -36.5}
+        - {x: -107, y: 27.5}
+        - {x: -90, y: -86.5}
+      - - {x: -100, y: 39.5}
+        - {x: -90, y: -86.5}
+        - {x: -107, y: 27.5}
+      - - {x: -69, y: 80.5}
+        - {x: -90, y: -86.5}
+        - {x: -100, y: 39.5}
+      - - {x: -47, y: -111.5}
+        - {x: -90, y: -86.5}
+        - {x: -69, y: 80.5}
+      - - {x: -15, y: 96.5}
+        - {x: -47, y: -111.5}
+        - {x: -69, y: 80.5}
+      - - {x: -13, y: -119.5}
+        - {x: -47, y: -111.5}
+        - {x: -15, y: 96.5}
+      - - {x: 48, y: 96.5}
+        - {x: -13, y: -119.5}
+        - {x: -15, y: 96.5}
+      - - {x: 8, y: -119.5}
+        - {x: -13, y: -119.5}
+        - {x: 48, y: 96.5}
+      - - {x: 40, y: -112.5}
+        - {x: 8, y: -119.5}
+        - {x: 48, y: 96.5}
+      - - {x: 102, y: -62.5}
+        - {x: 40, y: -112.5}
+        - {x: 48, y: 96.5}
+      - - {x: 72, y: 71.5}
+        - {x: 102, y: -62.5}
+        - {x: 48, y: 96.5}
+      - - {x: 103, y: 23.5}
+        - {x: 102, y: -62.5}
+        - {x: 72, y: 71.5}
+      - - {x: 103, y: -51.5}
+        - {x: 102, y: -62.5}
+        - {x: 103, y: 23.5}
+      physicsShape:
+      - - {x: 71, y: -46.5}
+        - {x: 77, y: -26.5}
+        - {x: 78, y: -17.5}
+        - {x: 78, y: -6.5}
+        - {x: 76, y: 10.5}
+        - {x: 72, y: 21.5}
+        - {x: 62, y: 37.5}
+        - {x: 55, y: 46.5}
+        - {x: 33, y: 63.5}
+        - {x: 13, y: 68.5}
+        - {x: -14, y: 68.5}
+        - {x: -28, y: 64.5}
+        - {x: -42, y: 57.5}
+        - {x: -56, y: 47.5}
+        - {x: -68, y: 33.5}
+        - {x: -76, y: 16.5}
+        - {x: -79, y: 1.5}
+        - {x: -79, y: -13.5}
+        - {x: -78, y: -23.5}
+        - {x: -74, y: -41.5}
+        - {x: -67, y: -52.5}
+        - {x: -60, y: -61.5}
+        - {x: -44, y: -75.5}
+        - {x: -34, y: -82.5}
+        - {x: -17, y: -86.5}
+        - {x: -10, y: -91.5}
+        - {x: 10, y: -91.5}
+        - {x: 29, y: -82.5}
+        - {x: 42, y: -75.5}
+        - {x: 53, y: -67.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3797ddabfa64bc08374cdae45bd700
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_12
+      rect:
+        serializedVersion: 2
+        x: 234.0761
+        y: 0.07612038
+        width: 231.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -30.5}
+        - {x: -107, y: 20.5}
+        - {x: -101, y: -57.5}
+      - - {x: -86, y: 68.5}
+        - {x: -101, y: -57.5}
+        - {x: -107, y: 20.5}
+      - - {x: -72, y: -98.5}
+        - {x: -101, y: -57.5}
+        - {x: -86, y: 68.5}
+      - - {x: -13, y: 112.5}
+        - {x: -72, y: -98.5}
+        - {x: -86, y: 68.5}
+      - - {x: -19, y: -119.5}
+        - {x: -72, y: -98.5}
+        - {x: -13, y: 112.5}
+      - - {x: 15, y: -119.5}
+        - {x: -19, y: -119.5}
+        - {x: -13, y: 112.5}
+      - - {x: 5, y: 121.5}
+        - {x: 15, y: -119.5}
+        - {x: -13, y: 112.5}
+      - - {x: 25, y: 121.5}
+        - {x: 15, y: -119.5}
+        - {x: 5, y: 121.5}
+      - - {x: 26, y: -118.5}
+        - {x: 15, y: -119.5}
+        - {x: 25, y: 121.5}
+      - - {x: 28, y: 105.5}
+        - {x: 26, y: -118.5}
+        - {x: 25, y: 121.5}
+      - - {x: 53, y: -105.5}
+        - {x: 26, y: -118.5}
+        - {x: 28, y: 105.5}
+      - - {x: 112, y: 35.5}
+        - {x: 53, y: -105.5}
+        - {x: 28, y: 105.5}
+      - - {x: 100, y: -61.5}
+        - {x: 53, y: -105.5}
+        - {x: 112, y: 35.5}
+      - - {x: 125, y: -8.5}
+        - {x: 100, y: -61.5}
+        - {x: 112, y: 35.5}
+      - - {x: 125, y: 16.5}
+        - {x: 125, y: -8.5}
+        - {x: 112, y: 35.5}
+      physicsShape:
+      - - {x: 68, y: -46.5}
+        - {x: 72, y: -36.5}
+        - {x: 75, y: -21.5}
+        - {x: 78, y: -7.5}
+        - {x: 78, y: 4.5}
+        - {x: 72, y: 13.5}
+        - {x: 67, y: 26.5}
+        - {x: 62, y: 33.5}
+        - {x: 55, y: 42.5}
+        - {x: 52, y: 51.5}
+        - {x: 45, y: 57.5}
+        - {x: 35, y: 63.5}
+        - {x: 11, y: 67.5}
+        - {x: -13, y: 69.5}
+        - {x: -22, y: 69.5}
+        - {x: -45, y: 62.5}
+        - {x: -49, y: 58.5}
+        - {x: -48, y: 54.5}
+        - {x: -41, y: 55.5}
+        - {x: -49, y: 51.5}
+        - {x: -63, y: 36.5}
+        - {x: -68, y: 27.5}
+        - {x: -74, y: 16.5}
+        - {x: -77, y: 4.5}
+        - {x: -77, y: -22.5}
+        - {x: -74, y: -33.5}
+        - {x: -67, y: -48.5}
+        - {x: -61, y: -57.5}
+        - {x: -47, y: -72.5}
+        - {x: -37, y: -79.5}
+        - {x: -7, y: -86.5}
+        - {x: 6, y: -86.5}
+        - {x: 13, y: -89.5}
+        - {x: 16, y: -90.5}
+        - {x: 20, y: -90.5}
+        - {x: 25, y: -84.5}
+        - {x: 36, y: -78.5}
+        - {x: 59, y: -60.5}
+      - - {x: 79, y: 11.5}
+        - {x: 81, y: 9.5}
+        - {x: 84, y: 10.5}
+        - {x: 84, y: 14.5}
+        - {x: 82, y: 16.5}
+        - {x: 79, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0f848fc80f4b92a7fac38289571b9
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_8
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 243.0761
+        width: 231.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -48.5}
+        - {x: -107, y: 27.5}
+        - {x: -74, y: -101.5}
+      - - {x: -64, y: 80.5}
+        - {x: -74, y: -101.5}
+        - {x: -107, y: 27.5}
+      - - {x: -23, y: -119.5}
+        - {x: -74, y: -101.5}
+        - {x: -64, y: 80.5}
+      - - {x: 5, y: 121.5}
+        - {x: -23, y: -119.5}
+        - {x: -64, y: 80.5}
+      - - {x: 23, y: -119.5}
+        - {x: -23, y: -119.5}
+        - {x: 5, y: 121.5}
+      - - {x: 27, y: 121.5}
+        - {x: 23, y: -119.5}
+        - {x: 5, y: 121.5}
+      - - {x: 56, y: -110.5}
+        - {x: 23, y: -119.5}
+        - {x: 27, y: 121.5}
+      - - {x: 48, y: 85.5}
+        - {x: 56, y: -110.5}
+        - {x: 27, y: 121.5}
+      - - {x: 83, y: 64.5}
+        - {x: 56, y: -110.5}
+        - {x: 48, y: 85.5}
+      - - {x: 99, y: -60.5}
+        - {x: 56, y: -110.5}
+        - {x: 83, y: 64.5}
+      - - {x: 110, y: -4.5}
+        - {x: 99, y: -60.5}
+        - {x: 83, y: 64.5}
+      - - {x: 125, y: 14.5}
+        - {x: 110, y: -4.5}
+        - {x: 83, y: 64.5}
+      - - {x: 125, y: -4.5}
+        - {x: 110, y: -4.5}
+        - {x: 125, y: 14.5}
+      physicsShape:
+      - - {x: 27, y: -83.5}
+        - {x: 45, y: -75.5}
+        - {x: 64, y: -56.5}
+        - {x: 72, y: -40.5}
+        - {x: 77, y: -22.5}
+        - {x: 78, y: -13.5}
+        - {x: 86, y: -1.5}
+        - {x: 99, y: 4.5}
+        - {x: 110, y: 7.5}
+        - {x: 110, y: 10.5}
+        - {x: 101, y: 17.5}
+        - {x: 79, y: 27.5}
+        - {x: 76, y: 27.5}
+        - {x: 66, y: 33.5}
+        - {x: 57, y: 44.5}
+        - {x: 50, y: 52.5}
+        - {x: 31, y: 64.5}
+        - {x: 16, y: 67.5}
+        - {x: 10, y: 68.5}
+        - {x: 0, y: 69.5}
+        - {x: -10, y: 69.5}
+        - {x: -22, y: 67.5}
+        - {x: -36, y: 62.5}
+        - {x: -54, y: 51.5}
+        - {x: -71, y: 29.5}
+        - {x: -76, y: 14.5}
+        - {x: -79, y: 3.5}
+        - {x: -79, y: -29.5}
+        - {x: -69, y: -58.5}
+        - {x: -62, y: -60.5}
+        - {x: -45, y: -76.5}
+        - {x: -42, y: -81.5}
+        - {x: -44, y: -86.5}
+        - {x: -30, y: -99.5}
+        - {x: -15, y: -99.5}
+        - {x: -12, y: -98.5}
+        - {x: -12, y: -87.5}
+        - {x: 8, y: -92.5}
+        - {x: 13, y: -92.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a8276d452b5475187c6ed814781a96
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_fire_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 816
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+        - {x: 36.5, y: -42.5}
+      - - {x: 36.5, y: 42.5}
+        - {x: 36.5, y: -42.5}
+        - {x: -36.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82848c669c9f47dfb08a602ab378d23
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fupao5_zidan_13
+      rect:
+        serializedVersion: 2
+        x: 468.0761
+        y: 243.0761
+        width: 231.8477
+        height: 240.9239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: -56.5}
+        - {x: -107, y: 22.5}
+        - {x: -106, y: -60.5}
+      - - {x: -84, y: 66.5}
+        - {x: -106, y: -60.5}
+        - {x: -107, y: 22.5}
+      - - {x: -72, y: -98.5}
+        - {x: -106, y: -60.5}
+        - {x: -84, y: 66.5}
+      - - {x: -10, y: 109.5}
+        - {x: -72, y: -98.5}
+        - {x: -84, y: 66.5}
+      - - {x: -29, y: -119.5}
+        - {x: -72, y: -98.5}
+        - {x: -10, y: 109.5}
+      - - {x: 21, y: -119.5}
+        - {x: -29, y: -119.5}
+        - {x: -10, y: 109.5}
+      - - {x: 12, y: 121.5}
+        - {x: 21, y: -119.5}
+        - {x: -10, y: 109.5}
+      - - {x: 26, y: 121.5}
+        - {x: 21, y: -119.5}
+        - {x: 12, y: 121.5}
+      - - {x: 56, y: -109.5}
+        - {x: 21, y: -119.5}
+        - {x: 26, y: 121.5}
+      - - {x: 55, y: 77.5}
+        - {x: 56, y: -109.5}
+        - {x: 26, y: 121.5}
+      - - {x: 113, y: 36.5}
+        - {x: 56, y: -109.5}
+        - {x: 55, y: 77.5}
+      - - {x: 99, y: -61.5}
+        - {x: 56, y: -109.5}
+        - {x: 113, y: 36.5}
+      - - {x: 125, y: -5.5}
+        - {x: 99, y: -61.5}
+        - {x: 113, y: 36.5}
+      - - {x: 125, y: 6.5}
+        - {x: 125, y: -5.5}
+        - {x: 113, y: 36.5}
+      physicsShape:
+      - - {x: 74, y: -38.5}
+        - {x: 76, y: -26.5}
+        - {x: 78, y: -13.5}
+        - {x: 78, y: 4.5}
+        - {x: 75, y: 16.5}
+        - {x: 69, y: 30.5}
+        - {x: 46, y: 57.5}
+        - {x: 33, y: 62.5}
+        - {x: 26, y: 64.5}
+        - {x: 11, y: 69.5}
+        - {x: -20, y: 69.5}
+        - {x: -31, y: 65.5}
+        - {x: -42, y: 59.5}
+        - {x: -59, y: 44.5}
+        - {x: -67, y: 35.5}
+        - {x: -76, y: 18.5}
+        - {x: -79, y: 3.5}
+        - {x: -79, y: -23.5}
+        - {x: -74, y: -35.5}
+        - {x: -79, y: -36.5}
+        - {x: -79, y: -38.5}
+        - {x: -74, y: -55.5}
+        - {x: -64, y: -60.5}
+        - {x: -44, y: -76.5}
+        - {x: -29, y: -83.5}
+        - {x: -18, y: -87.5}
+        - {x: -5, y: -88.5}
+        - {x: 6, y: -88.5}
+        - {x: 22, y: -86.5}
+        - {x: 38, y: -78.5}
+        - {x: 50, y: -71.5}
+        - {x: 67, y: -51.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5057e0224818146bf9bbb0a81a44d719
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fupao5_fire_1: 21300018
+      fupao5_fire_2: 21300034
+      fupao5_fire_3: 21300026
+      fupao5_fire_4: 21300016
+      fupao5_fire_5: 21300008
+      fupao5_zidan_1: 21300028
+      fupao5_zidan_10: 21300022
+      fupao5_zidan_11: 21300012
+      fupao5_zidan_12: 21300030
+      fupao5_zidan_13: 21300036
+      fupao5_zidan_14: 21300002
+      fupao5_zidan_2: 21300006
+      fupao5_zidan_3: 21300024
+      fupao5_zidan_4: 21300014
+      fupao5_zidan_5: 21300004
+      fupao5_zidan_6: 21300010
+      fupao5_zidan_7: 21300000
+      fupao5_zidan_8: 21300032
+      fupao5_zidan_9: 21300020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

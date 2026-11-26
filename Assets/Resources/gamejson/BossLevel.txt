@@ -1,0 +1,798 @@
+[
+    {
+      "LevelID": 5,
+      "BossID": 40
+    },
+    {
+      "LevelID": 10,
+      "BossID": 10
+    },
+    {
+      "LevelID": 15,
+      "BossID": 15
+    },
+    {
+      "LevelID": 20,
+      "BossID": 25
+    },
+    {
+      "LevelID": 25,
+      "BossID": 45
+    },
+    {
+      "LevelID": 30,
+      "BossID": 20
+    },
+    {
+      "LevelID": 35,
+      "BossID": 30
+    },
+    {
+      "LevelID": 40,
+      "BossID": 35
+    },
+    {
+      "LevelID": 45,
+      "BossID": 40
+    },
+    {
+      "LevelID": 50,
+      "BossID": 10
+    },
+    {
+      "LevelID": 55,
+      "BossID": 15
+    },
+    {
+      "LevelID": 60,
+      "BossID": 25
+    },
+    {
+      "LevelID": 65,
+      "BossID": 45
+    },
+    {
+      "LevelID": 70,
+      "BossID": 20
+    },
+    {
+      "LevelID": 75,
+      "BossID": 30
+    },
+    {
+      "LevelID": 80,
+      "BossID": 35
+    },
+    {
+      "LevelID": 85,
+      "BossID": 40
+    },
+    {
+      "LevelID": 90,
+      "BossID": 10
+    },
+    {
+      "LevelID": 95,
+      "BossID": 15
+    },
+    {
+      "LevelID": 100,
+      "BossID": 25
+    },
+    {
+      "LevelID": 105,
+      "BossID": 45
+    },
+    {
+      "LevelID": 110,
+      "BossID": 20
+    },
+    {
+      "LevelID": 115,
+      "BossID": 30
+    },
+    {
+      "LevelID": 120,
+      "BossID": 35
+    },
+    {
+      "LevelID": 125,
+      "BossID": 40
+    },
+    {
+      "LevelID": 130,
+      "BossID": 10
+    },
+    {
+      "LevelID": 135,
+      "BossID": 15
+    },
+    {
+      "LevelID": 140,
+      "BossID": 25
+    },
+    {
+      "LevelID": 145,
+      "BossID": 45
+    },
+    {
+      "LevelID": 150,
+      "BossID": 20
+    },
+    {
+      "LevelID": 155,
+      "BossID": 30
+    },
+    {
+      "LevelID": 160,
+      "BossID": 35
+    },
+    {
+      "LevelID": 165,
+      "BossID": 40
+    },
+    {
+      "LevelID": 170,
+      "BossID": 10
+    },
+    {
+      "LevelID": 175,
+      "BossID": 15
+    },
+    {
+      "LevelID": 180,
+      "BossID": 25
+    },
+    {
+      "LevelID": 185,
+      "BossID": 45
+    },
+    {
+      "LevelID": 190,
+      "BossID": 20
+    },
+    {
+      "LevelID": 195,
+      "BossID": 30
+    },
+    {
+      "LevelID": 200,
+      "BossID": 35
+    },
+    {
+      "LevelID": 205,
+      "BossID": 40
+    },
+    {
+      "LevelID": 210,
+      "BossID": 10
+    },
+    {
+      "LevelID": 215,
+      "BossID": 15
+    },
+    {
+      "LevelID": 220,
+      "BossID": 25
+    },
+    {
+      "LevelID": 225,
+      "BossID": 45
+    },
+    {
+      "LevelID": 230,
+      "BossID": 20
+    },
+    {
+      "LevelID": 235,
+      "BossID": 30
+    },
+    {
+      "LevelID": 240,
+      "BossID": 35
+    },
+    {
+      "LevelID": 245,
+      "BossID": 40
+    },
+    {
+      "LevelID": 250,
+      "BossID": 10
+    },
+    {
+      "LevelID": 255,
+      "BossID": 15
+    },
+    {
+      "LevelID": 260,
+      "BossID": 25
+    },
+    {
+      "LevelID": 265,
+      "BossID": 45
+    },
+    {
+      "LevelID": 270,
+      "BossID": 20
+    },
+    {
+      "LevelID": 275,
+      "BossID": 30
+    },
+    {
+      "LevelID": 280,
+      "BossID": 35
+    },
+    {
+      "LevelID": 285,
+      "BossID": 40
+    },
+    {
+      "LevelID": 290,
+      "BossID": 10
+    },
+    {
+      "LevelID": 295,
+      "BossID": 15
+    },
+    {
+      "LevelID": 300,
+      "BossID": 25
+    },
+    {
+      "LevelID": 305,
+      "BossID": 45
+    },
+    {
+      "LevelID": 310,
+      "BossID": 20
+    },
+    {
+      "LevelID": 315,
+      "BossID": 30
+    },
+    {
+      "LevelID": 320,
+      "BossID": 35
+    },
+    {
+      "LevelID": 325,
+      "BossID": 40
+    },
+    {
+      "LevelID": 330,
+      "BossID": 10
+    },
+    {
+      "LevelID": 335,
+      "BossID": 15
+    },
+    {
+      "LevelID": 340,
+      "BossID": 25
+    },
+    {
+      "LevelID": 345,
+      "BossID": 45
+    },
+    {
+      "LevelID": 350,
+      "BossID": 20
+    },
+    {
+      "LevelID": 355,
+      "BossID": 30
+    },
+    {
+      "LevelID": 360,
+      "BossID": 35
+    },
+    {
+      "LevelID": 365,
+      "BossID": 40
+    },
+    {
+      "LevelID": 370,
+      "BossID": 10
+    },
+    {
+      "LevelID": 375,
+      "BossID": 15
+    },
+    {
+      "LevelID": 380,
+      "BossID": 25
+    },
+    {
+      "LevelID": 385,
+      "BossID": 45
+    },
+    {
+      "LevelID": 390,
+      "BossID": 20
+    },
+    {
+      "LevelID": 395,
+      "BossID": 30
+    },
+    {
+      "LevelID": 400,
+      "BossID": 35
+    },
+    {
+      "LevelID": 405,
+      "BossID": 40
+    },
+    {
+      "LevelID": 410,
+      "BossID": 10
+    },
+    {
+      "LevelID": 415,
+      "BossID": 15
+    },
+    {
+      "LevelID": 420,
+      "BossID": 25
+    },
+    {
+      "LevelID": 425,
+      "BossID": 45
+    },
+    {
+      "LevelID": 430,
+      "BossID": 20
+    },
+    {
+      "LevelID": 435,
+      "BossID": 30
+    },
+    {
+      "LevelID": 440,
+      "BossID": 35
+    },
+    {
+      "LevelID": 445,
+      "BossID": 40
+    },
+    {
+      "LevelID": 450,
+      "BossID": 10
+    },
+    {
+      "LevelID": 455,
+      "BossID": 15
+    },
+    {
+      "LevelID": 460,
+      "BossID": 25
+    },
+    {
+      "LevelID": 465,
+      "BossID": 45
+    },
+    {
+      "LevelID": 470,
+      "BossID": 20
+    },
+    {
+      "LevelID": 475,
+      "BossID": 30
+    },
+    {
+      "LevelID": 480,
+      "BossID": 35
+    },
+    {
+      "LevelID": 485,
+      "BossID": 40
+    },
+    {
+      "LevelID": 490,
+      "BossID": 10
+    },
+    {
+      "LevelID": 495,
+      "BossID": 15
+    },
+    {
+      "LevelID": 500,
+      "BossID": 25
+    },
+    {
+      "LevelID": 505,
+      "BossID": 45
+    },
+    {
+      "LevelID": 510,
+      "BossID": 20
+    },
+    {
+      "LevelID": 515,
+      "BossID": 30
+    },
+    {
+      "LevelID": 520,
+      "BossID": 35
+    },
+    {
+      "LevelID": 525,
+      "BossID": 40
+    },
+    {
+      "LevelID": 530,
+      "BossID": 10
+    },
+    {
+      "LevelID": 535,
+      "BossID": 15
+    },
+    {
+      "LevelID": 540,
+      "BossID": 25
+    },
+    {
+      "LevelID": 545,
+      "BossID": 45
+    },
+    {
+      "LevelID": 550,
+      "BossID": 20
+    },
+    {
+      "LevelID": 555,
+      "BossID": 30
+    },
+    {
+      "LevelID": 560,
+      "BossID": 35
+    },
+    {
+      "LevelID": 565,
+      "BossID": 40
+    },
+    {
+      "LevelID": 570,
+      "BossID": 10
+    },
+    {
+      "LevelID": 575,
+      "BossID": 15
+    },
+    {
+      "LevelID": 580,
+      "BossID": 25
+    },
+    {
+      "LevelID": 585,
+      "BossID": 45
+    },
+    {
+      "LevelID": 590,
+      "BossID": 20
+    },
+    {
+      "LevelID": 595,
+      "BossID": 30
+    },
+    {
+      "LevelID": 600,
+      "BossID": 35
+    },
+    {
+      "LevelID": 605,
+      "BossID": 40
+    },
+    {
+      "LevelID": 610,
+      "BossID": 10
+    },
+    {
+      "LevelID": 615,
+      "BossID": 15
+    },
+    {
+      "LevelID": 620,
+      "BossID": 25
+    },
+    {
+      "LevelID": 625,
+      "BossID": 45
+    },
+    {
+      "LevelID": 630,
+      "BossID": 20
+    },
+    {
+      "LevelID": 635,
+      "BossID": 30
+    },
+    {
+      "LevelID": 640,
+      "BossID": 35
+    },
+    {
+      "LevelID": 645,
+      "BossID": 40
+    },
+    {
+      "LevelID": 650,
+      "BossID": 10
+    },
+    {
+      "LevelID": 655,
+      "BossID": 15
+    },
+    {
+      "LevelID": 660,
+      "BossID": 25
+    },
+    {
+      "LevelID": 665,
+      "BossID": 45
+    },
+    {
+      "LevelID": 670,
+      "BossID": 20
+    },
+    {
+      "LevelID": 675,
+      "BossID": 30
+    },
+    {
+      "LevelID": 680,
+      "BossID": 35
+    },
+    {
+      "LevelID": 685,
+      "BossID": 40
+    },
+    {
+      "LevelID": 690,
+      "BossID": 10
+    },
+    {
+      "LevelID": 695,
+      "BossID": 15
+    },
+    {
+      "LevelID": 700,
+      "BossID": 25
+    },
+    {
+      "LevelID": 705,
+      "BossID": 45
+    },
+    {
+      "LevelID": 710,
+      "BossID": 20
+    },
+    {
+      "LevelID": 715,
+      "BossID": 30
+    },
+    {
+      "LevelID": 720,
+      "BossID": 35
+    },
+    {
+      "LevelID": 725,
+      "BossID": 40
+    },
+    {
+      "LevelID": 730,
+      "BossID": 10
+    },
+    {
+      "LevelID": 735,
+      "BossID": 15
+    },
+    {
+      "LevelID": 740,
+      "BossID": 25
+    },
+    {
+      "LevelID": 745,
+      "BossID": 45
+    },
+    {
+      "LevelID": 750,
+      "BossID": 20
+    },
+    {
+      "LevelID": 755,
+      "BossID": 30
+    },
+    {
+      "LevelID": 760,
+      "BossID": 35
+    },
+    {
+      "LevelID": 765,
+      "BossID": 40
+    },
+    {
+      "LevelID": 770,
+      "BossID": 10
+    },
+    {
+      "LevelID": 775,
+      "BossID": 15
+    },
+    {
+      "LevelID": 780,
+      "BossID": 25
+    },
+    {
+      "LevelID": 785,
+      "BossID": 45
+    },
+    {
+      "LevelID": 790,
+      "BossID": 20
+    },
+    {
+      "LevelID": 795,
+      "BossID": 30
+    },
+    {
+      "LevelID": 800,
+      "BossID": 35
+    },
+    {
+      "LevelID": 805,
+      "BossID": 40
+    },
+    {
+      "LevelID": 810,
+      "BossID": 10
+    },
+    {
+      "LevelID": 815,
+      "BossID": 15
+    },
+    {
+      "LevelID": 820,
+      "BossID": 25
+    },
+    {
+      "LevelID": 825,
+      "BossID": 45
+    },
+    {
+      "LevelID": 830,
+      "BossID": 20
+    },
+    {
+      "LevelID": 835,
+      "BossID": 30
+    },
+    {
+      "LevelID": 840,
+      "BossID": 35
+    },
+    {
+      "LevelID": 845,
+      "BossID": 40
+    },
+    {
+      "LevelID": 850,
+      "BossID": 10
+    },
+    {
+      "LevelID": 855,
+      "BossID": 15
+    },
+    {
+      "LevelID": 860,
+      "BossID": 25
+    },
+    {
+      "LevelID": 865,
+      "BossID": 45
+    },
+    {
+      "LevelID": 870,
+      "BossID": 20
+    },
+    {
+      "LevelID": 875,
+      "BossID": 30
+    },
+    {
+      "LevelID": 880,
+      "BossID": 35
+    },
+    {
+      "LevelID": 885,
+      "BossID": 40
+    },
+    {
+      "LevelID": 890,
+      "BossID": 10
+    },
+    {
+      "LevelID": 895,
+      "BossID": 15
+    },
+    {
+      "LevelID": 900,
+      "BossID": 25
+    },
+    {
+      "LevelID": 905,
+      "BossID": 45
+    },
+    {
+      "LevelID": 910,
+      "BossID": 20
+    },
+    {
+      "LevelID": 915,
+      "BossID": 30
+    },
+    {
+      "LevelID": 920,
+      "BossID": 35
+    },
+    {
+      "LevelID": 925,
+      "BossID": 40
+    },
+    {
+      "LevelID": 930,
+      "BossID": 10
+    },
+    {
+      "LevelID": 935,
+      "BossID": 15
+    },
+    {
+      "LevelID": 940,
+      "BossID": 25
+    },
+    {
+      "LevelID": 945,
+      "BossID": 45
+    },
+    {
+      "LevelID": 950,
+      "BossID": 20
+    },
+    {
+      "LevelID": 955,
+      "BossID": 30
+    },
+    {
+      "LevelID": 960,
+      "BossID": 35
+    },
+    {
+      "LevelID": 965,
+      "BossID": 40
+    },
+    {
+      "LevelID": 970,
+      "BossID": 10
+    },
+    {
+      "LevelID": 975,
+      "BossID": 15
+    },
+    {
+      "LevelID": 980,
+      "BossID": 25
+    },
+    {
+      "LevelID": 985,
+      "BossID": 45
+    },
+    {
+      "LevelID": 990,
+      "BossID": 20
+    },
+    {
+      "LevelID": 995,
+      "BossID": 30
+    }
+  ]

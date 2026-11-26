@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 816e597021514f2f93f84e19879e6090
+timeCreated: 1566043481
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "UI_ziti"
+  fontNames:
+  - customFutura
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

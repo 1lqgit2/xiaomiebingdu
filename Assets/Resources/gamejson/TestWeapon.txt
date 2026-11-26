@@ -1,0 +1,5996 @@
+[
+    {
+      "Speed": 1,
+      "Power": 1,
+      "Coin": 1,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 2,
+      "Power": 1,
+      "Coin": 1,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 3,
+      "Power": 2,
+      "Coin": 2,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 5,
+      "Power": 4,
+      "Coin": 2,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 6,
+      "Power": 5,
+      "Coin": 3,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 7,
+      "Power": 5,
+      "Coin": 3,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 8,
+      "Power": 6,
+      "Coin": 4,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 9,
+      "Power": 7,
+      "Coin": 4,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 10,
+      "Power": 8,
+      "Coin": 4,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 11,
+      "Power": 9,
+      "Coin": 5,
+      "WeaponLevel": 1
+    },
+    {
+      "Speed": 12,
+      "Power": 10,
+      "Coin": 6,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 13,
+      "Power": 11,
+      "Coin": 6,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 14,
+      "Power": 11,
+      "Coin": 7,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 15,
+      "Power": 12,
+      "Coin": 7,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 16,
+      "Power": 13,
+      "Coin": 8,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 17,
+      "Power": 14,
+      "Coin": 8,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 18,
+      "Power": 14,
+      "Coin": 8,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 18,
+      "Power": 15,
+      "Coin": 9,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 19,
+      "Power": 15,
+      "Coin": 9,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 20,
+      "Power": 16,
+      "Coin": 10,
+      "WeaponLevel": 2
+    },
+    {
+      "Speed": 21,
+      "Power": 17,
+      "Coin": 10,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 22,
+      "Power": 17,
+      "Coin": 10,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 22,
+      "Power": 17,
+      "Coin": 11,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 23,
+      "Power": 18,
+      "Coin": 11,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 24,
+      "Power": 19,
+      "Coin": 12,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 25,
+      "Power": 20,
+      "Coin": 12,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 26,
+      "Power": 20,
+      "Coin": 12,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 27,
+      "Power": 21,
+      "Coin": 13,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 28,
+      "Power": 21,
+      "Coin": 13,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 29,
+      "Power": 22,
+      "Coin": 14,
+      "WeaponLevel": 3
+    },
+    {
+      "Speed": 30,
+      "Power": 23,
+      "Coin": 15,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 31,
+      "Power": 24,
+      "Coin": 15,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 31,
+      "Power": 25,
+      "Coin": 16,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 32,
+      "Power": 26,
+      "Coin": 16,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 33,
+      "Power": 27,
+      "Coin": 16,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 34,
+      "Power": 27,
+      "Coin": 17,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 35,
+      "Power": 28,
+      "Coin": 18,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 36,
+      "Power": 29,
+      "Coin": 18,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 36,
+      "Power": 29,
+      "Coin": 18,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 38,
+      "Power": 30,
+      "Coin": 19,
+      "WeaponLevel": 4
+    },
+    {
+      "Speed": 38,
+      "Power": 30,
+      "Coin": 19,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 38,
+      "Power": 31,
+      "Coin": 20,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 39,
+      "Power": 31,
+      "Coin": 20,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 40,
+      "Power": 32,
+      "Coin": 20,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 41,
+      "Power": 33,
+      "Coin": 21,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 41,
+      "Power": 33,
+      "Coin": 21,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 42,
+      "Power": 34,
+      "Coin": 22,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 43,
+      "Power": 35,
+      "Coin": 23,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 44,
+      "Power": 35,
+      "Coin": 23,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 45,
+      "Power": 36,
+      "Coin": 24,
+      "WeaponLevel": 5
+    },
+    {
+      "Speed": 45,
+      "Power": 37,
+      "Coin": 25,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 46,
+      "Power": 38,
+      "Coin": 25,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 48,
+      "Power": 39,
+      "Coin": 26,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 49,
+      "Power": 39,
+      "Coin": 27,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 50,
+      "Power": 41,
+      "Coin": 28,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 51,
+      "Power": 42,
+      "Coin": 29,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 52,
+      "Power": 43,
+      "Coin": 29,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 52,
+      "Power": 43,
+      "Coin": 29,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 53,
+      "Power": 44,
+      "Coin": 29,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 54,
+      "Power": 45,
+      "Coin": 29,
+      "WeaponLevel": 6
+    },
+    {
+      "Speed": 55,
+      "Power": 46,
+      "Coin": 29,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 55,
+      "Power": 46,
+      "Coin": 30,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 56,
+      "Power": 47,
+      "Coin": 30,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 56,
+      "Power": 47,
+      "Coin": 30,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 57,
+      "Power": 48,
+      "Coin": 32,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 58,
+      "Power": 48,
+      "Coin": 32,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 58,
+      "Power": 49,
+      "Coin": 32,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 59,
+      "Power": 50,
+      "Coin": 33,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 60,
+      "Power": 50,
+      "Coin": 34,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 60,
+      "Power": 51,
+      "Coin": 34,
+      "WeaponLevel": 7
+    },
+    {
+      "Speed": 61,
+      "Power": 51,
+      "Coin": 34,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 61,
+      "Power": 51,
+      "Coin": 35,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 62,
+      "Power": 52,
+      "Coin": 36,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 62,
+      "Power": 52,
+      "Coin": 36,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 64,
+      "Power": 54,
+      "Coin": 38,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 65,
+      "Power": 55,
+      "Coin": 39,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 66,
+      "Power": 56,
+      "Coin": 38,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 66,
+      "Power": 57,
+      "Coin": 39,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 67,
+      "Power": 57,
+      "Coin": 41,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 68,
+      "Power": 58,
+      "Coin": 42,
+      "WeaponLevel": 8
+    },
+    {
+      "Speed": 69,
+      "Power": 59,
+      "Coin": 42,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 70,
+      "Power": 59,
+      "Coin": 42,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 71,
+      "Power": 59,
+      "Coin": 43,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 72,
+      "Power": 60,
+      "Coin": 43,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 74,
+      "Power": 61,
+      "Coin": 44,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 74,
+      "Power": 62,
+      "Coin": 45,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 74,
+      "Power": 62,
+      "Coin": 46,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 74,
+      "Power": 62,
+      "Coin": 45,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 75,
+      "Power": 63,
+      "Coin": 45,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 76,
+      "Power": 64,
+      "Coin": 46,
+      "WeaponLevel": 9
+    },
+    {
+      "Speed": 76,
+      "Power": 65,
+      "Coin": 47,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 76,
+      "Power": 66,
+      "Coin": 47,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 77,
+      "Power": 67,
+      "Coin": 49,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 78,
+      "Power": 67,
+      "Coin": 49,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 78,
+      "Power": 68,
+      "Coin": 49,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 79,
+      "Power": 69,
+      "Coin": 49,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 80,
+      "Power": 69,
+      "Coin": 50,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 82,
+      "Power": 71,
+      "Coin": 50,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 84,
+      "Power": 71,
+      "Coin": 50,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 84,
+      "Power": 72,
+      "Coin": 51,
+      "WeaponLevel": 10
+    },
+    {
+      "Speed": 85,
+      "Power": 72,
+      "Coin": 51,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 86,
+      "Power": 72,
+      "Coin": 50,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 87,
+      "Power": 73,
+      "Coin": 50,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 88,
+      "Power": 73,
+      "Coin": 51,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 89,
+      "Power": 74,
+      "Coin": 51,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 90,
+      "Power": 75,
+      "Coin": 51,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 92,
+      "Power": 75,
+      "Coin": 52,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 93,
+      "Power": 76,
+      "Coin": 53,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 94,
+      "Power": 76,
+      "Coin": 54,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 96,
+      "Power": 78,
+      "Coin": 56,
+      "WeaponLevel": 11
+    },
+    {
+      "Speed": 98,
+      "Power": 79,
+      "Coin": 57,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 98,
+      "Power": 80,
+      "Coin": 59,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 100,
+      "Power": 81,
+      "Coin": 61,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 100,
+      "Power": 82,
+      "Coin": 61,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 101,
+      "Power": 83,
+      "Coin": 62,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 102,
+      "Power": 84,
+      "Coin": 63,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 104,
+      "Power": 85,
+      "Coin": 64,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 104,
+      "Power": 86,
+      "Coin": 64,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 104,
+      "Power": 87,
+      "Coin": 66,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 105,
+      "Power": 88,
+      "Coin": 66,
+      "WeaponLevel": 12
+    },
+    {
+      "Speed": 106,
+      "Power": 89,
+      "Coin": 66,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 108,
+      "Power": 90,
+      "Coin": 67,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 109,
+      "Power": 91,
+      "Coin": 68,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 112,
+      "Power": 92,
+      "Coin": 67,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 113,
+      "Power": 93,
+      "Coin": 69,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 113,
+      "Power": 94,
+      "Coin": 70,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 114,
+      "Power": 94,
+      "Coin": 70,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 115,
+      "Power": 94,
+      "Coin": 69,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 118,
+      "Power": 96,
+      "Coin": 71,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 119,
+      "Power": 96,
+      "Coin": 72,
+      "WeaponLevel": 13
+    },
+    {
+      "Speed": 119,
+      "Power": 97,
+      "Coin": 73,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 120,
+      "Power": 98,
+      "Coin": 75,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 120,
+      "Power": 99,
+      "Coin": 78,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 122,
+      "Power": 101,
+      "Coin": 78,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 123,
+      "Power": 102,
+      "Coin": 77,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 125,
+      "Power": 102,
+      "Coin": 77,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 127,
+      "Power": 102,
+      "Coin": 78,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 127,
+      "Power": 103,
+      "Coin": 78,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 129,
+      "Power": 104,
+      "Coin": 77,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 131,
+      "Power": 105,
+      "Coin": 78,
+      "WeaponLevel": 14
+    },
+    {
+      "Speed": 133,
+      "Power": 106,
+      "Coin": 78,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 132,
+      "Power": 107,
+      "Coin": 77,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 135,
+      "Power": 108,
+      "Coin": 80,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 134,
+      "Power": 109,
+      "Coin": 79,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 135,
+      "Power": 111,
+      "Coin": 79,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 137,
+      "Power": 111,
+      "Coin": 80,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 136,
+      "Power": 111,
+      "Coin": 81,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 138,
+      "Power": 111,
+      "Coin": 83,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 141,
+      "Power": 112,
+      "Coin": 83,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 142,
+      "Power": 114,
+      "Coin": 85,
+      "WeaponLevel": 15
+    },
+    {
+      "Speed": 140,
+      "Power": 114,
+      "Coin": 82,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 143,
+      "Power": 115,
+      "Coin": 82,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 145,
+      "Power": 115,
+      "Coin": 82,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 145,
+      "Power": 116,
+      "Coin": 83,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 146,
+      "Power": 116,
+      "Coin": 81,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 149,
+      "Power": 117,
+      "Coin": 81,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 148,
+      "Power": 118,
+      "Coin": 82,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 150,
+      "Power": 120,
+      "Coin": 85,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 153,
+      "Power": 121,
+      "Coin": 87,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 152,
+      "Power": 123,
+      "Coin": 89,
+      "WeaponLevel": 16
+    },
+    {
+      "Speed": 152,
+      "Power": 123,
+      "Coin": 86,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 151,
+      "Power": 124,
+      "Coin": 87,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 154,
+      "Power": 125,
+      "Coin": 93,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 155,
+      "Power": 127,
+      "Coin": 95,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 155,
+      "Power": 129,
+      "Coin": 95,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 157,
+      "Power": 131,
+      "Coin": 99,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 161,
+      "Power": 132,
+      "Coin": 103,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 166,
+      "Power": 133,
+      "Coin": 105,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 165,
+      "Power": 134,
+      "Coin": 107,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 168,
+      "Power": 135,
+      "Coin": 107,
+      "WeaponLevel": 17
+    },
+    {
+      "Speed": 167,
+      "Power": 136,
+      "Coin": 110,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 169,
+      "Power": 137,
+      "Coin": 111,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 167,
+      "Power": 137,
+      "Coin": 110,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 165,
+      "Power": 139,
+      "Coin": 108,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 171,
+      "Power": 140,
+      "Coin": 111,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 172,
+      "Power": 141,
+      "Coin": 111,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 176,
+      "Power": 142,
+      "Coin": 115,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 179,
+      "Power": 143,
+      "Coin": 114,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 176,
+      "Power": 144,
+      "Coin": 110,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 174,
+      "Power": 145,
+      "Coin": 112,
+      "WeaponLevel": 18
+    },
+    {
+      "Speed": 174,
+      "Power": 146,
+      "Coin": 112,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 176,
+      "Power": 147,
+      "Coin": 114,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 172,
+      "Power": 147,
+      "Coin": 106,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 173,
+      "Power": 148,
+      "Coin": 107,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 177,
+      "Power": 149,
+      "Coin": 111,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 179,
+      "Power": 150,
+      "Coin": 112,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 180,
+      "Power": 151,
+      "Coin": 113,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 182,
+      "Power": 151,
+      "Coin": 110,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 187,
+      "Power": 154,
+      "Coin": 111,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 188,
+      "Power": 154,
+      "Coin": 113,
+      "WeaponLevel": 19
+    },
+    {
+      "Speed": 192,
+      "Power": 155,
+      "Coin": 117,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 196,
+      "Power": 156,
+      "Coin": 118,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 196,
+      "Power": 157,
+      "Coin": 120,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 196,
+      "Power": 158,
+      "Coin": 124,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 199,
+      "Power": 159,
+      "Coin": 124,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 196,
+      "Power": 160,
+      "Coin": 120,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 197,
+      "Power": 161,
+      "Coin": 120,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 200,
+      "Power": 161,
+      "Coin": 121,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 205,
+      "Power": 162,
+      "Coin": 123,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 205,
+      "Power": 163,
+      "Coin": 121,
+      "WeaponLevel": 20
+    },
+    {
+      "Speed": 203,
+      "Power": 164,
+      "Coin": 121,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 203,
+      "Power": 165,
+      "Coin": 120,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 198,
+      "Power": 165,
+      "Coin": 122,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 203,
+      "Power": 166,
+      "Coin": 120,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 211,
+      "Power": 168,
+      "Coin": 124,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 218,
+      "Power": 169,
+      "Coin": 127,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 215,
+      "Power": 169,
+      "Coin": 129,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 215,
+      "Power": 170,
+      "Coin": 129,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 221,
+      "Power": 171,
+      "Coin": 127,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 223,
+      "Power": 173,
+      "Coin": 127,
+      "WeaponLevel": 21
+    },
+    {
+      "Speed": 224,
+      "Power": 174,
+      "Coin": 130,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 223,
+      "Power": 174,
+      "Coin": 128,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 228,
+      "Power": 175,
+      "Coin": 130,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 228,
+      "Power": 176,
+      "Coin": 128,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 230,
+      "Power": 176,
+      "Coin": 128,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 237,
+      "Power": 177,
+      "Coin": 132,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 233,
+      "Power": 178,
+      "Coin": 137,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 223,
+      "Power": 179,
+      "Coin": 132,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 227,
+      "Power": 181,
+      "Coin": 134,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 230,
+      "Power": 185,
+      "Coin": 139,
+      "WeaponLevel": 22
+    },
+    {
+      "Speed": 230,
+      "Power": 186,
+      "Coin": 139,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 230,
+      "Power": 186,
+      "Coin": 142,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 226,
+      "Power": 187,
+      "Coin": 140,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 229,
+      "Power": 187,
+      "Coin": 136,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 230,
+      "Power": 188,
+      "Coin": 137,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 235,
+      "Power": 189,
+      "Coin": 142,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 234,
+      "Power": 190,
+      "Coin": 140,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 235,
+      "Power": 191,
+      "Coin": 141,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 234,
+      "Power": 194,
+      "Coin": 143,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 235,
+      "Power": 196,
+      "Coin": 143,
+      "WeaponLevel": 23
+    },
+    {
+      "Speed": 238,
+      "Power": 198,
+      "Coin": 152,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 240,
+      "Power": 198,
+      "Coin": 154,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 237,
+      "Power": 200,
+      "Coin": 156,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 241,
+      "Power": 201,
+      "Coin": 159,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 245,
+      "Power": 202,
+      "Coin": 162,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 238,
+      "Power": 203,
+      "Coin": 157,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 238,
+      "Power": 203,
+      "Coin": 158,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 232,
+      "Power": 204,
+      "Coin": 157,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 233,
+      "Power": 206,
+      "Coin": 158,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 234,
+      "Power": 206,
+      "Coin": 160,
+      "WeaponLevel": 24
+    },
+    {
+      "Speed": 236,
+      "Power": 206,
+      "Coin": 159,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 237,
+      "Power": 207,
+      "Coin": 158,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 241,
+      "Power": 207,
+      "Coin": 156,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 242,
+      "Power": 208,
+      "Coin": 154,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 240,
+      "Power": 211,
+      "Coin": 160,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 233,
+      "Power": 211,
+      "Coin": 165,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 234,
+      "Power": 212,
+      "Coin": 166,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 235,
+      "Power": 214,
+      "Coin": 173,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 233,
+      "Power": 216,
+      "Coin": 182,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 234,
+      "Power": 220,
+      "Coin": 184,
+      "WeaponLevel": 25
+    },
+    {
+      "Speed": 234,
+      "Power": 222,
+      "Coin": 185,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 234,
+      "Power": 222,
+      "Coin": 186,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 235,
+      "Power": 223,
+      "Coin": 190,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 232,
+      "Power": 223,
+      "Coin": 188,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 232,
+      "Power": 224,
+      "Coin": 188,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 233,
+      "Power": 224,
+      "Coin": 189,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 233,
+      "Power": 225,
+      "Coin": 190,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 235,
+      "Power": 226,
+      "Coin": 199,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 238,
+      "Power": 225,
+      "Coin": 204,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 247,
+      "Power": 227,
+      "Coin": 195,
+      "WeaponLevel": 26
+    },
+    {
+      "Speed": 249,
+      "Power": 229,
+      "Coin": 188,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 250,
+      "Power": 229,
+      "Coin": 192,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 252,
+      "Power": 231,
+      "Coin": 211,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 253,
+      "Power": 233,
+      "Coin": 211,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 253,
+      "Power": 233,
+      "Coin": 211,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 253,
+      "Power": 234,
+      "Coin": 213,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 254,
+      "Power": 235,
+      "Coin": 217,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 254,
+      "Power": 235,
+      "Coin": 217,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 254,
+      "Power": 236,
+      "Coin": 210,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 255,
+      "Power": 237,
+      "Coin": 210,
+      "WeaponLevel": 27
+    },
+    {
+      "Speed": 256,
+      "Power": 238,
+      "Coin": 211,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 256,
+      "Power": 238,
+      "Coin": 212,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 254,
+      "Power": 240,
+      "Coin": 196,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 255,
+      "Power": 240,
+      "Coin": 197,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 256,
+      "Power": 241,
+      "Coin": 197,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 266,
+      "Power": 241,
+      "Coin": 182,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 266,
+      "Power": 242,
+      "Coin": 182,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 267,
+      "Power": 242,
+      "Coin": 183,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 262,
+      "Power": 245,
+      "Coin": 163,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 258,
+      "Power": 245,
+      "Coin": 156,
+      "WeaponLevel": 28
+    },
+    {
+      "Speed": 259,
+      "Power": 246,
+      "Coin": 156,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 260,
+      "Power": 247,
+      "Coin": 156,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 260,
+      "Power": 248,
+      "Coin": 152,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 267,
+      "Power": 249,
+      "Coin": 152,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 268,
+      "Power": 251,
+      "Coin": 152,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 268,
+      "Power": 251,
+      "Coin": 153,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 268,
+      "Power": 252,
+      "Coin": 153,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 268,
+      "Power": 252,
+      "Coin": 153,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 268,
+      "Power": 253,
+      "Coin": 153,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 270,
+      "Power": 253,
+      "Coin": 146,
+      "WeaponLevel": 29
+    },
+    {
+      "Speed": 274,
+      "Power": 254,
+      "Coin": 151,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 281,
+      "Power": 255,
+      "Coin": 149,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 276,
+      "Power": 258,
+      "Coin": 150,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 276,
+      "Power": 259,
+      "Coin": 151,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 286,
+      "Power": 259,
+      "Coin": 148,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 289,
+      "Power": 260,
+      "Coin": 145,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 289,
+      "Power": 261,
+      "Coin": 145,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 282,
+      "Power": 260,
+      "Coin": 160,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 289,
+      "Power": 259,
+      "Coin": 167,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 290,
+      "Power": 260,
+      "Coin": 168,
+      "WeaponLevel": 30
+    },
+    {
+      "Speed": 291,
+      "Power": 261,
+      "Coin": 168,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 292,
+      "Power": 262,
+      "Coin": 169,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 293,
+      "Power": 263,
+      "Coin": 169,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 294,
+      "Power": 264,
+      "Coin": 170,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 295,
+      "Power": 265,
+      "Coin": 170,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 296,
+      "Power": 266,
+      "Coin": 171,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 297,
+      "Power": 267,
+      "Coin": 171,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 298,
+      "Power": 268,
+      "Coin": 172,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 299,
+      "Power": 269,
+      "Coin": 173,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 300,
+      "Power": 270,
+      "Coin": 173,
+      "WeaponLevel": 31
+    },
+    {
+      "Speed": 301,
+      "Power": 271,
+      "Coin": 174,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 302,
+      "Power": 272,
+      "Coin": 174,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 303,
+      "Power": 273,
+      "Coin": 175,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 304,
+      "Power": 274,
+      "Coin": 175,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 305,
+      "Power": 275,
+      "Coin": 176,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 306,
+      "Power": 276,
+      "Coin": 176,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 307,
+      "Power": 277,
+      "Coin": 177,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 308,
+      "Power": 278,
+      "Coin": 178,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 309,
+      "Power": 279,
+      "Coin": 178,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 310,
+      "Power": 280,
+      "Coin": 179,
+      "WeaponLevel": 32
+    },
+    {
+      "Speed": 311,
+      "Power": 281,
+      "Coin": 179,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 312,
+      "Power": 282,
+      "Coin": 180,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 313,
+      "Power": 283,
+      "Coin": 180,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 314,
+      "Power": 284,
+      "Coin": 181,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 315,
+      "Power": 285,
+      "Coin": 182,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 316,
+      "Power": 286,
+      "Coin": 182,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 317,
+      "Power": 287,
+      "Coin": 183,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 318,
+      "Power": 288,
+      "Coin": 183,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 319,
+      "Power": 289,
+      "Coin": 184,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 320,
+      "Power": 290,
+      "Coin": 184,
+      "WeaponLevel": 33
+    },
+    {
+      "Speed": 321,
+      "Power": 291,
+      "Coin": 185,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 322,
+      "Power": 292,
+      "Coin": 185,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 323,
+      "Power": 293,
+      "Coin": 186,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 324,
+      "Power": 294,
+      "Coin": 187,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 325,
+      "Power": 295,
+      "Coin": 187,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 326,
+      "Power": 296,
+      "Coin": 188,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 327,
+      "Power": 297,
+      "Coin": 188,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 328,
+      "Power": 298,
+      "Coin": 189,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 329,
+      "Power": 299,
+      "Coin": 189,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 330,
+      "Power": 300,
+      "Coin": 190,
+      "WeaponLevel": 34
+    },
+    {
+      "Speed": 331,
+      "Power": 301,
+      "Coin": 190,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 332,
+      "Power": 302,
+      "Coin": 191,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 333,
+      "Power": 303,
+      "Coin": 192,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 334,
+      "Power": 304,
+      "Coin": 192,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 335,
+      "Power": 305,
+      "Coin": 193,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 336,
+      "Power": 306,
+      "Coin": 193,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 337,
+      "Power": 307,
+      "Coin": 194,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 338,
+      "Power": 308,
+      "Coin": 194,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 339,
+      "Power": 309,
+      "Coin": 195,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 340,
+      "Power": 310,
+      "Coin": 196,
+      "WeaponLevel": 35
+    },
+    {
+      "Speed": 341,
+      "Power": 311,
+      "Coin": 196,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 342,
+      "Power": 312,
+      "Coin": 197,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 343,
+      "Power": 313,
+      "Coin": 197,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 344,
+      "Power": 314,
+      "Coin": 198,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 345,
+      "Power": 315,
+      "Coin": 198,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 346,
+      "Power": 316,
+      "Coin": 199,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 347,
+      "Power": 317,
+      "Coin": 199,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 348,
+      "Power": 318,
+      "Coin": 200,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 349,
+      "Power": 319,
+      "Coin": 201,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 350,
+      "Power": 320,
+      "Coin": 201,
+      "WeaponLevel": 36
+    },
+    {
+      "Speed": 351,
+      "Power": 321,
+      "Coin": 202,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 352,
+      "Power": 322,
+      "Coin": 202,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 353,
+      "Power": 323,
+      "Coin": 203,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 354,
+      "Power": 324,
+      "Coin": 203,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 355,
+      "Power": 325,
+      "Coin": 204,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 356,
+      "Power": 326,
+      "Coin": 204,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 357,
+      "Power": 327,
+      "Coin": 205,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 358,
+      "Power": 328,
+      "Coin": 206,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 359,
+      "Power": 329,
+      "Coin": 206,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 360,
+      "Power": 330,
+      "Coin": 207,
+      "WeaponLevel": 37
+    },
+    {
+      "Speed": 361,
+      "Power": 331,
+      "Coin": 207,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 362,
+      "Power": 332,
+      "Coin": 208,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 363,
+      "Power": 333,
+      "Coin": 208,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 364,
+      "Power": 334,
+      "Coin": 209,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 365,
+      "Power": 335,
+      "Coin": 210,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 366,
+      "Power": 336,
+      "Coin": 210,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 367,
+      "Power": 337,
+      "Coin": 211,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 368,
+      "Power": 338,
+      "Coin": 211,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 369,
+      "Power": 339,
+      "Coin": 212,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 370,
+      "Power": 340,
+      "Coin": 212,
+      "WeaponLevel": 38
+    },
+    {
+      "Speed": 371,
+      "Power": 341,
+      "Coin": 213,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 372,
+      "Power": 342,
+      "Coin": 213,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 373,
+      "Power": 343,
+      "Coin": 214,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 374,
+      "Power": 344,
+      "Coin": 215,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 375,
+      "Power": 345,
+      "Coin": 215,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 376,
+      "Power": 346,
+      "Coin": 216,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 377,
+      "Power": 347,
+      "Coin": 216,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 378,
+      "Power": 348,
+      "Coin": 217,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 379,
+      "Power": 349,
+      "Coin": 217,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 380,
+      "Power": 350,
+      "Coin": 218,
+      "WeaponLevel": 39
+    },
+    {
+      "Speed": 381,
+      "Power": 351,
+      "Coin": 218,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 382,
+      "Power": 352,
+      "Coin": 219,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 383,
+      "Power": 353,
+      "Coin": 220,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 384,
+      "Power": 354,
+      "Coin": 220,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 385,
+      "Power": 355,
+      "Coin": 221,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 386,
+      "Power": 356,
+      "Coin": 221,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 387,
+      "Power": 357,
+      "Coin": 222,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 388,
+      "Power": 358,
+      "Coin": 222,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 389,
+      "Power": 359,
+      "Coin": 223,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 390,
+      "Power": 360,
+      "Coin": 224,
+      "WeaponLevel": 40
+    },
+    {
+      "Speed": 391,
+      "Power": 361,
+      "Coin": 224,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 392,
+      "Power": 362,
+      "Coin": 225,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 393,
+      "Power": 363,
+      "Coin": 225,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 394,
+      "Power": 364,
+      "Coin": 226,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 395,
+      "Power": 365,
+      "Coin": 226,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 396,
+      "Power": 366,
+      "Coin": 227,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 397,
+      "Power": 367,
+      "Coin": 227,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 398,
+      "Power": 368,
+      "Coin": 228,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 399,
+      "Power": 369,
+      "Coin": 229,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 400,
+      "Power": 370,
+      "Coin": 229,
+      "WeaponLevel": 41
+    },
+    {
+      "Speed": 401,
+      "Power": 371,
+      "Coin": 230,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 402,
+      "Power": 372,
+      "Coin": 230,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 403,
+      "Power": 373,
+      "Coin": 231,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 404,
+      "Power": 374,
+      "Coin": 231,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 405,
+      "Power": 375,
+      "Coin": 232,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 406,
+      "Power": 376,
+      "Coin": 232,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 407,
+      "Power": 377,
+      "Coin": 233,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 408,
+      "Power": 378,
+      "Coin": 234,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 409,
+      "Power": 379,
+      "Coin": 234,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 410,
+      "Power": 380,
+      "Coin": 235,
+      "WeaponLevel": 42
+    },
+    {
+      "Speed": 411,
+      "Power": 381,
+      "Coin": 235,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 412,
+      "Power": 382,
+      "Coin": 236,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 413,
+      "Power": 383,
+      "Coin": 236,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 414,
+      "Power": 384,
+      "Coin": 237,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 415,
+      "Power": 385,
+      "Coin": 238,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 416,
+      "Power": 386,
+      "Coin": 238,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 417,
+      "Power": 387,
+      "Coin": 239,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 418,
+      "Power": 388,
+      "Coin": 239,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 419,
+      "Power": 389,
+      "Coin": 240,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 420,
+      "Power": 390,
+      "Coin": 240,
+      "WeaponLevel": 43
+    },
+    {
+      "Speed": 421,
+      "Power": 391,
+      "Coin": 241,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 422,
+      "Power": 392,
+      "Coin": 241,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 423,
+      "Power": 393,
+      "Coin": 242,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 424,
+      "Power": 394,
+      "Coin": 243,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 425,
+      "Power": 395,
+      "Coin": 243,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 426,
+      "Power": 396,
+      "Coin": 244,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 427,
+      "Power": 397,
+      "Coin": 244,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 428,
+      "Power": 398,
+      "Coin": 245,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 429,
+      "Power": 399,
+      "Coin": 245,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 430,
+      "Power": 400,
+      "Coin": 246,
+      "WeaponLevel": 44
+    },
+    {
+      "Speed": 431,
+      "Power": 401,
+      "Coin": 246,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 432,
+      "Power": 402,
+      "Coin": 247,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 433,
+      "Power": 403,
+      "Coin": 248,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 434,
+      "Power": 404,
+      "Coin": 248,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 435,
+      "Power": 405,
+      "Coin": 249,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 436,
+      "Power": 406,
+      "Coin": 249,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 437,
+      "Power": 407,
+      "Coin": 250,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 438,
+      "Power": 408,
+      "Coin": 250,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 439,
+      "Power": 409,
+      "Coin": 251,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 440,
+      "Power": 410,
+      "Coin": 252,
+      "WeaponLevel": 45
+    },
+    {
+      "Speed": 441,
+      "Power": 411,
+      "Coin": 252,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 442,
+      "Power": 412,
+      "Coin": 253,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 443,
+      "Power": 413,
+      "Coin": 253,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 444,
+      "Power": 414,
+      "Coin": 254,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 445,
+      "Power": 415,
+      "Coin": 254,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 446,
+      "Power": 416,
+      "Coin": 255,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 447,
+      "Power": 417,
+      "Coin": 255,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 448,
+      "Power": 418,
+      "Coin": 256,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 449,
+      "Power": 419,
+      "Coin": 257,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 450,
+      "Power": 420,
+      "Coin": 257,
+      "WeaponLevel": 46
+    },
+    {
+      "Speed": 451,
+      "Power": 421,
+      "Coin": 258,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 452,
+      "Power": 422,
+      "Coin": 258,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 453,
+      "Power": 423,
+      "Coin": 259,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 454,
+      "Power": 424,
+      "Coin": 259,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 455,
+      "Power": 425,
+      "Coin": 260,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 456,
+      "Power": 426,
+      "Coin": 260,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 457,
+      "Power": 427,
+      "Coin": 261,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 458,
+      "Power": 428,
+      "Coin": 262,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 459,
+      "Power": 429,
+      "Coin": 262,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 460,
+      "Power": 430,
+      "Coin": 263,
+      "WeaponLevel": 47
+    },
+    {
+      "Speed": 461,
+      "Power": 431,
+      "Coin": 263,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 462,
+      "Power": 432,
+      "Coin": 264,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 463,
+      "Power": 433,
+      "Coin": 264,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 464,
+      "Power": 434,
+      "Coin": 265,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 465,
+      "Power": 435,
+      "Coin": 266,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 466,
+      "Power": 436,
+      "Coin": 266,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 467,
+      "Power": 437,
+      "Coin": 267,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 468,
+      "Power": 438,
+      "Coin": 267,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 469,
+      "Power": 439,
+      "Coin": 268,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 470,
+      "Power": 440,
+      "Coin": 268,
+      "WeaponLevel": 48
+    },
+    {
+      "Speed": 471,
+      "Power": 441,
+      "Coin": 269,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 472,
+      "Power": 442,
+      "Coin": 269,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 473,
+      "Power": 443,
+      "Coin": 270,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 474,
+      "Power": 444,
+      "Coin": 271,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 475,
+      "Power": 445,
+      "Coin": 271,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 476,
+      "Power": 446,
+      "Coin": 272,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 477,
+      "Power": 447,
+      "Coin": 272,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 478,
+      "Power": 448,
+      "Coin": 273,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 479,
+      "Power": 449,
+      "Coin": 273,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 480,
+      "Power": 450,
+      "Coin": 274,
+      "WeaponLevel": 49
+    },
+    {
+      "Speed": 481,
+      "Power": 451,
+      "Coin": 274,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 482,
+      "Power": 452,
+      "Coin": 275,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 483,
+      "Power": 453,
+      "Coin": 276,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 484,
+      "Power": 454,
+      "Coin": 276,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 485,
+      "Power": 455,
+      "Coin": 277,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 486,
+      "Power": 456,
+      "Coin": 277,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 487,
+      "Power": 457,
+      "Coin": 278,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 488,
+      "Power": 458,
+      "Coin": 278,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 489,
+      "Power": 459,
+      "Coin": 279,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 490,
+      "Power": 460,
+      "Coin": 280,
+      "WeaponLevel": 50
+    },
+    {
+      "Speed": 491,
+      "Power": 461,
+      "Coin": 280,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 492,
+      "Power": 462,
+      "Coin": 281,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 493,
+      "Power": 463,
+      "Coin": 281,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 494,
+      "Power": 464,
+      "Coin": 282,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 495,
+      "Power": 465,
+      "Coin": 282,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 496,
+      "Power": 466,
+      "Coin": 283,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 497,
+      "Power": 467,
+      "Coin": 283,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 498,
+      "Power": 468,
+      "Coin": 284,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 499,
+      "Power": 469,
+      "Coin": 285,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 500,
+      "Power": 470,
+      "Coin": 285,
+      "WeaponLevel": 51
+    },
+    {
+      "Speed": 501,
+      "Power": 471,
+      "Coin": 286,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 502,
+      "Power": 472,
+      "Coin": 286,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 503,
+      "Power": 473,
+      "Coin": 287,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 504,
+      "Power": 474,
+      "Coin": 287,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 505,
+      "Power": 475,
+      "Coin": 288,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 506,
+      "Power": 476,
+      "Coin": 288,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 507,
+      "Power": 477,
+      "Coin": 289,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 508,
+      "Power": 478,
+      "Coin": 290,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 509,
+      "Power": 479,
+      "Coin": 290,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 510,
+      "Power": 480,
+      "Coin": 291,
+      "WeaponLevel": 52
+    },
+    {
+      "Speed": 511,
+      "Power": 481,
+      "Coin": 291,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 512,
+      "Power": 482,
+      "Coin": 292,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 513,
+      "Power": 483,
+      "Coin": 292,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 514,
+      "Power": 484,
+      "Coin": 293,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 515,
+      "Power": 485,
+      "Coin": 294,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 516,
+      "Power": 486,
+      "Coin": 294,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 517,
+      "Power": 487,
+      "Coin": 295,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 518,
+      "Power": 488,
+      "Coin": 295,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 519,
+      "Power": 489,
+      "Coin": 296,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 520,
+      "Power": 490,
+      "Coin": 296,
+      "WeaponLevel": 53
+    },
+    {
+      "Speed": 521,
+      "Power": 491,
+      "Coin": 297,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 522,
+      "Power": 492,
+      "Coin": 297,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 523,
+      "Power": 493,
+      "Coin": 298,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 524,
+      "Power": 494,
+      "Coin": 299,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 525,
+      "Power": 495,
+      "Coin": 299,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 526,
+      "Power": 496,
+      "Coin": 300,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 527,
+      "Power": 497,
+      "Coin": 300,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 528,
+      "Power": 498,
+      "Coin": 301,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 529,
+      "Power": 499,
+      "Coin": 301,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 530,
+      "Power": 500,
+      "Coin": 302,
+      "WeaponLevel": 54
+    },
+    {
+      "Speed": 531,
+      "Power": 501,
+      "Coin": 302,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 532,
+      "Power": 502,
+      "Coin": 303,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 533,
+      "Power": 503,
+      "Coin": 304,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 534,
+      "Power": 504,
+      "Coin": 304,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 535,
+      "Power": 505,
+      "Coin": 305,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 536,
+      "Power": 506,
+      "Coin": 305,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 537,
+      "Power": 507,
+      "Coin": 306,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 538,
+      "Power": 508,
+      "Coin": 306,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 539,
+      "Power": 509,
+      "Coin": 307,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 540,
+      "Power": 510,
+      "Coin": 308,
+      "WeaponLevel": 55
+    },
+    {
+      "Speed": 541,
+      "Power": 511,
+      "Coin": 308,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 542,
+      "Power": 512,
+      "Coin": 309,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 543,
+      "Power": 513,
+      "Coin": 309,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 544,
+      "Power": 514,
+      "Coin": 310,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 545,
+      "Power": 515,
+      "Coin": 310,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 546,
+      "Power": 516,
+      "Coin": 311,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 547,
+      "Power": 517,
+      "Coin": 311,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 548,
+      "Power": 518,
+      "Coin": 312,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 549,
+      "Power": 519,
+      "Coin": 313,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 550,
+      "Power": 520,
+      "Coin": 313,
+      "WeaponLevel": 56
+    },
+    {
+      "Speed": 551,
+      "Power": 521,
+      "Coin": 314,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 552,
+      "Power": 522,
+      "Coin": 314,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 553,
+      "Power": 523,
+      "Coin": 315,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 554,
+      "Power": 524,
+      "Coin": 315,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 555,
+      "Power": 525,
+      "Coin": 316,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 556,
+      "Power": 526,
+      "Coin": 316,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 557,
+      "Power": 527,
+      "Coin": 317,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 558,
+      "Power": 528,
+      "Coin": 318,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 559,
+      "Power": 529,
+      "Coin": 318,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 560,
+      "Power": 530,
+      "Coin": 319,
+      "WeaponLevel": 57
+    },
+    {
+      "Speed": 561,
+      "Power": 531,
+      "Coin": 319,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 562,
+      "Power": 532,
+      "Coin": 320,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 563,
+      "Power": 533,
+      "Coin": 320,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 564,
+      "Power": 534,
+      "Coin": 321,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 565,
+      "Power": 535,
+      "Coin": 322,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 566,
+      "Power": 536,
+      "Coin": 322,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 567,
+      "Power": 537,
+      "Coin": 323,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 568,
+      "Power": 538,
+      "Coin": 323,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 569,
+      "Power": 539,
+      "Coin": 324,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 570,
+      "Power": 540,
+      "Coin": 324,
+      "WeaponLevel": 58
+    },
+    {
+      "Speed": 571,
+      "Power": 541,
+      "Coin": 325,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 572,
+      "Power": 542,
+      "Coin": 325,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 573,
+      "Power": 543,
+      "Coin": 326,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 574,
+      "Power": 544,
+      "Coin": 327,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 575,
+      "Power": 545,
+      "Coin": 327,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 576,
+      "Power": 546,
+      "Coin": 328,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 577,
+      "Power": 547,
+      "Coin": 328,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 578,
+      "Power": 548,
+      "Coin": 329,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 579,
+      "Power": 549,
+      "Coin": 329,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 580,
+      "Power": 550,
+      "Coin": 330,
+      "WeaponLevel": 59
+    },
+    {
+      "Speed": 581,
+      "Power": 551,
+      "Coin": 330,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 582,
+      "Power": 552,
+      "Coin": 331,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 583,
+      "Power": 553,
+      "Coin": 332,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 584,
+      "Power": 554,
+      "Coin": 332,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 585,
+      "Power": 555,
+      "Coin": 333,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 586,
+      "Power": 556,
+      "Coin": 333,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 587,
+      "Power": 557,
+      "Coin": 334,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 588,
+      "Power": 558,
+      "Coin": 334,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 589,
+      "Power": 559,
+      "Coin": 335,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 590,
+      "Power": 560,
+      "Coin": 336,
+      "WeaponLevel": 60
+    },
+    {
+      "Speed": 591,
+      "Power": 561,
+      "Coin": 336,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 592,
+      "Power": 562,
+      "Coin": 337,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 593,
+      "Power": 563,
+      "Coin": 337,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 594,
+      "Power": 564,
+      "Coin": 338,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 595,
+      "Power": 565,
+      "Coin": 338,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 596,
+      "Power": 566,
+      "Coin": 339,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 597,
+      "Power": 567,
+      "Coin": 339,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 598,
+      "Power": 568,
+      "Coin": 340,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 599,
+      "Power": 569,
+      "Coin": 341,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 600,
+      "Power": 570,
+      "Coin": 341,
+      "WeaponLevel": 61
+    },
+    {
+      "Speed": 601,
+      "Power": 571,
+      "Coin": 342,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 602,
+      "Power": 572,
+      "Coin": 342,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 603,
+      "Power": 573,
+      "Coin": 343,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 604,
+      "Power": 574,
+      "Coin": 343,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 605,
+      "Power": 575,
+      "Coin": 344,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 606,
+      "Power": 576,
+      "Coin": 344,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 607,
+      "Power": 577,
+      "Coin": 345,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 608,
+      "Power": 578,
+      "Coin": 346,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 609,
+      "Power": 579,
+      "Coin": 346,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 610,
+      "Power": 580,
+      "Coin": 347,
+      "WeaponLevel": 62
+    },
+    {
+      "Speed": 611,
+      "Power": 581,
+      "Coin": 347,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 612,
+      "Power": 582,
+      "Coin": 348,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 613,
+      "Power": 583,
+      "Coin": 348,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 614,
+      "Power": 584,
+      "Coin": 349,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 615,
+      "Power": 585,
+      "Coin": 350,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 616,
+      "Power": 586,
+      "Coin": 350,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 617,
+      "Power": 587,
+      "Coin": 351,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 618,
+      "Power": 588,
+      "Coin": 351,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 619,
+      "Power": 589,
+      "Coin": 352,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 620,
+      "Power": 590,
+      "Coin": 352,
+      "WeaponLevel": 63
+    },
+    {
+      "Speed": 621,
+      "Power": 591,
+      "Coin": 353,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 622,
+      "Power": 592,
+      "Coin": 353,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 623,
+      "Power": 593,
+      "Coin": 354,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 624,
+      "Power": 594,
+      "Coin": 355,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 625,
+      "Power": 595,
+      "Coin": 355,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 626,
+      "Power": 596,
+      "Coin": 356,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 627,
+      "Power": 597,
+      "Coin": 356,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 628,
+      "Power": 598,
+      "Coin": 357,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 629,
+      "Power": 599,
+      "Coin": 357,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 630,
+      "Power": 600,
+      "Coin": 358,
+      "WeaponLevel": 64
+    },
+    {
+      "Speed": 631,
+      "Power": 601,
+      "Coin": 358,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 632,
+      "Power": 602,
+      "Coin": 359,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 633,
+      "Power": 603,
+      "Coin": 360,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 634,
+      "Power": 604,
+      "Coin": 360,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 635,
+      "Power": 605,
+      "Coin": 361,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 636,
+      "Power": 606,
+      "Coin": 361,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 637,
+      "Power": 607,
+      "Coin": 362,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 638,
+      "Power": 608,
+      "Coin": 362,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 639,
+      "Power": 609,
+      "Coin": 363,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 640,
+      "Power": 610,
+      "Coin": 364,
+      "WeaponLevel": 65
+    },
+    {
+      "Speed": 641,
+      "Power": 611,
+      "Coin": 364,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 642,
+      "Power": 612,
+      "Coin": 365,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 643,
+      "Power": 613,
+      "Coin": 365,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 644,
+      "Power": 614,
+      "Coin": 366,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 645,
+      "Power": 615,
+      "Coin": 366,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 646,
+      "Power": 616,
+      "Coin": 367,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 647,
+      "Power": 617,
+      "Coin": 367,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 648,
+      "Power": 618,
+      "Coin": 368,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 649,
+      "Power": 619,
+      "Coin": 369,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 650,
+      "Power": 620,
+      "Coin": 369,
+      "WeaponLevel": 66
+    },
+    {
+      "Speed": 651,
+      "Power": 621,
+      "Coin": 370,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 652,
+      "Power": 622,
+      "Coin": 370,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 653,
+      "Power": 623,
+      "Coin": 371,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 654,
+      "Power": 624,
+      "Coin": 371,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 655,
+      "Power": 625,
+      "Coin": 372,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 656,
+      "Power": 626,
+      "Coin": 372,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 657,
+      "Power": 627,
+      "Coin": 373,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 658,
+      "Power": 628,
+      "Coin": 374,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 659,
+      "Power": 629,
+      "Coin": 374,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 660,
+      "Power": 630,
+      "Coin": 375,
+      "WeaponLevel": 67
+    },
+    {
+      "Speed": 661,
+      "Power": 631,
+      "Coin": 375,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 662,
+      "Power": 632,
+      "Coin": 376,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 663,
+      "Power": 633,
+      "Coin": 376,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 664,
+      "Power": 634,
+      "Coin": 377,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 665,
+      "Power": 635,
+      "Coin": 378,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 666,
+      "Power": 636,
+      "Coin": 378,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 667,
+      "Power": 637,
+      "Coin": 379,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 668,
+      "Power": 638,
+      "Coin": 379,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 669,
+      "Power": 639,
+      "Coin": 380,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 670,
+      "Power": 640,
+      "Coin": 380,
+      "WeaponLevel": 68
+    },
+    {
+      "Speed": 671,
+      "Power": 641,
+      "Coin": 381,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 672,
+      "Power": 642,
+      "Coin": 381,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 673,
+      "Power": 643,
+      "Coin": 382,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 674,
+      "Power": 644,
+      "Coin": 383,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 675,
+      "Power": 645,
+      "Coin": 383,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 676,
+      "Power": 646,
+      "Coin": 384,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 677,
+      "Power": 647,
+      "Coin": 384,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 678,
+      "Power": 648,
+      "Coin": 385,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 679,
+      "Power": 649,
+      "Coin": 385,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 680,
+      "Power": 650,
+      "Coin": 386,
+      "WeaponLevel": 69
+    },
+    {
+      "Speed": 681,
+      "Power": 651,
+      "Coin": 386,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 682,
+      "Power": 652,
+      "Coin": 387,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 683,
+      "Power": 653,
+      "Coin": 388,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 684,
+      "Power": 654,
+      "Coin": 388,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 685,
+      "Power": 655,
+      "Coin": 389,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 686,
+      "Power": 656,
+      "Coin": 389,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 687,
+      "Power": 657,
+      "Coin": 390,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 688,
+      "Power": 658,
+      "Coin": 390,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 689,
+      "Power": 659,
+      "Coin": 391,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 690,
+      "Power": 660,
+      "Coin": 392,
+      "WeaponLevel": 70
+    },
+    {
+      "Speed": 691,
+      "Power": 661,
+      "Coin": 392,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 692,
+      "Power": 662,
+      "Coin": 393,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 693,
+      "Power": 663,
+      "Coin": 393,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 694,
+      "Power": 664,
+      "Coin": 394,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 695,
+      "Power": 665,
+      "Coin": 394,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 696,
+      "Power": 666,
+      "Coin": 395,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 697,
+      "Power": 667,
+      "Coin": 395,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 698,
+      "Power": 668,
+      "Coin": 396,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 699,
+      "Power": 669,
+      "Coin": 397,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 700,
+      "Power": 670,
+      "Coin": 397,
+      "WeaponLevel": 71
+    },
+    {
+      "Speed": 701,
+      "Power": 671,
+      "Coin": 398,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 702,
+      "Power": 672,
+      "Coin": 398,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 703,
+      "Power": 673,
+      "Coin": 399,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 704,
+      "Power": 674,
+      "Coin": 399,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 705,
+      "Power": 675,
+      "Coin": 400,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 706,
+      "Power": 676,
+      "Coin": 400,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 707,
+      "Power": 677,
+      "Coin": 401,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 708,
+      "Power": 678,
+      "Coin": 402,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 709,
+      "Power": 679,
+      "Coin": 402,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 710,
+      "Power": 680,
+      "Coin": 403,
+      "WeaponLevel": 72
+    },
+    {
+      "Speed": 711,
+      "Power": 681,
+      "Coin": 403,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 712,
+      "Power": 682,
+      "Coin": 404,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 713,
+      "Power": 683,
+      "Coin": 404,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 714,
+      "Power": 684,
+      "Coin": 405,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 715,
+      "Power": 685,
+      "Coin": 406,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 716,
+      "Power": 686,
+      "Coin": 406,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 717,
+      "Power": 687,
+      "Coin": 407,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 718,
+      "Power": 688,
+      "Coin": 407,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 719,
+      "Power": 689,
+      "Coin": 408,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 720,
+      "Power": 690,
+      "Coin": 408,
+      "WeaponLevel": 73
+    },
+    {
+      "Speed": 721,
+      "Power": 691,
+      "Coin": 409,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 722,
+      "Power": 692,
+      "Coin": 409,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 723,
+      "Power": 693,
+      "Coin": 410,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 724,
+      "Power": 694,
+      "Coin": 411,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 725,
+      "Power": 695,
+      "Coin": 411,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 726,
+      "Power": 696,
+      "Coin": 412,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 727,
+      "Power": 697,
+      "Coin": 412,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 728,
+      "Power": 698,
+      "Coin": 413,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 729,
+      "Power": 699,
+      "Coin": 413,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 730,
+      "Power": 700,
+      "Coin": 414,
+      "WeaponLevel": 74
+    },
+    {
+      "Speed": 731,
+      "Power": 701,
+      "Coin": 414,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 732,
+      "Power": 702,
+      "Coin": 415,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 733,
+      "Power": 703,
+      "Coin": 416,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 734,
+      "Power": 704,
+      "Coin": 416,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 735,
+      "Power": 705,
+      "Coin": 417,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 736,
+      "Power": 706,
+      "Coin": 417,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 737,
+      "Power": 707,
+      "Coin": 418,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 738,
+      "Power": 708,
+      "Coin": 418,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 739,
+      "Power": 709,
+      "Coin": 419,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 740,
+      "Power": 710,
+      "Coin": 420,
+      "WeaponLevel": 75
+    },
+    {
+      "Speed": 741,
+      "Power": 711,
+      "Coin": 420,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 742,
+      "Power": 712,
+      "Coin": 421,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 743,
+      "Power": 713,
+      "Coin": 421,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 744,
+      "Power": 714,
+      "Coin": 422,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 745,
+      "Power": 715,
+      "Coin": 422,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 746,
+      "Power": 716,
+      "Coin": 423,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 747,
+      "Power": 717,
+      "Coin": 423,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 748,
+      "Power": 718,
+      "Coin": 424,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 749,
+      "Power": 719,
+      "Coin": 425,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 750,
+      "Power": 720,
+      "Coin": 425,
+      "WeaponLevel": 76
+    },
+    {
+      "Speed": 751,
+      "Power": 721,
+      "Coin": 426,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 752,
+      "Power": 722,
+      "Coin": 426,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 753,
+      "Power": 723,
+      "Coin": 427,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 754,
+      "Power": 724,
+      "Coin": 427,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 755,
+      "Power": 725,
+      "Coin": 428,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 756,
+      "Power": 726,
+      "Coin": 428,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 757,
+      "Power": 727,
+      "Coin": 429,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 758,
+      "Power": 728,
+      "Coin": 430,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 759,
+      "Power": 729,
+      "Coin": 430,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 760,
+      "Power": 730,
+      "Coin": 431,
+      "WeaponLevel": 77
+    },
+    {
+      "Speed": 761,
+      "Power": 731,
+      "Coin": 431,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 762,
+      "Power": 732,
+      "Coin": 432,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 763,
+      "Power": 733,
+      "Coin": 432,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 764,
+      "Power": 734,
+      "Coin": 433,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 765,
+      "Power": 735,
+      "Coin": 434,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 766,
+      "Power": 736,
+      "Coin": 434,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 767,
+      "Power": 737,
+      "Coin": 435,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 768,
+      "Power": 738,
+      "Coin": 435,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 769,
+      "Power": 739,
+      "Coin": 436,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 770,
+      "Power": 740,
+      "Coin": 436,
+      "WeaponLevel": 78
+    },
+    {
+      "Speed": 771,
+      "Power": 741,
+      "Coin": 437,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 772,
+      "Power": 742,
+      "Coin": 437,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 773,
+      "Power": 743,
+      "Coin": 438,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 774,
+      "Power": 744,
+      "Coin": 439,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 775,
+      "Power": 745,
+      "Coin": 439,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 776,
+      "Power": 746,
+      "Coin": 440,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 777,
+      "Power": 747,
+      "Coin": 440,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 778,
+      "Power": 748,
+      "Coin": 441,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 779,
+      "Power": 749,
+      "Coin": 441,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 780,
+      "Power": 750,
+      "Coin": 442,
+      "WeaponLevel": 79
+    },
+    {
+      "Speed": 781,
+      "Power": 751,
+      "Coin": 442,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 782,
+      "Power": 752,
+      "Coin": 443,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 783,
+      "Power": 753,
+      "Coin": 444,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 784,
+      "Power": 754,
+      "Coin": 444,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 785,
+      "Power": 755,
+      "Coin": 445,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 786,
+      "Power": 756,
+      "Coin": 445,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 787,
+      "Power": 757,
+      "Coin": 446,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 788,
+      "Power": 758,
+      "Coin": 446,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 789,
+      "Power": 759,
+      "Coin": 447,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 790,
+      "Power": 760,
+      "Coin": 448,
+      "WeaponLevel": 80
+    },
+    {
+      "Speed": 791,
+      "Power": 761,
+      "Coin": 448,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 792,
+      "Power": 762,
+      "Coin": 449,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 793,
+      "Power": 763,
+      "Coin": 449,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 794,
+      "Power": 764,
+      "Coin": 450,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 795,
+      "Power": 765,
+      "Coin": 450,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 796,
+      "Power": 766,
+      "Coin": 451,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 797,
+      "Power": 767,
+      "Coin": 451,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 798,
+      "Power": 768,
+      "Coin": 452,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 799,
+      "Power": 769,
+      "Coin": 453,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 800,
+      "Power": 770,
+      "Coin": 453,
+      "WeaponLevel": 81
+    },
+    {
+      "Speed": 801,
+      "Power": 771,
+      "Coin": 454,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 802,
+      "Power": 772,
+      "Coin": 454,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 803,
+      "Power": 773,
+      "Coin": 455,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 804,
+      "Power": 774,
+      "Coin": 455,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 805,
+      "Power": 775,
+      "Coin": 456,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 806,
+      "Power": 776,
+      "Coin": 456,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 807,
+      "Power": 777,
+      "Coin": 457,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 808,
+      "Power": 778,
+      "Coin": 458,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 809,
+      "Power": 779,
+      "Coin": 458,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 810,
+      "Power": 780,
+      "Coin": 459,
+      "WeaponLevel": 82
+    },
+    {
+      "Speed": 811,
+      "Power": 781,
+      "Coin": 459,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 812,
+      "Power": 782,
+      "Coin": 460,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 813,
+      "Power": 783,
+      "Coin": 460,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 814,
+      "Power": 784,
+      "Coin": 461,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 815,
+      "Power": 785,
+      "Coin": 462,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 816,
+      "Power": 786,
+      "Coin": 462,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 817,
+      "Power": 787,
+      "Coin": 463,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 818,
+      "Power": 788,
+      "Coin": 463,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 819,
+      "Power": 789,
+      "Coin": 464,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 820,
+      "Power": 790,
+      "Coin": 464,
+      "WeaponLevel": 83
+    },
+    {
+      "Speed": 821,
+      "Power": 791,
+      "Coin": 465,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 822,
+      "Power": 792,
+      "Coin": 465,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 823,
+      "Power": 793,
+      "Coin": 466,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 824,
+      "Power": 794,
+      "Coin": 467,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 825,
+      "Power": 795,
+      "Coin": 467,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 826,
+      "Power": 796,
+      "Coin": 468,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 827,
+      "Power": 797,
+      "Coin": 468,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 828,
+      "Power": 798,
+      "Coin": 469,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 829,
+      "Power": 799,
+      "Coin": 469,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 830,
+      "Power": 800,
+      "Coin": 470,
+      "WeaponLevel": 84
+    },
+    {
+      "Speed": 831,
+      "Power": 801,
+      "Coin": 470,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 832,
+      "Power": 802,
+      "Coin": 471,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 833,
+      "Power": 803,
+      "Coin": 472,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 834,
+      "Power": 804,
+      "Coin": 472,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 835,
+      "Power": 805,
+      "Coin": 473,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 836,
+      "Power": 806,
+      "Coin": 473,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 837,
+      "Power": 807,
+      "Coin": 474,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 838,
+      "Power": 808,
+      "Coin": 474,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 839,
+      "Power": 809,
+      "Coin": 475,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 840,
+      "Power": 810,
+      "Coin": 476,
+      "WeaponLevel": 85
+    },
+    {
+      "Speed": 841,
+      "Power": 811,
+      "Coin": 476,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 842,
+      "Power": 812,
+      "Coin": 477,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 843,
+      "Power": 813,
+      "Coin": 477,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 844,
+      "Power": 814,
+      "Coin": 478,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 845,
+      "Power": 815,
+      "Coin": 478,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 846,
+      "Power": 816,
+      "Coin": 479,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 847,
+      "Power": 817,
+      "Coin": 479,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 848,
+      "Power": 818,
+      "Coin": 480,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 849,
+      "Power": 819,
+      "Coin": 481,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 850,
+      "Power": 820,
+      "Coin": 481,
+      "WeaponLevel": 86
+    },
+    {
+      "Speed": 851,
+      "Power": 821,
+      "Coin": 482,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 852,
+      "Power": 822,
+      "Coin": 482,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 853,
+      "Power": 823,
+      "Coin": 483,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 854,
+      "Power": 824,
+      "Coin": 483,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 855,
+      "Power": 825,
+      "Coin": 484,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 856,
+      "Power": 826,
+      "Coin": 484,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 857,
+      "Power": 827,
+      "Coin": 485,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 858,
+      "Power": 828,
+      "Coin": 486,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 859,
+      "Power": 829,
+      "Coin": 486,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 860,
+      "Power": 830,
+      "Coin": 487,
+      "WeaponLevel": 87
+    },
+    {
+      "Speed": 861,
+      "Power": 831,
+      "Coin": 487,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 862,
+      "Power": 832,
+      "Coin": 488,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 863,
+      "Power": 833,
+      "Coin": 488,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 864,
+      "Power": 834,
+      "Coin": 489,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 865,
+      "Power": 835,
+      "Coin": 490,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 866,
+      "Power": 836,
+      "Coin": 490,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 867,
+      "Power": 837,
+      "Coin": 491,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 868,
+      "Power": 838,
+      "Coin": 491,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 869,
+      "Power": 839,
+      "Coin": 492,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 870,
+      "Power": 840,
+      "Coin": 492,
+      "WeaponLevel": 88
+    },
+    {
+      "Speed": 871,
+      "Power": 841,
+      "Coin": 493,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 872,
+      "Power": 842,
+      "Coin": 493,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 873,
+      "Power": 843,
+      "Coin": 494,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 874,
+      "Power": 844,
+      "Coin": 495,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 875,
+      "Power": 845,
+      "Coin": 495,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 876,
+      "Power": 846,
+      "Coin": 496,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 877,
+      "Power": 847,
+      "Coin": 496,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 878,
+      "Power": 848,
+      "Coin": 497,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 879,
+      "Power": 849,
+      "Coin": 497,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 880,
+      "Power": 850,
+      "Coin": 498,
+      "WeaponLevel": 89
+    },
+    {
+      "Speed": 881,
+      "Power": 851,
+      "Coin": 498,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 882,
+      "Power": 852,
+      "Coin": 499,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 883,
+      "Power": 853,
+      "Coin": 500,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 884,
+      "Power": 854,
+      "Coin": 500,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 885,
+      "Power": 855,
+      "Coin": 501,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 886,
+      "Power": 856,
+      "Coin": 501,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 887,
+      "Power": 857,
+      "Coin": 502,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 888,
+      "Power": 858,
+      "Coin": 502,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 889,
+      "Power": 859,
+      "Coin": 503,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 890,
+      "Power": 860,
+      "Coin": 504,
+      "WeaponLevel": 90
+    },
+    {
+      "Speed": 891,
+      "Power": 861,
+      "Coin": 504,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 892,
+      "Power": 862,
+      "Coin": 505,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 893,
+      "Power": 863,
+      "Coin": 505,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 894,
+      "Power": 864,
+      "Coin": 506,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 895,
+      "Power": 865,
+      "Coin": 506,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 896,
+      "Power": 866,
+      "Coin": 507,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 897,
+      "Power": 867,
+      "Coin": 507,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 898,
+      "Power": 868,
+      "Coin": 508,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 899,
+      "Power": 869,
+      "Coin": 509,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 900,
+      "Power": 870,
+      "Coin": 509,
+      "WeaponLevel": 91
+    },
+    {
+      "Speed": 901,
+      "Power": 871,
+      "Coin": 510,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 902,
+      "Power": 872,
+      "Coin": 510,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 903,
+      "Power": 873,
+      "Coin": 511,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 904,
+      "Power": 874,
+      "Coin": 511,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 905,
+      "Power": 875,
+      "Coin": 512,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 906,
+      "Power": 876,
+      "Coin": 512,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 907,
+      "Power": 877,
+      "Coin": 513,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 908,
+      "Power": 878,
+      "Coin": 514,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 909,
+      "Power": 879,
+      "Coin": 514,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 910,
+      "Power": 880,
+      "Coin": 515,
+      "WeaponLevel": 92
+    },
+    {
+      "Speed": 911,
+      "Power": 881,
+      "Coin": 515,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 912,
+      "Power": 882,
+      "Coin": 516,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 913,
+      "Power": 883,
+      "Coin": 516,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 914,
+      "Power": 884,
+      "Coin": 517,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 915,
+      "Power": 885,
+      "Coin": 518,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 916,
+      "Power": 886,
+      "Coin": 518,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 917,
+      "Power": 887,
+      "Coin": 519,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 918,
+      "Power": 888,
+      "Coin": 519,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 919,
+      "Power": 889,
+      "Coin": 520,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 920,
+      "Power": 890,
+      "Coin": 520,
+      "WeaponLevel": 93
+    },
+    {
+      "Speed": 921,
+      "Power": 891,
+      "Coin": 521,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 922,
+      "Power": 892,
+      "Coin": 521,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 923,
+      "Power": 893,
+      "Coin": 522,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 924,
+      "Power": 894,
+      "Coin": 523,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 925,
+      "Power": 895,
+      "Coin": 523,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 926,
+      "Power": 896,
+      "Coin": 524,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 927,
+      "Power": 897,
+      "Coin": 524,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 928,
+      "Power": 898,
+      "Coin": 525,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 929,
+      "Power": 899,
+      "Coin": 525,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 930,
+      "Power": 900,
+      "Coin": 526,
+      "WeaponLevel": 94
+    },
+    {
+      "Speed": 931,
+      "Power": 901,
+      "Coin": 526,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 932,
+      "Power": 902,
+      "Coin": 527,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 933,
+      "Power": 903,
+      "Coin": 528,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 934,
+      "Power": 904,
+      "Coin": 528,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 935,
+      "Power": 905,
+      "Coin": 529,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 936,
+      "Power": 906,
+      "Coin": 529,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 937,
+      "Power": 907,
+      "Coin": 530,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 938,
+      "Power": 908,
+      "Coin": 530,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 939,
+      "Power": 909,
+      "Coin": 531,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 940,
+      "Power": 910,
+      "Coin": 532,
+      "WeaponLevel": 95
+    },
+    {
+      "Speed": 941,
+      "Power": 911,
+      "Coin": 532,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 942,
+      "Power": 912,
+      "Coin": 533,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 943,
+      "Power": 913,
+      "Coin": 533,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 944,
+      "Power": 914,
+      "Coin": 534,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 945,
+      "Power": 915,
+      "Coin": 534,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 946,
+      "Power": 916,
+      "Coin": 535,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 947,
+      "Power": 917,
+      "Coin": 535,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 948,
+      "Power": 918,
+      "Coin": 536,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 949,
+      "Power": 919,
+      "Coin": 537,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 950,
+      "Power": 920,
+      "Coin": 537,
+      "WeaponLevel": 96
+    },
+    {
+      "Speed": 951,
+      "Power": 921,
+      "Coin": 538,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 952,
+      "Power": 922,
+      "Coin": 538,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 953,
+      "Power": 923,
+      "Coin": 539,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 954,
+      "Power": 924,
+      "Coin": 539,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 955,
+      "Power": 925,
+      "Coin": 540,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 956,
+      "Power": 926,
+      "Coin": 540,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 957,
+      "Power": 927,
+      "Coin": 541,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 958,
+      "Power": 928,
+      "Coin": 542,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 959,
+      "Power": 929,
+      "Coin": 542,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 960,
+      "Power": 930,
+      "Coin": 543,
+      "WeaponLevel": 97
+    },
+    {
+      "Speed": 961,
+      "Power": 931,
+      "Coin": 543,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 962,
+      "Power": 932,
+      "Coin": 544,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 963,
+      "Power": 933,
+      "Coin": 544,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 964,
+      "Power": 934,
+      "Coin": 545,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 965,
+      "Power": 935,
+      "Coin": 546,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 966,
+      "Power": 936,
+      "Coin": 546,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 967,
+      "Power": 937,
+      "Coin": 547,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 968,
+      "Power": 938,
+      "Coin": 547,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 969,
+      "Power": 939,
+      "Coin": 548,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 970,
+      "Power": 940,
+      "Coin": 548,
+      "WeaponLevel": 98
+    },
+    {
+      "Speed": 971,
+      "Power": 941,
+      "Coin": 549,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 972,
+      "Power": 942,
+      "Coin": 549,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 973,
+      "Power": 943,
+      "Coin": 550,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 974,
+      "Power": 944,
+      "Coin": 551,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 975,
+      "Power": 945,
+      "Coin": 551,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 976,
+      "Power": 946,
+      "Coin": 552,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 977,
+      "Power": 947,
+      "Coin": 552,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 978,
+      "Power": 948,
+      "Coin": 553,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 979,
+      "Power": 949,
+      "Coin": 553,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 980,
+      "Power": 950,
+      "Coin": 554,
+      "WeaponLevel": 99
+    },
+    {
+      "Speed": 981,
+      "Power": 951,
+      "Coin": 554,
+      "WeaponLevel": 100
+    },
+    {
+      "Speed": 982,
+      "Power": 952,
+      "Coin": 555,
+      "WeaponLevel": 100
+    },
+    {
+      "Speed": 983,
+      "Power": 953,
+      "Coin": 556,
+      "WeaponLevel": 100
+    },
+    {
+      "Speed": 984,
+      "Power": 954,
+      "Coin": 556,
+      "WeaponLevel": 100
+    },
+    {
+      "Speed": 985,
+      "Power": 955,
+      "Coin": 557,
+      "WeaponLevel": 100
+    },
+    {
+      "Speed": 986,
+      "Power": 956,
+      "Coin": 557,
+      "WeaponLevel": 100
+    },
+    {
+      "Speed": 987,
+      "Power": 957,
+      "Coin": 558,
+      "WeaponLevel": 100
+    },
+    {
+      "Speed": 988,
+      "Power": 958,
+      "Coin": 558,
+      "WeaponLevel": 100
+    },
+    {
+      "Speed": 989,
+      "Power": 959,
+      "Coin": 559,
+      "WeaponLevel": 100
+    }
+  ]

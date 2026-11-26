@@ -1,0 +1,20 @@
+[
+    {
+      "ItemType": 1,
+      "Cost": 1,
+      "RotateSpeed": 0.5,
+      "DisappearSpeed": 3.0
+    },
+    {
+      "ItemType": 1,
+      "Cost": 1,
+      "RotateSpeed": 0.5,
+      "DisappearSpeed": 3.0
+    },
+    {
+      "ItemType": 1,
+      "Cost": 1,
+      "RotateSpeed": 0.5,
+      "DisappearSpeed": 3.0
+    }
+  ]

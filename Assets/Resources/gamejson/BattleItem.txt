@@ -1,0 +1,37 @@
+[
+    {
+      "ID": 1,
+      "Effect": "火力增强(效果同可拾取道具）",
+      "Time": 6,
+      "Price": 4,
+      "EnName": "Fire power up"
+    },
+    {
+      "ID": 2,
+      "Effect": "射速增强(效果同可拾取道具）",
+      "Time": 6,
+      "Price": 4,
+      "EnName": "Fire rate up"
+    },
+    {
+      "ID": 3,
+      "Effect": "全体病毒减速（效果同漂浮道具）",
+      "Time": 6,
+      "Price": 4,
+      "EnName": "Weaken virus"
+    },
+    {
+      "ID": 4,
+      "Effect": "保持无敌状态",
+      "Time": 10,
+      "Price": 8,
+      "EnName": "Protective shield"
+    },
+    {
+      "ID": 5,
+      "Effect": "现在复活效果去掉无敌",
+      "Time": 3,
+      "Price": 10,
+      "EnName": "Ultrasonic wave"
+    }
+  ]

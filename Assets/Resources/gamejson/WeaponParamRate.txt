@@ -1,0 +1,17 @@
+[
+    {
+      "Count": 1.1,
+      "Power": 1.3,
+      "FireScale_1": 1.1,
+      "FirePower_1": 1.1,
+      "FireDistance_2": 1.1,
+      "FirePower_2": 1.1,
+      "FireWide_3": 1.1,
+      "FirePower_3": 1.1,
+      "FireScale_4": 1.1,
+      "FirePower_4": 1.1,
+      "FireScale_5": 1.1,
+      "FireNetScale_5": 1.1,
+      "FirePower_5": 1.1
+    }
+  ]

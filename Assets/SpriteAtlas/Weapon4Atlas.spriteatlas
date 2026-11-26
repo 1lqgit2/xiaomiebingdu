@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Weapon4Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300014, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300016, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300018, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300032, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300034, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300022, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300004, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300020, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300028, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300010, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300036, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300026, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300030, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300038, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300000, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300012, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300002, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300006, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300008, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    - {fileID: 21300024, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+    totalSpriteSurfaceArea: 687624
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300008, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300000, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300004, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300028, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300038, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300018, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300024, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300006, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300030, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300036, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300010, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300022, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300034, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300026, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300020, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300016, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300002, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300032, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300014, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  - {fileID: 21300012, guid: e2859f8462754337873c3e5b6582bc29, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fupao4_fire_8
+  - fupao4_fire_9
+  - fupao4_fire_6
+  - fupao4_fire_7
+  - fupao4_fire_4
+  - fupao4_baozha_9
+  - fupao4_fire_5
+  - fupao4_baozha_8
+  - fupao4_fire_2
+  - fupao4_baozha_7
+  - fupao4_fire_3
+  - fupao4_baozha_6
+  - fupao4_baozha_5
+  - fupao4_fire_1
+  - fupao4_baozha_4
+  - fupao4_baozha_3
+  - fupao4_baozha_2
+  - fupao4_baozha_1
+  - fupao4_baozha_10
+  - fupao4_baozha_11
+  m_Tag: Weapon4Atlas
+  m_IsVariant: 0

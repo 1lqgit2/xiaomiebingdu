@@ -1,0 +1,3998 @@
+[
+    {
+      "Power": "1",
+      "Cost": "235"
+    },
+    {
+      "Power": "2",
+      "Cost": "490"
+    },
+    {
+      "Power": "3",
+      "Cost": "734"
+    },
+    {
+      "Power": "4",
+      "Cost": "998"
+    },
+    {
+      "Power": "5",
+      "Cost": "1.3K"
+    },
+    {
+      "Power": "6",
+      "Cost": "1.5K"
+    },
+    {
+      "Power": "7",
+      "Cost": "1.8K"
+    },
+    {
+      "Power": "8",
+      "Cost": "2.1K"
+    },
+    {
+      "Power": "9",
+      "Cost": "2.4K"
+    },
+    {
+      "Power": "10",
+      "Cost": "2.7K"
+    },
+    {
+      "Power": "12",
+      "Cost": "3K"
+    },
+    {
+      "Power": "14",
+      "Cost": "3.3K"
+    },
+    {
+      "Power": "16",
+      "Cost": "3.7K"
+    },
+    {
+      "Power": "18",
+      "Cost": "4K"
+    },
+    {
+      "Power": "20",
+      "Cost": "4.3K"
+    },
+    {
+      "Power": "22",
+      "Cost": "9.4K"
+    },
+    {
+      "Power": "23",
+      "Cost": "10.1K"
+    },
+    {
+      "Power": "25",
+      "Cost": "10.9K"
+    },
+    {
+      "Power": "26",
+      "Cost": "11.5K"
+    },
+    {
+      "Power": "27",
+      "Cost": "12.3K"
+    },
+    {
+      "Power": "29",
+      "Cost": "13.1K"
+    },
+    {
+      "Power": "30",
+      "Cost": "13.9K"
+    },
+    {
+      "Power": "32",
+      "Cost": "14.6K"
+    },
+    {
+      "Power": "33",
+      "Cost": "15.4K"
+    },
+    {
+      "Power": "35",
+      "Cost": "16.3K"
+    },
+    {
+      "Power": "37",
+      "Cost": "17.2K"
+    },
+    {
+      "Power": "39",
+      "Cost": "18.1K"
+    },
+    {
+      "Power": "41",
+      "Cost": "18.8K"
+    },
+    {
+      "Power": "43",
+      "Cost": "19.8K"
+    },
+    {
+      "Power": "45",
+      "Cost": "31.1K"
+    },
+    {
+      "Power": "48",
+      "Cost": "32.6K"
+    },
+    {
+      "Power": "50",
+      "Cost": "33.6K"
+    },
+    {
+      "Power": "53",
+      "Cost": "35.2K"
+    },
+    {
+      "Power": "56",
+      "Cost": "36.7K"
+    },
+    {
+      "Power": "59",
+      "Cost": "38.3K"
+    },
+    {
+      "Power": "62",
+      "Cost": "39.4K"
+    },
+    {
+      "Power": "65",
+      "Cost": "41K"
+    },
+    {
+      "Power": "68",
+      "Cost": "42.7K"
+    },
+    {
+      "Power": "72",
+      "Cost": "44.4K"
+    },
+    {
+      "Power": "76",
+      "Cost": "61.4K"
+    },
+    {
+      "Power": "80",
+      "Cost": "63K"
+    },
+    {
+      "Power": "84",
+      "Cost": "66.1K"
+    },
+    {
+      "Power": "89",
+      "Cost": "69.4K"
+    },
+    {
+      "Power": "93",
+      "Cost": "73.5K"
+    },
+    {
+      "Power": "98",
+      "Cost": "76.9K"
+    },
+    {
+      "Power": "103",
+      "Cost": "81.3K"
+    },
+    {
+      "Power": "109",
+      "Cost": "84.8K"
+    },
+    {
+      "Power": "114",
+      "Cost": "89.4K"
+    },
+    {
+      "Power": "120",
+      "Cost": "94.1K"
+    },
+    {
+      "Power": "127",
+      "Cost": "124.8K"
+    },
+    {
+      "Power": "133",
+      "Cost": "131K"
+    },
+    {
+      "Power": "140",
+      "Cost": "137.3K"
+    },
+    {
+      "Power": "148",
+      "Cost": "145K"
+    },
+    {
+      "Power": "156",
+      "Cost": "152.9K"
+    },
+    {
+      "Power": "164",
+      "Cost": "161K"
+    },
+    {
+      "Power": "172",
+      "Cost": "166.7K"
+    },
+    {
+      "Power": "182",
+      "Cost": "173.7K"
+    },
+    {
+      "Power": "191",
+      "Cost": "181K"
+    },
+    {
+      "Power": "201",
+      "Cost": "188.3K"
+    },
+    {
+      "Power": "212",
+      "Cost": "235K"
+    },
+    {
+      "Power": "223",
+      "Cost": "246K"
+    },
+    {
+      "Power": "235",
+      "Cost": "255.3K"
+    },
+    {
+      "Power": "247",
+      "Cost": "266.7K"
+    },
+    {
+      "Power": "260",
+      "Cost": "276.5K"
+    },
+    {
+      "Power": "274",
+      "Cost": "288.3K"
+    },
+    {
+      "Power": "288",
+      "Cost": "300.3K"
+    },
+    {
+      "Power": "303",
+      "Cost": "312.6K"
+    },
+    {
+      "Power": "319",
+      "Cost": "425.6K"
+    },
+    {
+      "Power": "336",
+      "Cost": "437.2K"
+    },
+    {
+      "Power": "354",
+      "Cost": "520.6K"
+    },
+    {
+      "Power": "372",
+      "Cost": "531.2K"
+    },
+    {
+      "Power": "392",
+      "Cost": "541.9K"
+    },
+    {
+      "Power": "412",
+      "Cost": "556K"
+    },
+    {
+      "Power": "434",
+      "Cost": "566.9K"
+    },
+    {
+      "Power": "457",
+      "Cost": "577.9K"
+    },
+    {
+      "Power": "481",
+      "Cost": "589K"
+    },
+    {
+      "Power": "506",
+      "Cost": "603.7K"
+    },
+    {
+      "Power": "533",
+      "Cost": "615K"
+    },
+    {
+      "Power": "561",
+      "Cost": "626.4K"
+    },
+    {
+      "Power": "591",
+      "Cost": "729.1K"
+    },
+    {
+      "Power": "622",
+      "Cost": "746.5K"
+    },
+    {
+      "Power": "654",
+      "Cost": "759.9K"
+    },
+    {
+      "Power": "689",
+      "Cost": "773.4K"
+    },
+    {
+      "Power": "725",
+      "Cost": "787K"
+    },
+    {
+      "Power": "763",
+      "Cost": "805.1K"
+    },
+    {
+      "Power": "803",
+      "Cost": "819K"
+    },
+    {
+      "Power": "846",
+      "Cost": "833K"
+    },
+    {
+      "Power": "890",
+      "Cost": "847.1K"
+    },
+    {
+      "Power": "937",
+      "Cost": "865.8K"
+    },
+    {
+      "Power": "986",
+      "Cost": "990.1K"
+    },
+    {
+      "Power": "1K",
+      "Cost": "1M"
+    },
+    {
+      "Power": "1.1K",
+      "Cost": "1M"
+    },
+    {
+      "Power": "1.2K",
+      "Cost": "1M"
+    },
+    {
+      "Power": "1.2K",
+      "Cost": "1.1M"
+    },
+    {
+      "Power": "1.3K",
+      "Cost": "1.1M"
+    },
+    {
+      "Power": "1.3K",
+      "Cost": "1.1M"
+    },
+    {
+      "Power": "1.4K",
+      "Cost": "1.1M"
+    },
+    {
+      "Power": "1.5K",
+      "Cost": "1.1M"
+    },
+    {
+      "Power": "1.6K",
+      "Cost": "1.2M"
+    },
+    {
+      "Power": "1.6K",
+      "Cost": "1.3M"
+    },
+    {
+      "Power": "1.7K",
+      "Cost": "1.3M"
+    },
+    {
+      "Power": "1.8K",
+      "Cost": "1.3M"
+    },
+    {
+      "Power": "1.9K",
+      "Cost": "1.4M"
+    },
+    {
+      "Power": "2K",
+      "Cost": "1.4M"
+    },
+    {
+      "Power": "2.1K",
+      "Cost": "1.4M"
+    },
+    {
+      "Power": "2.2K",
+      "Cost": "1.4M"
+    },
+    {
+      "Power": "2.4K",
+      "Cost": "1.5M"
+    },
+    {
+      "Power": "2.5K",
+      "Cost": "1.5M"
+    },
+    {
+      "Power": "2.6K",
+      "Cost": "1.5M"
+    },
+    {
+      "Power": "2.8K",
+      "Cost": "1.7M"
+    },
+    {
+      "Power": "2.9K",
+      "Cost": "1.7M"
+    },
+    {
+      "Power": "3K",
+      "Cost": "1.7M"
+    },
+    {
+      "Power": "3.2K",
+      "Cost": "1.8M"
+    },
+    {
+      "Power": "3.4K",
+      "Cost": "1.8M"
+    },
+    {
+      "Power": "3.6K",
+      "Cost": "1.8M"
+    },
+    {
+      "Power": "3.7K",
+      "Cost": "1.8M"
+    },
+    {
+      "Power": "3.9K",
+      "Cost": "1.9M"
+    },
+    {
+      "Power": "4.1K",
+      "Cost": "1.9M"
+    },
+    {
+      "Power": "4.4K",
+      "Cost": "1.9M"
+    },
+    {
+      "Power": "4.6K",
+      "Cost": "2.1M"
+    },
+    {
+      "Power": "4.8K",
+      "Cost": "2.1M"
+    },
+    {
+      "Power": "5.1K",
+      "Cost": "2.1M"
+    },
+    {
+      "Power": "5.4K",
+      "Cost": "2.1M"
+    },
+    {
+      "Power": "5.6K",
+      "Cost": "2.1M"
+    },
+    {
+      "Power": "5.9K",
+      "Cost": "2.2M"
+    },
+    {
+      "Power": "6.3K",
+      "Cost": "2.2M"
+    },
+    {
+      "Power": "6.6K",
+      "Cost": "2.2M"
+    },
+    {
+      "Power": "6.9K",
+      "Cost": "2.2M"
+    },
+    {
+      "Power": "7.3K",
+      "Cost": "2.2M"
+    },
+    {
+      "Power": "7.7K",
+      "Cost": "2.4M"
+    },
+    {
+      "Power": "8.1K",
+      "Cost": "2.5M"
+    },
+    {
+      "Power": "8.5K",
+      "Cost": "2.5M"
+    },
+    {
+      "Power": "9K",
+      "Cost": "2.5M"
+    },
+    {
+      "Power": "9.4K",
+      "Cost": "2.5M"
+    },
+    {
+      "Power": "9.9K",
+      "Cost": "2.5M"
+    },
+    {
+      "Power": "10.4K",
+      "Cost": "2.5M"
+    },
+    {
+      "Power": "11K",
+      "Cost": "2.6M"
+    },
+    {
+      "Power": "11.6K",
+      "Cost": "2.6M"
+    },
+    {
+      "Power": "12.2K",
+      "Cost": "2.6M"
+    },
+    {
+      "Power": "12.8K",
+      "Cost": "2.8M"
+    },
+    {
+      "Power": "13.5K",
+      "Cost": "2.8M"
+    },
+    {
+      "Power": "14.2K",
+      "Cost": "2.9M"
+    },
+    {
+      "Power": "15K",
+      "Cost": "2.9M"
+    },
+    {
+      "Power": "15.7K",
+      "Cost": "2.9M"
+    },
+    {
+      "Power": "16.6K",
+      "Cost": "2.9M"
+    },
+    {
+      "Power": "17.4K",
+      "Cost": "2.9M"
+    },
+    {
+      "Power": "18.4K",
+      "Cost": "3M"
+    },
+    {
+      "Power": "19.3K",
+      "Cost": "3M"
+    },
+    {
+      "Power": "20.3K",
+      "Cost": "3M"
+    },
+    {
+      "Power": "21.4K",
+      "Cost": "3.2M"
+    },
+    {
+      "Power": "22.5K",
+      "Cost": "3.3M"
+    },
+    {
+      "Power": "23.7K",
+      "Cost": "3.3M"
+    },
+    {
+      "Power": "25K",
+      "Cost": "3.3M"
+    },
+    {
+      "Power": "26.3K",
+      "Cost": "3.3M"
+    },
+    {
+      "Power": "27.7K",
+      "Cost": "3.3M"
+    },
+    {
+      "Power": "29.1K",
+      "Cost": "3.4M"
+    },
+    {
+      "Power": "30.7K",
+      "Cost": "3.4M"
+    },
+    {
+      "Power": "32.3K",
+      "Cost": "3.4M"
+    },
+    {
+      "Power": "34K",
+      "Cost": "3.4M"
+    },
+    {
+      "Power": "35.8K",
+      "Cost": "3.7M"
+    },
+    {
+      "Power": "37.6K",
+      "Cost": "3.7M"
+    },
+    {
+      "Power": "39.6K",
+      "Cost": "3.7M"
+    },
+    {
+      "Power": "41.7K",
+      "Cost": "3.8M"
+    },
+    {
+      "Power": "43.9K",
+      "Cost": "3.8M"
+    },
+    {
+      "Power": "46.2K",
+      "Cost": "3.8M"
+    },
+    {
+      "Power": "48.6K",
+      "Cost": "3.8M"
+    },
+    {
+      "Power": "51.2K",
+      "Cost": "3.8M"
+    },
+    {
+      "Power": "53.9K",
+      "Cost": "3.9M"
+    },
+    {
+      "Power": "56.7K",
+      "Cost": "3.9M"
+    },
+    {
+      "Power": "59.7K",
+      "Cost": "4.2M"
+    },
+    {
+      "Power": "62.9K",
+      "Cost": "4.2M"
+    },
+    {
+      "Power": "66.2K",
+      "Cost": "4.2M"
+    },
+    {
+      "Power": "69.7K",
+      "Cost": "4.2M"
+    },
+    {
+      "Power": "73.3K",
+      "Cost": "4.3M"
+    },
+    {
+      "Power": "77.2K",
+      "Cost": "4.3M"
+    },
+    {
+      "Power": "81.2K",
+      "Cost": "4.3M"
+    },
+    {
+      "Power": "85.5K",
+      "Cost": "4.3M"
+    },
+    {
+      "Power": "90K",
+      "Cost": "4.4M"
+    },
+    {
+      "Power": "94.8K",
+      "Cost": "4.4M"
+    },
+    {
+      "Power": "99.8K",
+      "Cost": "4.7M"
+    },
+    {
+      "Power": "105K",
+      "Cost": "4.7M"
+    },
+    {
+      "Power": "110.5K",
+      "Cost": "4.7M"
+    },
+    {
+      "Power": "116.3K",
+      "Cost": "4.7M"
+    },
+    {
+      "Power": "122.5K",
+      "Cost": "4.8M"
+    },
+    {
+      "Power": "128.9K",
+      "Cost": "4.8M"
+    },
+    {
+      "Power": "135.7K",
+      "Cost": "4.8M"
+    },
+    {
+      "Power": "142.8K",
+      "Cost": "4.8M"
+    },
+    {
+      "Power": "150.4K",
+      "Cost": "4.9M"
+    },
+    {
+      "Power": "158.3K",
+      "Cost": "4.9M"
+    },
+    {
+      "Power": "166.6K",
+      "Cost": "5.2M"
+    },
+    {
+      "Power": "175.4K",
+      "Cost": "5.2M"
+    },
+    {
+      "Power": "184.6K",
+      "Cost": "5.3M"
+    },
+    {
+      "Power": "194.3K",
+      "Cost": "5.3M"
+    },
+    {
+      "Power": "204.5K",
+      "Cost": "5.3M"
+    },
+    {
+      "Power": "215.3K",
+      "Cost": "5.3M"
+    },
+    {
+      "Power": "226.6K",
+      "Cost": "5.4M"
+    },
+    {
+      "Power": "238.6K",
+      "Cost": "5.4M"
+    },
+    {
+      "Power": "251.1K",
+      "Cost": "5.4M"
+    },
+    {
+      "Power": "264.3K",
+      "Cost": "5.4M"
+    },
+    {
+      "Power": "278.3K",
+      "Cost": "5.8M"
+    },
+    {
+      "Power": "292.9K",
+      "Cost": "5.8M"
+    },
+    {
+      "Power": "308.3K",
+      "Cost": "5.8M"
+    },
+    {
+      "Power": "324.5K",
+      "Cost": "5.8M"
+    },
+    {
+      "Power": "341.6K",
+      "Cost": "5.9M"
+    },
+    {
+      "Power": "359.6K",
+      "Cost": "5.9M"
+    },
+    {
+      "Power": "378.5K",
+      "Cost": "5.9M"
+    },
+    {
+      "Power": "398.5K",
+      "Cost": "6M"
+    },
+    {
+      "Power": "419.4K",
+      "Cost": "6M"
+    },
+    {
+      "Power": "441.5K",
+      "Cost": "6M"
+    },
+    {
+      "Power": "464.7K",
+      "Cost": "6.4M"
+    },
+    {
+      "Power": "489.2K",
+      "Cost": "6.4M"
+    },
+    {
+      "Power": "514.9K",
+      "Cost": "6.4M"
+    },
+    {
+      "Power": "542K",
+      "Cost": "6.4M"
+    },
+    {
+      "Power": "570.6K",
+      "Cost": "6.5M"
+    },
+    {
+      "Power": "600.6K",
+      "Cost": "6.5M"
+    },
+    {
+      "Power": "632.2K",
+      "Cost": "6.5M"
+    },
+    {
+      "Power": "665.5K",
+      "Cost": "6.6M"
+    },
+    {
+      "Power": "700.5K",
+      "Cost": "6.6M"
+    },
+    {
+      "Power": "737.4K",
+      "Cost": "6.6M"
+    },
+    {
+      "Power": "776.2K",
+      "Cost": "6.7M"
+    },
+    {
+      "Power": "817K",
+      "Cost": "6.7M"
+    },
+    {
+      "Power": "860K",
+      "Cost": "6.7M"
+    },
+    {
+      "Power": "905.3K",
+      "Cost": "6.7M"
+    },
+    {
+      "Power": "953K",
+      "Cost": "6.8M"
+    },
+    {
+      "Power": "1M",
+      "Cost": "6.8M"
+    },
+    {
+      "Power": "1.1M",
+      "Cost": "6.8M"
+    },
+    {
+      "Power": "1.1M",
+      "Cost": "6.9M"
+    },
+    {
+      "Power": "1.2M",
+      "Cost": "6.9M"
+    },
+    {
+      "Power": "1.2M",
+      "Cost": "6.9M"
+    },
+    {
+      "Power": "1.3M",
+      "Cost": "7M"
+    },
+    {
+      "Power": "1.4M",
+      "Cost": "7M"
+    },
+    {
+      "Power": "1.4M",
+      "Cost": "7M"
+    },
+    {
+      "Power": "1.5M",
+      "Cost": "7M"
+    },
+    {
+      "Power": "1.6M",
+      "Cost": "7.1M"
+    },
+    {
+      "Power": "1.7M",
+      "Cost": "7.1M"
+    },
+    {
+      "Power": "1.8M",
+      "Cost": "7.1M"
+    },
+    {
+      "Power": "1.9M",
+      "Cost": "7.2M"
+    },
+    {
+      "Power": "2M",
+      "Cost": "7.2M"
+    },
+    {
+      "Power": "2.1M",
+      "Cost": "7.2M"
+    },
+    {
+      "Power": "2.2M",
+      "Cost": "7.3M"
+    },
+    {
+      "Power": "2.3M",
+      "Cost": "7.3M"
+    },
+    {
+      "Power": "2.4M",
+      "Cost": "7.3M"
+    },
+    {
+      "Power": "2.5M",
+      "Cost": "7.3M"
+    },
+    {
+      "Power": "2.7M",
+      "Cost": "7.4M"
+    },
+    {
+      "Power": "2.8M",
+      "Cost": "7.4M"
+    },
+    {
+      "Power": "2.9M",
+      "Cost": "7.4M"
+    },
+    {
+      "Power": "3.1M",
+      "Cost": "7.5M"
+    },
+    {
+      "Power": "3.3M",
+      "Cost": "7.5M"
+    },
+    {
+      "Power": "3.4M",
+      "Cost": "7.5M"
+    },
+    {
+      "Power": "3.6M",
+      "Cost": "7.6M"
+    },
+    {
+      "Power": "3.8M",
+      "Cost": "7.6M"
+    },
+    {
+      "Power": "4M",
+      "Cost": "7.6M"
+    },
+    {
+      "Power": "4.2M",
+      "Cost": "7.7M"
+    },
+    {
+      "Power": "4.4M",
+      "Cost": "7.7M"
+    },
+    {
+      "Power": "4.7M",
+      "Cost": "7.7M"
+    },
+    {
+      "Power": "4.9M",
+      "Cost": "7.7M"
+    },
+    {
+      "Power": "5.2M",
+      "Cost": "7.8M"
+    },
+    {
+      "Power": "5.5M",
+      "Cost": "7.8M"
+    },
+    {
+      "Power": "5.7M",
+      "Cost": "7.8M"
+    },
+    {
+      "Power": "6M",
+      "Cost": "7.9M"
+    },
+    {
+      "Power": "6.4M",
+      "Cost": "7.9M"
+    },
+    {
+      "Power": "6.7M",
+      "Cost": "7.9M"
+    },
+    {
+      "Power": "7M",
+      "Cost": "8M"
+    },
+    {
+      "Power": "7.4M",
+      "Cost": "8M"
+    },
+    {
+      "Power": "7.8M",
+      "Cost": "8M"
+    },
+    {
+      "Power": "8.2M",
+      "Cost": "8M"
+    },
+    {
+      "Power": "8.6M",
+      "Cost": "8.1M"
+    },
+    {
+      "Power": "9.1M",
+      "Cost": "8.1M"
+    },
+    {
+      "Power": "9.6M",
+      "Cost": "8.1M"
+    },
+    {
+      "Power": "10.1M",
+      "Cost": "8.2M"
+    },
+    {
+      "Power": "10.6M",
+      "Cost": "8.2M"
+    },
+    {
+      "Power": "11.2M",
+      "Cost": "8.2M"
+    },
+    {
+      "Power": "11.8M",
+      "Cost": "8.3M"
+    },
+    {
+      "Power": "12.4M",
+      "Cost": "8.3M"
+    },
+    {
+      "Power": "13M",
+      "Cost": "8.3M"
+    },
+    {
+      "Power": "13.7M",
+      "Cost": "8.3M"
+    },
+    {
+      "Power": "14.4M",
+      "Cost": "8.4M"
+    },
+    {
+      "Power": "15.2M",
+      "Cost": "8.4M"
+    },
+    {
+      "Power": "16M",
+      "Cost": "8.4M"
+    },
+    {
+      "Power": "16.8M",
+      "Cost": "8.5M"
+    },
+    {
+      "Power": "17.7M",
+      "Cost": "8.5M"
+    },
+    {
+      "Power": "18.7M",
+      "Cost": "8.5M"
+    },
+    {
+      "Power": "19.7M",
+      "Cost": "8.6M"
+    },
+    {
+      "Power": "20.7M",
+      "Cost": "8.6M"
+    },
+    {
+      "Power": "21.8M",
+      "Cost": "8.6M"
+    },
+    {
+      "Power": "22.9M",
+      "Cost": "8.6M"
+    },
+    {
+      "Power": "24.1M",
+      "Cost": "8.7M"
+    },
+    {
+      "Power": "25.4M",
+      "Cost": "8.7M"
+    },
+    {
+      "Power": "26.7M",
+      "Cost": "8.7M"
+    },
+    {
+      "Power": "28.1M",
+      "Cost": "8.8M"
+    },
+    {
+      "Power": "29.6M",
+      "Cost": "8.8M"
+    },
+    {
+      "Power": "31.2M",
+      "Cost": "8.8M"
+    },
+    {
+      "Power": "32.8M",
+      "Cost": "8.9M"
+    },
+    {
+      "Power": "34.5M",
+      "Cost": "8.9M"
+    },
+    {
+      "Power": "36.4M",
+      "Cost": "8.9M"
+    },
+    {
+      "Power": "38.3M",
+      "Cost": "9M"
+    },
+    {
+      "Power": "40.3M",
+      "Cost": "9M"
+    },
+    {
+      "Power": "42.4M",
+      "Cost": "9M"
+    },
+    {
+      "Power": "44.6M",
+      "Cost": "9M"
+    },
+    {
+      "Power": "47M",
+      "Cost": "9.1M"
+    },
+    {
+      "Power": "49.5M",
+      "Cost": "9.1M"
+    },
+    {
+      "Power": "52.1M",
+      "Cost": "9.1M"
+    },
+    {
+      "Power": "54.8M",
+      "Cost": "9.2M"
+    },
+    {
+      "Power": "57.7M",
+      "Cost": "9.2M"
+    },
+    {
+      "Power": "60.7M",
+      "Cost": "9.2M"
+    },
+    {
+      "Power": "63.9M",
+      "Cost": "9.3M"
+    },
+    {
+      "Power": "67.3M",
+      "Cost": "9.3M"
+    },
+    {
+      "Power": "70.8M",
+      "Cost": "9.3M"
+    },
+    {
+      "Power": "74.6M",
+      "Cost": "9.3M"
+    },
+    {
+      "Power": "78.5M",
+      "Cost": "9.4M"
+    },
+    {
+      "Power": "82.6M",
+      "Cost": "9.4M"
+    },
+    {
+      "Power": "87M",
+      "Cost": "9.4M"
+    },
+    {
+      "Power": "91.6M",
+      "Cost": "9.5M"
+    },
+    {
+      "Power": "96.4M",
+      "Cost": "9.5M"
+    },
+    {
+      "Power": "101.4M",
+      "Cost": "9.5M"
+    },
+    {
+      "Power": "106.8M",
+      "Cost": "9.6M"
+    },
+    {
+      "Power": "112.4M",
+      "Cost": "9.6M"
+    },
+    {
+      "Power": "118.3M",
+      "Cost": "9.6M"
+    },
+    {
+      "Power": "124.5M",
+      "Cost": "9.6M"
+    },
+    {
+      "Power": "131.1M",
+      "Cost": "9.7M"
+    },
+    {
+      "Power": "138M",
+      "Cost": "9.7M"
+    },
+    {
+      "Power": "145.3M",
+      "Cost": "9.7M"
+    },
+    {
+      "Power": "152.9M",
+      "Cost": "9.8M"
+    },
+    {
+      "Power": "161M",
+      "Cost": "9.8M"
+    },
+    {
+      "Power": "169.4M",
+      "Cost": "9.8M"
+    },
+    {
+      "Power": "178.3M",
+      "Cost": "9.9M"
+    },
+    {
+      "Power": "187.7M",
+      "Cost": "9.9M"
+    },
+    {
+      "Power": "197.6M",
+      "Cost": "9.9M"
+    },
+    {
+      "Power": "208M",
+      "Cost": "9.9M"
+    },
+    {
+      "Power": "219M",
+      "Cost": "10M"
+    },
+    {
+      "Power": "230.5M",
+      "Cost": "10M"
+    },
+    {
+      "Power": "242.6M",
+      "Cost": "10M"
+    },
+    {
+      "Power": "255.4M",
+      "Cost": "10.1M"
+    },
+    {
+      "Power": "268.8M",
+      "Cost": "10.1M"
+    },
+    {
+      "Power": "283M",
+      "Cost": "10.1M"
+    },
+    {
+      "Power": "297.9M",
+      "Cost": "10.2M"
+    },
+    {
+      "Power": "313.5M",
+      "Cost": "10.2M"
+    },
+    {
+      "Power": "330.1M",
+      "Cost": "10.2M"
+    },
+    {
+      "Power": "347.4M",
+      "Cost": "10.3M"
+    },
+    {
+      "Power": "365.7M",
+      "Cost": "10.3M"
+    },
+    {
+      "Power": "385M",
+      "Cost": "10.3M"
+    },
+    {
+      "Power": "405.2M",
+      "Cost": "10.3M"
+    },
+    {
+      "Power": "426.5M",
+      "Cost": "10.4M"
+    },
+    {
+      "Power": "449M",
+      "Cost": "10.4M"
+    },
+    {
+      "Power": "472.6M",
+      "Cost": "10.4M"
+    },
+    {
+      "Power": "497.5M",
+      "Cost": "10.5M"
+    },
+    {
+      "Power": "523.7M",
+      "Cost": "10.5M"
+    },
+    {
+      "Power": "551.2M",
+      "Cost": "10.5M"
+    },
+    {
+      "Power": "580.3M",
+      "Cost": "10.6M"
+    },
+    {
+      "Power": "610.8M",
+      "Cost": "10.6M"
+    },
+    {
+      "Power": "642.9M",
+      "Cost": "10.6M"
+    },
+    {
+      "Power": "676.8M",
+      "Cost": "10.6M"
+    },
+    {
+      "Power": "712.4M",
+      "Cost": "10.7M"
+    },
+    {
+      "Power": "749.9M",
+      "Cost": "10.7M"
+    },
+    {
+      "Power": "789.4M",
+      "Cost": "10.7M"
+    },
+    {
+      "Power": "830.9M",
+      "Cost": "10.8M"
+    },
+    {
+      "Power": "874.6M",
+      "Cost": "10.8M"
+    },
+    {
+      "Power": "920.7M",
+      "Cost": "10.8M"
+    },
+    {
+      "Power": "969.1M",
+      "Cost": "10.9M"
+    },
+    {
+      "Power": "1B",
+      "Cost": "10.9M"
+    },
+    {
+      "Power": "1.1B",
+      "Cost": "10.9M"
+    },
+    {
+      "Power": "1.1B",
+      "Cost": "10.9M"
+    },
+    {
+      "Power": "1.2B",
+      "Cost": "11M"
+    },
+    {
+      "Power": "1.3B",
+      "Cost": "11M"
+    },
+    {
+      "Power": "1.3B",
+      "Cost": "11M"
+    },
+    {
+      "Power": "1.4B",
+      "Cost": "11.1M"
+    },
+    {
+      "Power": "1.5B",
+      "Cost": "11.1M"
+    },
+    {
+      "Power": "1.5B",
+      "Cost": "11.1M"
+    },
+    {
+      "Power": "1.6B",
+      "Cost": "11.2M"
+    },
+    {
+      "Power": "1.7B",
+      "Cost": "11.2M"
+    },
+    {
+      "Power": "1.8B",
+      "Cost": "11.2M"
+    },
+    {
+      "Power": "1.9B",
+      "Cost": "11.2M"
+    },
+    {
+      "Power": "2B",
+      "Cost": "11.3M"
+    },
+    {
+      "Power": "2.1B",
+      "Cost": "11.3M"
+    },
+    {
+      "Power": "2.2B",
+      "Cost": "11.3M"
+    },
+    {
+      "Power": "2.3B",
+      "Cost": "11.4M"
+    },
+    {
+      "Power": "2.4B",
+      "Cost": "11.4M"
+    },
+    {
+      "Power": "2.6B",
+      "Cost": "11.4M"
+    },
+    {
+      "Power": "2.7B",
+      "Cost": "11.5M"
+    },
+    {
+      "Power": "2.8B",
+      "Cost": "11.5M"
+    },
+    {
+      "Power": "3B",
+      "Cost": "11.5M"
+    },
+    {
+      "Power": "3.2B",
+      "Cost": "11.6M"
+    },
+    {
+      "Power": "3.3B",
+      "Cost": "11.6M"
+    },
+    {
+      "Power": "3.5B",
+      "Cost": "11.6M"
+    },
+    {
+      "Power": "3.7B",
+      "Cost": "11.6M"
+    },
+    {
+      "Power": "3.9B",
+      "Cost": "11.7M"
+    },
+    {
+      "Power": "4.1B",
+      "Cost": "11.7M"
+    },
+    {
+      "Power": "4.3B",
+      "Cost": "11.7M"
+    },
+    {
+      "Power": "4.5B",
+      "Cost": "11.8M"
+    },
+    {
+      "Power": "4.8B",
+      "Cost": "11.8M"
+    },
+    {
+      "Power": "5B",
+      "Cost": "11.8M"
+    },
+    {
+      "Power": "5.3B",
+      "Cost": "11.9M"
+    },
+    {
+      "Power": "5.5B",
+      "Cost": "11.9M"
+    },
+    {
+      "Power": "5.8B",
+      "Cost": "11.9M"
+    },
+    {
+      "Power": "6.1B",
+      "Cost": "11.9M"
+    },
+    {
+      "Power": "6.5B",
+      "Cost": "12M"
+    },
+    {
+      "Power": "6.8B",
+      "Cost": "12M"
+    },
+    {
+      "Power": "7.2B",
+      "Cost": "12M"
+    },
+    {
+      "Power": "7.5B",
+      "Cost": "12.1M"
+    },
+    {
+      "Power": "7.9B",
+      "Cost": "12.1M"
+    },
+    {
+      "Power": "8.4B",
+      "Cost": "12.1M"
+    },
+    {
+      "Power": "8.8B",
+      "Cost": "12.2M"
+    },
+    {
+      "Power": "9.3B",
+      "Cost": "12.2M"
+    },
+    {
+      "Power": "9.7B",
+      "Cost": "12.2M"
+    },
+    {
+      "Power": "10.3B",
+      "Cost": "12.2M"
+    },
+    {
+      "Power": "10.8B",
+      "Cost": "12.3M"
+    },
+    {
+      "Power": "11.4B",
+      "Cost": "12.3M"
+    },
+    {
+      "Power": "12B",
+      "Cost": "12.3M"
+    },
+    {
+      "Power": "12.6B",
+      "Cost": "12.4M"
+    },
+    {
+      "Power": "13.3B",
+      "Cost": "12.4M"
+    },
+    {
+      "Power": "14B",
+      "Cost": "12.4M"
+    },
+    {
+      "Power": "14.7B",
+      "Cost": "12.5M"
+    },
+    {
+      "Power": "15.5B",
+      "Cost": "12.5M"
+    },
+    {
+      "Power": "16.3B",
+      "Cost": "12.5M"
+    },
+    {
+      "Power": "17.1B",
+      "Cost": "12.5M"
+    },
+    {
+      "Power": "18B",
+      "Cost": "12.6M"
+    },
+    {
+      "Power": "19B",
+      "Cost": "12.6M"
+    },
+    {
+      "Power": "20B",
+      "Cost": "12.6M"
+    },
+    {
+      "Power": "21B",
+      "Cost": "12.7M"
+    },
+    {
+      "Power": "22.1B",
+      "Cost": "12.7M"
+    },
+    {
+      "Power": "23.3B",
+      "Cost": "12.7M"
+    },
+    {
+      "Power": "24.5B",
+      "Cost": "12.8M"
+    },
+    {
+      "Power": "25.8B",
+      "Cost": "12.8M"
+    },
+    {
+      "Power": "27.2B",
+      "Cost": "12.8M"
+    },
+    {
+      "Power": "28.6B",
+      "Cost": "12.9M"
+    },
+    {
+      "Power": "30.1B",
+      "Cost": "12.9M"
+    },
+    {
+      "Power": "31.7B",
+      "Cost": "12.9M"
+    },
+    {
+      "Power": "33.4B",
+      "Cost": "12.9M"
+    },
+    {
+      "Power": "35.1B",
+      "Cost": "13M"
+    },
+    {
+      "Power": "37B",
+      "Cost": "13M"
+    },
+    {
+      "Power": "38.9B",
+      "Cost": "13M"
+    },
+    {
+      "Power": "41B",
+      "Cost": "13.1M"
+    },
+    {
+      "Power": "43.1B",
+      "Cost": "13.1M"
+    },
+    {
+      "Power": "45.4B",
+      "Cost": "13.1M"
+    },
+    {
+      "Power": "47.8B",
+      "Cost": "13.2M"
+    },
+    {
+      "Power": "50.3B",
+      "Cost": "13.2M"
+    },
+    {
+      "Power": "53B",
+      "Cost": "13.2M"
+    },
+    {
+      "Power": "55.7B",
+      "Cost": "13.2M"
+    },
+    {
+      "Power": "58.7B",
+      "Cost": "13.3M"
+    },
+    {
+      "Power": "61.8B",
+      "Cost": "13.3M"
+    },
+    {
+      "Power": "65B",
+      "Cost": "13.3M"
+    },
+    {
+      "Power": "68.4B",
+      "Cost": "13.4M"
+    },
+    {
+      "Power": "72B",
+      "Cost": "13.4M"
+    },
+    {
+      "Power": "75.8B",
+      "Cost": "13.4M"
+    },
+    {
+      "Power": "79.8B",
+      "Cost": "13.5M"
+    },
+    {
+      "Power": "84B",
+      "Cost": "13.5M"
+    },
+    {
+      "Power": "88.5B",
+      "Cost": "13.5M"
+    },
+    {
+      "Power": "93.1B",
+      "Cost": "13.5M"
+    },
+    {
+      "Power": "98B",
+      "Cost": "13.6M"
+    },
+    {
+      "Power": "103.2B",
+      "Cost": "13.6M"
+    },
+    {
+      "Power": "108.6B",
+      "Cost": "13.6M"
+    },
+    {
+      "Power": "114.3B",
+      "Cost": "13.7M"
+    },
+    {
+      "Power": "120.3B",
+      "Cost": "13.7M"
+    },
+    {
+      "Power": "126.7B",
+      "Cost": "13.7M"
+    },
+    {
+      "Power": "133.3B",
+      "Cost": "13.8M"
+    },
+    {
+      "Power": "140.3B",
+      "Cost": "13.8M"
+    },
+    {
+      "Power": "147.7B",
+      "Cost": "13.8M"
+    },
+    {
+      "Power": "155.5B",
+      "Cost": "13.8M"
+    },
+    {
+      "Power": "163.7B",
+      "Cost": "13.9M"
+    },
+    {
+      "Power": "172.3B",
+      "Cost": "13.9M"
+    },
+    {
+      "Power": "181.4B",
+      "Cost": "13.9M"
+    },
+    {
+      "Power": "190.9B",
+      "Cost": "14M"
+    },
+    {
+      "Power": "201B",
+      "Cost": "14M"
+    },
+    {
+      "Power": "211.5B",
+      "Cost": "14M"
+    },
+    {
+      "Power": "222.7B",
+      "Cost": "14.1M"
+    },
+    {
+      "Power": "234.4B",
+      "Cost": "14.1M"
+    },
+    {
+      "Power": "246.7B",
+      "Cost": "14.1M"
+    },
+    {
+      "Power": "259.7B",
+      "Cost": "14.2M"
+    },
+    {
+      "Power": "273.4B",
+      "Cost": "14.2M"
+    },
+    {
+      "Power": "287.8B",
+      "Cost": "14.2M"
+    },
+    {
+      "Power": "302.9B",
+      "Cost": "14.2M"
+    },
+    {
+      "Power": "318.9B",
+      "Cost": "14.3M"
+    },
+    {
+      "Power": "335.7B",
+      "Cost": "14.3M"
+    },
+    {
+      "Power": "353.3B",
+      "Cost": "14.3M"
+    },
+    {
+      "Power": "371.9B",
+      "Cost": "14.4M"
+    },
+    {
+      "Power": "391.5B",
+      "Cost": "14.4M"
+    },
+    {
+      "Power": "412.1B",
+      "Cost": "14.4M"
+    },
+    {
+      "Power": "433.8B",
+      "Cost": "14.5M"
+    },
+    {
+      "Power": "456.6B",
+      "Cost": "14.5M"
+    },
+    {
+      "Power": "480.7B",
+      "Cost": "14.5M"
+    },
+    {
+      "Power": "505.9B",
+      "Cost": "14.5M"
+    },
+    {
+      "Power": "532.6B",
+      "Cost": "14.6M"
+    },
+    {
+      "Power": "560.6B",
+      "Cost": "14.6M"
+    },
+    {
+      "Power": "590.1B",
+      "Cost": "14.6M"
+    },
+    {
+      "Power": "621.2B",
+      "Cost": "14.7M"
+    },
+    {
+      "Power": "653.9B",
+      "Cost": "14.7M"
+    },
+    {
+      "Power": "688.3B",
+      "Cost": "14.7M"
+    },
+    {
+      "Power": "724.5B",
+      "Cost": "14.8M"
+    },
+    {
+      "Power": "762.6B",
+      "Cost": "14.8M"
+    },
+    {
+      "Power": "802.8B",
+      "Cost": "14.8M"
+    },
+    {
+      "Power": "845B",
+      "Cost": "14.8M"
+    },
+    {
+      "Power": "889.5B",
+      "Cost": "14.9M"
+    },
+    {
+      "Power": "936.3B",
+      "Cost": "14.9M"
+    },
+    {
+      "Power": "985.6B",
+      "Cost": "14.9M"
+    },
+    {
+      "Power": "1T",
+      "Cost": "15M"
+    },
+    {
+      "Power": "1.1T",
+      "Cost": "15M"
+    },
+    {
+      "Power": "1.1T",
+      "Cost": "15M"
+    },
+    {
+      "Power": "1.2T",
+      "Cost": "15.1M"
+    },
+    {
+      "Power": "1.3T",
+      "Cost": "15.1M"
+    },
+    {
+      "Power": "1.3T",
+      "Cost": "15.1M"
+    },
+    {
+      "Power": "1.4T",
+      "Cost": "15.2M"
+    },
+    {
+      "Power": "1.5T",
+      "Cost": "15.2M"
+    },
+    {
+      "Power": "1.6T",
+      "Cost": "15.2M"
+    },
+    {
+      "Power": "1.6T",
+      "Cost": "15.2M"
+    },
+    {
+      "Power": "1.7T",
+      "Cost": "15.3M"
+    },
+    {
+      "Power": "1.8T",
+      "Cost": "15.3M"
+    },
+    {
+      "Power": "1.9T",
+      "Cost": "15.3M"
+    },
+    {
+      "Power": "2T",
+      "Cost": "15.4M"
+    },
+    {
+      "Power": "2.1T",
+      "Cost": "15.4M"
+    },
+    {
+      "Power": "2.2T",
+      "Cost": "15.4M"
+    },
+    {
+      "Power": "2.4T",
+      "Cost": "15.5M"
+    },
+    {
+      "Power": "2.5T",
+      "Cost": "15.5M"
+    },
+    {
+      "Power": "2.6T",
+      "Cost": "15.5M"
+    },
+    {
+      "Power": "2.7T",
+      "Cost": "15.5M"
+    },
+    {
+      "Power": "2.9T",
+      "Cost": "15.6M"
+    },
+    {
+      "Power": "3T",
+      "Cost": "15.6M"
+    },
+    {
+      "Power": "3.2T",
+      "Cost": "15.6M"
+    },
+    {
+      "Power": "3.4T",
+      "Cost": "15.7M"
+    },
+    {
+      "Power": "3.6T",
+      "Cost": "15.7M"
+    },
+    {
+      "Power": "3.7T",
+      "Cost": "15.7M"
+    },
+    {
+      "Power": "3.9T",
+      "Cost": "15.8M"
+    },
+    {
+      "Power": "4.1T",
+      "Cost": "15.8M"
+    },
+    {
+      "Power": "4.4T",
+      "Cost": "15.8M"
+    },
+    {
+      "Power": "4.6T",
+      "Cost": "15.8M"
+    },
+    {
+      "Power": "4.8T",
+      "Cost": "15.9M"
+    },
+    {
+      "Power": "5.1T",
+      "Cost": "15.9M"
+    },
+    {
+      "Power": "5.4T",
+      "Cost": "15.9M"
+    },
+    {
+      "Power": "5.6T",
+      "Cost": "16M"
+    },
+    {
+      "Power": "5.9T",
+      "Cost": "16M"
+    },
+    {
+      "Power": "6.2T",
+      "Cost": "16M"
+    },
+    {
+      "Power": "6.6T",
+      "Cost": "16.1M"
+    },
+    {
+      "Power": "6.9T",
+      "Cost": "16.1M"
+    },
+    {
+      "Power": "7.3T",
+      "Cost": "16.1M"
+    },
+    {
+      "Power": "7.7T",
+      "Cost": "16.1M"
+    },
+    {
+      "Power": "8.1T",
+      "Cost": "16.2M"
+    },
+    {
+      "Power": "8.5T",
+      "Cost": "16.2M"
+    },
+    {
+      "Power": "8.9T",
+      "Cost": "16.2M"
+    },
+    {
+      "Power": "9.4T",
+      "Cost": "16.3M"
+    },
+    {
+      "Power": "9.9T",
+      "Cost": "16.3M"
+    },
+    {
+      "Power": "10.4T",
+      "Cost": "16.3M"
+    },
+    {
+      "Power": "11T",
+      "Cost": "16.4M"
+    },
+    {
+      "Power": "11.6T",
+      "Cost": "16.4M"
+    },
+    {
+      "Power": "12.2T",
+      "Cost": "16.4M"
+    },
+    {
+      "Power": "12.8T",
+      "Cost": "16.5M"
+    },
+    {
+      "Power": "13.5T",
+      "Cost": "16.5M"
+    },
+    {
+      "Power": "14.2T",
+      "Cost": "16.5M"
+    },
+    {
+      "Power": "14.9T",
+      "Cost": "16.5M"
+    },
+    {
+      "Power": "15.7T",
+      "Cost": "16.6M"
+    },
+    {
+      "Power": "16.6T",
+      "Cost": "16.6M"
+    },
+    {
+      "Power": "17.4T",
+      "Cost": "16.6M"
+    },
+    {
+      "Power": "18.3T",
+      "Cost": "16.7M"
+    },
+    {
+      "Power": "19.3T",
+      "Cost": "16.7M"
+    },
+    {
+      "Power": "20.3T",
+      "Cost": "16.7M"
+    },
+    {
+      "Power": "21.4T",
+      "Cost": "16.8M"
+    },
+    {
+      "Power": "22.5T",
+      "Cost": "16.8M"
+    },
+    {
+      "Power": "23.7T",
+      "Cost": "16.8M"
+    },
+    {
+      "Power": "25T",
+      "Cost": "16.8M"
+    },
+    {
+      "Power": "26.3T",
+      "Cost": "16.9M"
+    },
+    {
+      "Power": "27.6T",
+      "Cost": "16.9M"
+    },
+    {
+      "Power": "29.1T",
+      "Cost": "16.9M"
+    },
+    {
+      "Power": "30.6T",
+      "Cost": "17M"
+    },
+    {
+      "Power": "32.2T",
+      "Cost": "17M"
+    },
+    {
+      "Power": "33.9T",
+      "Cost": "17M"
+    },
+    {
+      "Power": "35.7T",
+      "Cost": "17.1M"
+    },
+    {
+      "Power": "37.6T",
+      "Cost": "17.1M"
+    },
+    {
+      "Power": "39.6T",
+      "Cost": "17.1M"
+    },
+    {
+      "Power": "41.7T",
+      "Cost": "17.1M"
+    },
+    {
+      "Power": "43.9T",
+      "Cost": "17.2M"
+    },
+    {
+      "Power": "46.2T",
+      "Cost": "17.2M"
+    },
+    {
+      "Power": "48.6T",
+      "Cost": "17.2M"
+    },
+    {
+      "Power": "51.2T",
+      "Cost": "17.3M"
+    },
+    {
+      "Power": "53.9T",
+      "Cost": "17.3M"
+    },
+    {
+      "Power": "56.7T",
+      "Cost": "17.3M"
+    },
+    {
+      "Power": "59.7T",
+      "Cost": "17.4M"
+    },
+    {
+      "Power": "62.8T",
+      "Cost": "17.4M"
+    },
+    {
+      "Power": "66.1T",
+      "Cost": "17.4M"
+    },
+    {
+      "Power": "69.6T",
+      "Cost": "17.4M"
+    },
+    {
+      "Power": "73.3T",
+      "Cost": "17.5M"
+    },
+    {
+      "Power": "77.1T",
+      "Cost": "17.5M"
+    },
+    {
+      "Power": "81.2T",
+      "Cost": "17.5M"
+    },
+    {
+      "Power": "85.5T",
+      "Cost": "17.6M"
+    },
+    {
+      "Power": "90T",
+      "Cost": "17.6M"
+    },
+    {
+      "Power": "94.7T",
+      "Cost": "17.6M"
+    },
+    {
+      "Power": "99.7T",
+      "Cost": "17.7M"
+    },
+    {
+      "Power": "104.9T",
+      "Cost": "17.7M"
+    },
+    {
+      "Power": "110.4T",
+      "Cost": "17.7M"
+    },
+    {
+      "Power": "116.3T",
+      "Cost": "17.8M"
+    },
+    {
+      "Power": "122.4T",
+      "Cost": "17.8M"
+    },
+    {
+      "Power": "128.8T",
+      "Cost": "17.8M"
+    },
+    {
+      "Power": "135.6T",
+      "Cost": "17.8M"
+    },
+    {
+      "Power": "142.7T",
+      "Cost": "17.9M"
+    },
+    {
+      "Power": "150.2T",
+      "Cost": "17.9M"
+    },
+    {
+      "Power": "158.1T",
+      "Cost": "17.9M"
+    },
+    {
+      "Power": "166.5T",
+      "Cost": "18M"
+    },
+    {
+      "Power": "175.2T",
+      "Cost": "18M"
+    },
+    {
+      "Power": "184.5T",
+      "Cost": "18M"
+    },
+    {
+      "Power": "194.2T",
+      "Cost": "18.1M"
+    },
+    {
+      "Power": "204.4T",
+      "Cost": "18.1M"
+    },
+    {
+      "Power": "215.1T",
+      "Cost": "18.1M"
+    },
+    {
+      "Power": "226.5T",
+      "Cost": "18.1M"
+    },
+    {
+      "Power": "238.4T",
+      "Cost": "18.2M"
+    },
+    {
+      "Power": "250.9T",
+      "Cost": "18.2M"
+    },
+    {
+      "Power": "264.1T",
+      "Cost": "18.2M"
+    },
+    {
+      "Power": "278T",
+      "Cost": "18.3M"
+    },
+    {
+      "Power": "292.7T",
+      "Cost": "18.3M"
+    },
+    {
+      "Power": "308.1T",
+      "Cost": "18.3M"
+    },
+    {
+      "Power": "324.3T",
+      "Cost": "18.4M"
+    },
+    {
+      "Power": "341.4T",
+      "Cost": "18.4M"
+    },
+    {
+      "Power": "359.3T",
+      "Cost": "18.4M"
+    },
+    {
+      "Power": "378.2T",
+      "Cost": "18.4M"
+    },
+    {
+      "Power": "398.1T",
+      "Cost": "18.5M"
+    },
+    {
+      "Power": "419.1T",
+      "Cost": "18.5M"
+    },
+    {
+      "Power": "441.2T",
+      "Cost": "18.5M"
+    },
+    {
+      "Power": "464.4T",
+      "Cost": "18.6M"
+    },
+    {
+      "Power": "488.8T",
+      "Cost": "18.6M"
+    },
+    {
+      "Power": "514.5T",
+      "Cost": "18.6M"
+    },
+    {
+      "Power": "541.6T",
+      "Cost": "18.7M"
+    },
+    {
+      "Power": "570.1T",
+      "Cost": "18.7M"
+    },
+    {
+      "Power": "600.1T",
+      "Cost": "18.7M"
+    },
+    {
+      "Power": "631.7T",
+      "Cost": "18.7M"
+    },
+    {
+      "Power": "665T",
+      "Cost": "18.8M"
+    },
+    {
+      "Power": "700T",
+      "Cost": "18.8M"
+    },
+    {
+      "Power": "736.8T",
+      "Cost": "18.8M"
+    },
+    {
+      "Power": "775.6T",
+      "Cost": "18.9M"
+    },
+    {
+      "Power": "816.4T",
+      "Cost": "18.9M"
+    },
+    {
+      "Power": "859.4T",
+      "Cost": "18.9M"
+    },
+    {
+      "Power": "904.6T",
+      "Cost": "19M"
+    },
+    {
+      "Power": "952.2T",
+      "Cost": "19M"
+    },
+    {
+      "Power": "1P",
+      "Cost": "19M"
+    },
+    {
+      "Power": "1.1P",
+      "Cost": "19.1M"
+    },
+    {
+      "Power": "1.1P",
+      "Cost": "19.1M"
+    },
+    {
+      "Power": "1.2P",
+      "Cost": "19.1M"
+    },
+    {
+      "Power": "1.2P",
+      "Cost": "19.1M"
+    },
+    {
+      "Power": "1.3P",
+      "Cost": "19.2M"
+    },
+    {
+      "Power": "1.4P",
+      "Cost": "19.2M"
+    },
+    {
+      "Power": "1.4P",
+      "Cost": "19.2M"
+    },
+    {
+      "Power": "1.5P",
+      "Cost": "19.3M"
+    },
+    {
+      "Power": "1.6P",
+      "Cost": "19.3M"
+    },
+    {
+      "Power": "1.7P",
+      "Cost": "19.3M"
+    },
+    {
+      "Power": "1.8P",
+      "Cost": "19.4M"
+    },
+    {
+      "Power": "1.9P",
+      "Cost": "19.4M"
+    },
+    {
+      "Power": "2P",
+      "Cost": "19.4M"
+    },
+    {
+      "Power": "2.1P",
+      "Cost": "19.4M"
+    },
+    {
+      "Power": "2.2P",
+      "Cost": "19.5M"
+    },
+    {
+      "Power": "2.3P",
+      "Cost": "19.5M"
+    },
+    {
+      "Power": "2.4P",
+      "Cost": "19.5M"
+    },
+    {
+      "Power": "2.5P",
+      "Cost": "19.6M"
+    },
+    {
+      "Power": "2.7P",
+      "Cost": "19.6M"
+    },
+    {
+      "Power": "2.8P",
+      "Cost": "19.6M"
+    },
+    {
+      "Power": "2.9P",
+      "Cost": "19.7M"
+    },
+    {
+      "Power": "3.1P",
+      "Cost": "19.7M"
+    },
+    {
+      "Power": "3.3P",
+      "Cost": "19.7M"
+    },
+    {
+      "Power": "3.4P",
+      "Cost": "19.7M"
+    },
+    {
+      "Power": "3.6P",
+      "Cost": "19.8M"
+    },
+    {
+      "Power": "3.8P",
+      "Cost": "19.8M"
+    },
+    {
+      "Power": "4P",
+      "Cost": "19.8M"
+    },
+    {
+      "Power": "4.2P",
+      "Cost": "19.9M"
+    },
+    {
+      "Power": "4.4P",
+      "Cost": "19.9M"
+    },
+    {
+      "Power": "4.7P",
+      "Cost": "19.9M"
+    },
+    {
+      "Power": "4.9P",
+      "Cost": "20M"
+    },
+    {
+      "Power": "5.2P",
+      "Cost": "20M"
+    },
+    {
+      "Power": "5.4P",
+      "Cost": "20M"
+    },
+    {
+      "Power": "5.7P",
+      "Cost": "20M"
+    },
+    {
+      "Power": "6P",
+      "Cost": "20.1M"
+    },
+    {
+      "Power": "6.4P",
+      "Cost": "20.1M"
+    },
+    {
+      "Power": "6.7P",
+      "Cost": "20.1M"
+    },
+    {
+      "Power": "7P",
+      "Cost": "20.2M"
+    },
+    {
+      "Power": "7.4P",
+      "Cost": "20.2M"
+    },
+    {
+      "Power": "7.8P",
+      "Cost": "20.2M"
+    },
+    {
+      "Power": "8.2P",
+      "Cost": "20.3M"
+    },
+    {
+      "Power": "8.6P",
+      "Cost": "20.3M"
+    },
+    {
+      "Power": "9.1P",
+      "Cost": "20.3M"
+    },
+    {
+      "Power": "9.6P",
+      "Cost": "20.4M"
+    },
+    {
+      "Power": "10.1P",
+      "Cost": "20.4M"
+    },
+    {
+      "Power": "10.6P",
+      "Cost": "20.4M"
+    },
+    {
+      "Power": "11.2P",
+      "Cost": "20.4M"
+    },
+    {
+      "Power": "11.8P",
+      "Cost": "20.5M"
+    },
+    {
+      "Power": "12.4P",
+      "Cost": "20.5M"
+    },
+    {
+      "Power": "13P",
+      "Cost": "20.5M"
+    },
+    {
+      "Power": "13.7P",
+      "Cost": "20.6M"
+    },
+    {
+      "Power": "14.4P",
+      "Cost": "20.6M"
+    },
+    {
+      "Power": "15.2P",
+      "Cost": "20.6M"
+    },
+    {
+      "Power": "16P",
+      "Cost": "20.7M"
+    },
+    {
+      "Power": "16.8P",
+      "Cost": "20.7M"
+    },
+    {
+      "Power": "17.7P",
+      "Cost": "20.7M"
+    },
+    {
+      "Power": "18.7P",
+      "Cost": "20.7M"
+    },
+    {
+      "Power": "19.6P",
+      "Cost": "20.8M"
+    },
+    {
+      "Power": "20.7P",
+      "Cost": "20.8M"
+    },
+    {
+      "Power": "21.8P",
+      "Cost": "20.8M"
+    },
+    {
+      "Power": "22.9P",
+      "Cost": "20.9M"
+    },
+    {
+      "Power": "24.1P",
+      "Cost": "20.9M"
+    },
+    {
+      "Power": "25.4P",
+      "Cost": "20.9M"
+    },
+    {
+      "Power": "26.7P",
+      "Cost": "21M"
+    },
+    {
+      "Power": "28.1P",
+      "Cost": "21M"
+    },
+    {
+      "Power": "29.6P",
+      "Cost": "21M"
+    },
+    {
+      "Power": "31.2P",
+      "Cost": "21M"
+    },
+    {
+      "Power": "32.8P",
+      "Cost": "21.1M"
+    },
+    {
+      "Power": "34.5P",
+      "Cost": "21.1M"
+    },
+    {
+      "Power": "36.3P",
+      "Cost": "21.1M"
+    },
+    {
+      "Power": "38.3P",
+      "Cost": "21.2M"
+    },
+    {
+      "Power": "40.3P",
+      "Cost": "21.2M"
+    },
+    {
+      "Power": "42.4P",
+      "Cost": "21.2M"
+    },
+    {
+      "Power": "44.6P",
+      "Cost": "21.3M"
+    },
+    {
+      "Power": "47P",
+      "Cost": "21.3M"
+    },
+    {
+      "Power": "49.4P",
+      "Cost": "21.3M"
+    },
+    {
+      "Power": "52P",
+      "Cost": "21.3M"
+    },
+    {
+      "Power": "54.8P",
+      "Cost": "21.4M"
+    },
+    {
+      "Power": "57.7P",
+      "Cost": "21.4M"
+    },
+    {
+      "Power": "60.7P",
+      "Cost": "21.4M"
+    },
+    {
+      "Power": "63.9P",
+      "Cost": "21.5M"
+    },
+    {
+      "Power": "67.2P",
+      "Cost": "21.5M"
+    },
+    {
+      "Power": "70.8P",
+      "Cost": "21.5M"
+    },
+    {
+      "Power": "74.5P",
+      "Cost": "21.6M"
+    },
+    {
+      "Power": "78.4P",
+      "Cost": "21.6M"
+    },
+    {
+      "Power": "82.6P",
+      "Cost": "21.6M"
+    },
+    {
+      "Power": "86.9P",
+      "Cost": "21.7M"
+    },
+    {
+      "Power": "91.5P",
+      "Cost": "21.7M"
+    },
+    {
+      "Power": "96.3P",
+      "Cost": "21.7M"
+    },
+    {
+      "Power": "101.4P",
+      "Cost": "21.7M"
+    },
+    {
+      "Power": "106.7P",
+      "Cost": "21.8M"
+    },
+    {
+      "Power": "112.3P",
+      "Cost": "21.8M"
+    },
+    {
+      "Power": "118.2P",
+      "Cost": "21.8M"
+    },
+    {
+      "Power": "124.4P",
+      "Cost": "21.9M"
+    },
+    {
+      "Power": "131P",
+      "Cost": "21.9M"
+    },
+    {
+      "Power": "137.9P",
+      "Cost": "21.9M"
+    },
+    {
+      "Power": "145.2P",
+      "Cost": "22M"
+    },
+    {
+      "Power": "152.8P",
+      "Cost": "22M"
+    },
+    {
+      "Power": "160.8P",
+      "Cost": "22M"
+    },
+    {
+      "Power": "169.3P",
+      "Cost": "22M"
+    },
+    {
+      "Power": "178.2P",
+      "Cost": "22.1M"
+    },
+    {
+      "Power": "187.6P",
+      "Cost": "22.1M"
+    },
+    {
+      "Power": "197.5P",
+      "Cost": "22.1M"
+    },
+    {
+      "Power": "207.9P",
+      "Cost": "22.2M"
+    },
+    {
+      "Power": "218.8P",
+      "Cost": "22.2M"
+    },
+    {
+      "Power": "230.3P",
+      "Cost": "22.2M"
+    },
+    {
+      "Power": "242.4P",
+      "Cost": "22.3M"
+    },
+    {
+      "Power": "255.2P",
+      "Cost": "22.3M"
+    },
+    {
+      "Power": "268.6P",
+      "Cost": "22.3M"
+    },
+    {
+      "Power": "282.8P",
+      "Cost": "22.3M"
+    },
+    {
+      "Power": "297.6P",
+      "Cost": "22.4M"
+    },
+    {
+      "Power": "313.3P",
+      "Cost": "22.4M"
+    },
+    {
+      "Power": "329.8P",
+      "Cost": "22.4M"
+    },
+    {
+      "Power": "347.2P",
+      "Cost": "22.5M"
+    },
+    {
+      "Power": "365.4P",
+      "Cost": "22.5M"
+    },
+    {
+      "Power": "384.7P",
+      "Cost": "22.5M"
+    },
+    {
+      "Power": "404.9P",
+      "Cost": "22.6M"
+    },
+    {
+      "Power": "426.2P",
+      "Cost": "22.6M"
+    },
+    {
+      "Power": "448.6P",
+      "Cost": "22.6M"
+    },
+    {
+      "Power": "472.3P",
+      "Cost": "22.6M"
+    },
+    {
+      "Power": "497.1P",
+      "Cost": "22.7M"
+    },
+    {
+      "Power": "523.3P",
+      "Cost": "22.7M"
+    },
+    {
+      "Power": "550.8P",
+      "Cost": "22.7M"
+    },
+    {
+      "Power": "579.8P",
+      "Cost": "22.8M"
+    },
+    {
+      "Power": "610.3P",
+      "Cost": "22.8M"
+    },
+    {
+      "Power": "642.4P",
+      "Cost": "22.8M"
+    },
+    {
+      "Power": "676.3P",
+      "Cost": "22.9M"
+    },
+    {
+      "Power": "711.9P",
+      "Cost": "22.9M"
+    },
+    {
+      "Power": "749.3P",
+      "Cost": "22.9M"
+    },
+    {
+      "Power": "788.8P",
+      "Cost": "23M"
+    },
+    {
+      "Power": "830.3P",
+      "Cost": "23M"
+    },
+    {
+      "Power": "874P",
+      "Cost": "23M"
+    },
+    {
+      "Power": "920P",
+      "Cost": "23M"
+    },
+    {
+      "Power": "968.4P",
+      "Cost": "23.1M"
+    },
+    {
+      "Power": "1E",
+      "Cost": "23.1M"
+    },
+    {
+      "Power": "1.1E",
+      "Cost": "23.1M"
+    },
+    {
+      "Power": "1.1E",
+      "Cost": "23.2M"
+    },
+    {
+      "Power": "1.2E",
+      "Cost": "23.2M"
+    },
+    {
+      "Power": "1.3E",
+      "Cost": "23.2M"
+    },
+    {
+      "Power": "1.3E",
+      "Cost": "23.3M"
+    },
+    {
+      "Power": "1.4E",
+      "Cost": "23.3M"
+    },
+    {
+      "Power": "1.5E",
+      "Cost": "23.3M"
+    },
+    {
+      "Power": "1.5E",
+      "Cost": "23.3M"
+    },
+    {
+      "Power": "1.6E",
+      "Cost": "23.4M"
+    },
+    {
+      "Power": "1.7E",
+      "Cost": "23.4M"
+    },
+    {
+      "Power": "1.8E",
+      "Cost": "23.4M"
+    },
+    {
+      "Power": "1.9E",
+      "Cost": "23.5M"
+    },
+    {
+      "Power": "2E",
+      "Cost": "23.5M"
+    },
+    {
+      "Power": "2.1E",
+      "Cost": "23.5M"
+    },
+    {
+      "Power": "2.2E",
+      "Cost": "23.6M"
+    },
+    {
+      "Power": "2.3E",
+      "Cost": "23.6M"
+    },
+    {
+      "Power": "2.4E",
+      "Cost": "23.6M"
+    },
+    {
+      "Power": "2.6E",
+      "Cost": "23.6M"
+    },
+    {
+      "Power": "2.7E",
+      "Cost": "23.7M"
+    },
+    {
+      "Power": "2.8E",
+      "Cost": "23.7M"
+    },
+    {
+      "Power": "3E",
+      "Cost": "23.7M"
+    },
+    {
+      "Power": "3.2E",
+      "Cost": "23.8M"
+    },
+    {
+      "Power": "3.3E",
+      "Cost": "23.8M"
+    },
+    {
+      "Power": "3.5E",
+      "Cost": "23.8M"
+    },
+    {
+      "Power": "3.7E",
+      "Cost": "23.9M"
+    },
+    {
+      "Power": "3.9E",
+      "Cost": "23.9M"
+    },
+    {
+      "Power": "4.1E",
+      "Cost": "23.9M"
+    },
+    {
+      "Power": "4.3E",
+      "Cost": "24M"
+    },
+    {
+      "Power": "4.5E",
+      "Cost": "24M"
+    },
+    {
+      "Power": "4.7E",
+      "Cost": "24M"
+    },
+    {
+      "Power": "5E",
+      "Cost": "24M"
+    },
+    {
+      "Power": "5.3E",
+      "Cost": "24.1M"
+    },
+    {
+      "Power": "5.5E",
+      "Cost": "24.1M"
+    },
+    {
+      "Power": "5.8E",
+      "Cost": "24.1M"
+    },
+    {
+      "Power": "6.1E",
+      "Cost": "24.2M"
+    },
+    {
+      "Power": "6.5E",
+      "Cost": "24.2M"
+    },
+    {
+      "Power": "6.8E",
+      "Cost": "24.2M"
+    },
+    {
+      "Power": "7.2E",
+      "Cost": "24.3M"
+    },
+    {
+      "Power": "7.5E",
+      "Cost": "24.3M"
+    },
+    {
+      "Power": "7.9E",
+      "Cost": "24.3M"
+    },
+    {
+      "Power": "8.3E",
+      "Cost": "24.3M"
+    },
+    {
+      "Power": "8.8E",
+      "Cost": "24.4M"
+    },
+    {
+      "Power": "9.3E",
+      "Cost": "24.4M"
+    },
+    {
+      "Power": "9.7E",
+      "Cost": "24.4M"
+    },
+    {
+      "Power": "10.3E",
+      "Cost": "24.5M"
+    },
+    {
+      "Power": "10.8E",
+      "Cost": "24.5M"
+    },
+    {
+      "Power": "11.4E",
+      "Cost": "24.5M"
+    },
+    {
+      "Power": "12E",
+      "Cost": "24.6M"
+    },
+    {
+      "Power": "12.6E",
+      "Cost": "24.6M"
+    },
+    {
+      "Power": "13.2E",
+      "Cost": "24.6M"
+    },
+    {
+      "Power": "13.9E",
+      "Cost": "24.6M"
+    },
+    {
+      "Power": "14.7E",
+      "Cost": "24.7M"
+    },
+    {
+      "Power": "15.5E",
+      "Cost": "24.7M"
+    },
+    {
+      "Power": "16.3E",
+      "Cost": "24.7M"
+    },
+    {
+      "Power": "17.1E",
+      "Cost": "24.8M"
+    },
+    {
+      "Power": "18E",
+      "Cost": "24.8M"
+    },
+    {
+      "Power": "19E",
+      "Cost": "24.8M"
+    },
+    {
+      "Power": "20E",
+      "Cost": "24.9M"
+    },
+    {
+      "Power": "21E",
+      "Cost": "24.9M"
+    },
+    {
+      "Power": "22.1E",
+      "Cost": "24.9M"
+    },
+    {
+      "Power": "23.3E",
+      "Cost": "24.9M"
+    },
+    {
+      "Power": "24.5E",
+      "Cost": "25M"
+    },
+    {
+      "Power": "25.8E",
+      "Cost": "25M"
+    },
+    {
+      "Power": "27.2E",
+      "Cost": "25M"
+    },
+    {
+      "Power": "28.6E",
+      "Cost": "25.1M"
+    },
+    {
+      "Power": "30.1E",
+      "Cost": "25.1M"
+    },
+    {
+      "Power": "31.7E",
+      "Cost": "25.1M"
+    },
+    {
+      "Power": "33.4E",
+      "Cost": "25.2M"
+    },
+    {
+      "Power": "35.1E",
+      "Cost": "25.2M"
+    },
+    {
+      "Power": "37E",
+      "Cost": "25.2M"
+    },
+    {
+      "Power": "38.9E",
+      "Cost": "25.3M"
+    },
+    {
+      "Power": "40.9E",
+      "Cost": "25.3M"
+    },
+    {
+      "Power": "43.1E",
+      "Cost": "25.3M"
+    },
+    {
+      "Power": "45.4E",
+      "Cost": "25.3M"
+    },
+    {
+      "Power": "47.8E",
+      "Cost": "25.4M"
+    },
+    {
+      "Power": "50.3E",
+      "Cost": "25.4M"
+    },
+    {
+      "Power": "52.9E",
+      "Cost": "25.4M"
+    },
+    {
+      "Power": "55.7E",
+      "Cost": "25.5M"
+    },
+    {
+      "Power": "58.6E",
+      "Cost": "25.5M"
+    },
+    {
+      "Power": "61.7E",
+      "Cost": "25.5M"
+    },
+    {
+      "Power": "65E",
+      "Cost": "25.6M"
+    },
+    {
+      "Power": "68.4E",
+      "Cost": "25.6M"
+    },
+    {
+      "Power": "72E",
+      "Cost": "25.6M"
+    },
+    {
+      "Power": "75.8E",
+      "Cost": "25.6M"
+    },
+    {
+      "Power": "79.8E",
+      "Cost": "25.7M"
+    },
+    {
+      "Power": "84E",
+      "Cost": "25.7M"
+    },
+    {
+      "Power": "88.4E",
+      "Cost": "25.7M"
+    },
+    {
+      "Power": "93E",
+      "Cost": "25.8M"
+    },
+    {
+      "Power": "97.9E",
+      "Cost": "25.8M"
+    },
+    {
+      "Power": "103.1E",
+      "Cost": "25.8M"
+    },
+    {
+      "Power": "108.5E",
+      "Cost": "25.9M"
+    },
+    {
+      "Power": "114.2E",
+      "Cost": "25.9M"
+    },
+    {
+      "Power": "120.2E",
+      "Cost": "25.9M"
+    },
+    {
+      "Power": "126.6E",
+      "Cost": "25.9M"
+    },
+    {
+      "Power": "133.2E",
+      "Cost": "26M"
+    },
+    {
+      "Power": "140.2E",
+      "Cost": "26M"
+    },
+    {
+      "Power": "147.6E",
+      "Cost": "26M"
+    },
+    {
+      "Power": "155.4E",
+      "Cost": "26.1M"
+    },
+    {
+      "Power": "163.6E",
+      "Cost": "26.1M"
+    },
+    {
+      "Power": "172.2E",
+      "Cost": "26.1M"
+    },
+    {
+      "Power": "181.2E",
+      "Cost": "26.2M"
+    },
+    {
+      "Power": "190.8E",
+      "Cost": "26.2M"
+    },
+    {
+      "Power": "200.8E",
+      "Cost": "26.2M"
+    },
+    {
+      "Power": "211.4E",
+      "Cost": "26.2M"
+    },
+    {
+      "Power": "222.5E",
+      "Cost": "26.3M"
+    },
+    {
+      "Power": "234.2E",
+      "Cost": "26.3M"
+    },
+    {
+      "Power": "246.5E",
+      "Cost": "26.3M"
+    },
+    {
+      "Power": "259.5E",
+      "Cost": "26.4M"
+    },
+    {
+      "Power": "273.2E",
+      "Cost": "26.4M"
+    },
+    {
+      "Power": "287.6E",
+      "Cost": "26.4M"
+    },
+    {
+      "Power": "302.7E",
+      "Cost": "26.5M"
+    },
+    {
+      "Power": "318.6E",
+      "Cost": "26.5M"
+    },
+    {
+      "Power": "335.4E",
+      "Cost": "26.5M"
+    },
+    {
+      "Power": "353E",
+      "Cost": "26.6M"
+    },
+    {
+      "Power": "371.6E",
+      "Cost": "26.6M"
+    },
+    {
+      "Power": "391.2E",
+      "Cost": "26.6M"
+    },
+    {
+      "Power": "411.8E",
+      "Cost": "26.6M"
+    },
+    {
+      "Power": "433.5E",
+      "Cost": "26.7M"
+    },
+    {
+      "Power": "456.3E",
+      "Cost": "26.7M"
+    },
+    {
+      "Power": "480.3E",
+      "Cost": "26.7M"
+    },
+    {
+      "Power": "505.6E",
+      "Cost": "26.8M"
+    },
+    {
+      "Power": "532.2E",
+      "Cost": "26.8M"
+    },
+    {
+      "Power": "560.2E",
+      "Cost": "26.8M"
+    },
+    {
+      "Power": "589.7E",
+      "Cost": "26.9M"
+    },
+    {
+      "Power": "620.7E",
+      "Cost": "26.9M"
+    },
+    {
+      "Power": "653.4E",
+      "Cost": "26.9M"
+    },
+    {
+      "Power": "687.7E",
+      "Cost": "26.9M"
+    },
+    {
+      "Power": "723.9E",
+      "Cost": "27M"
+    },
+    {
+      "Power": "762E",
+      "Cost": "27M"
+    },
+    {
+      "Power": "802.2E",
+      "Cost": "27M"
+    },
+    {
+      "Power": "844.4E",
+      "Cost": "27.1M"
+    },
+    {
+      "Power": "888.8E",
+      "Cost": "27.1M"
+    },
+    {
+      "Power": "935.6E",
+      "Cost": "27.1M"
+    },
+    {
+      "Power": "984.8E",
+      "Cost": "27.2M"
+    },
+    {
+      "Power": "1Z",
+      "Cost": "27.2M"
+    },
+    {
+      "Power": "1.1Z",
+      "Cost": "27.2M"
+    },
+    {
+      "Power": "1.1Z",
+      "Cost": "27.2M"
+    },
+    {
+      "Power": "1.2Z",
+      "Cost": "27.3M"
+    },
+    {
+      "Power": "1.3Z",
+      "Cost": "27.3M"
+    },
+    {
+      "Power": "1.3Z",
+      "Cost": "27.3M"
+    },
+    {
+      "Power": "1.4Z",
+      "Cost": "27.4M"
+    },
+    {
+      "Power": "1.5Z",
+      "Cost": "27.4M"
+    },
+    {
+      "Power": "1.6Z",
+      "Cost": "27.4M"
+    },
+    {
+      "Power": "1.6Z",
+      "Cost": "27.5M"
+    },
+    {
+      "Power": "1.7Z",
+      "Cost": "27.5M"
+    },
+    {
+      "Power": "1.8Z",
+      "Cost": "27.5M"
+    },
+    {
+      "Power": "1.9Z",
+      "Cost": "27.5M"
+    },
+    {
+      "Power": "2Z",
+      "Cost": "27.6M"
+    },
+    {
+      "Power": "2.1Z",
+      "Cost": "27.6M"
+    },
+    {
+      "Power": "2.2Z",
+      "Cost": "27.6M"
+    },
+    {
+      "Power": "2.4Z",
+      "Cost": "27.7M"
+    },
+    {
+      "Power": "2.5Z",
+      "Cost": "27.7M"
+    },
+    {
+      "Power": "2.6Z",
+      "Cost": "27.7M"
+    },
+    {
+      "Power": "2.7Z",
+      "Cost": "27.8M"
+    },
+    {
+      "Power": "2.9Z",
+      "Cost": "27.8M"
+    },
+    {
+      "Power": "3Z",
+      "Cost": "27.8M"
+    },
+    {
+      "Power": "3.2Z",
+      "Cost": "27.9M"
+    },
+    {
+      "Power": "3.4Z",
+      "Cost": "27.9M"
+    },
+    {
+      "Power": "3.6Z",
+      "Cost": "27.9M"
+    },
+    {
+      "Power": "3.7Z",
+      "Cost": "27.9M"
+    },
+    {
+      "Power": "3.9Z",
+      "Cost": "28M"
+    },
+    {
+      "Power": "4.1Z",
+      "Cost": "28M"
+    },
+    {
+      "Power": "4.4Z",
+      "Cost": "28M"
+    },
+    {
+      "Power": "4.6Z",
+      "Cost": "28.1M"
+    },
+    {
+      "Power": "4.8Z",
+      "Cost": "28.1M"
+    },
+    {
+      "Power": "5.1Z",
+      "Cost": "28.1M"
+    },
+    {
+      "Power": "5.4Z",
+      "Cost": "28.2M"
+    },
+    {
+      "Power": "5.6Z",
+      "Cost": "28.2M"
+    },
+    {
+      "Power": "5.9Z",
+      "Cost": "28.2M"
+    },
+    {
+      "Power": "6.2Z",
+      "Cost": "28.2M"
+    },
+    {
+      "Power": "6.6Z",
+      "Cost": "28.3M"
+    },
+    {
+      "Power": "6.9Z",
+      "Cost": "28.3M"
+    },
+    {
+      "Power": "7.3Z",
+      "Cost": "28.3M"
+    },
+    {
+      "Power": "7.7Z",
+      "Cost": "28.4M"
+    },
+    {
+      "Power": "8.1Z",
+      "Cost": "28.4M"
+    },
+    {
+      "Power": "8.5Z",
+      "Cost": "28.4M"
+    },
+    {
+      "Power": "8.9Z",
+      "Cost": "28.5M"
+    },
+    {
+      "Power": "9.4Z",
+      "Cost": "28.5M"
+    },
+    {
+      "Power": "9.9Z",
+      "Cost": "28.5M"
+    },
+    {
+      "Power": "10.4Z",
+      "Cost": "28.5M"
+    },
+    {
+      "Power": "11Z",
+      "Cost": "28.6M"
+    },
+    {
+      "Power": "11.6Z",
+      "Cost": "28.6M"
+    },
+    {
+      "Power": "12.2Z",
+      "Cost": "28.6M"
+    },
+    {
+      "Power": "12.8Z",
+      "Cost": "28.7M"
+    },
+    {
+      "Power": "13.5Z",
+      "Cost": "28.7M"
+    },
+    {
+      "Power": "14.2Z",
+      "Cost": "28.7M"
+    },
+    {
+      "Power": "14.9Z",
+      "Cost": "28.8M"
+    },
+    {
+      "Power": "15.7Z",
+      "Cost": "28.8M"
+    },
+    {
+      "Power": "16.5Z",
+      "Cost": "28.8M"
+    },
+    {
+      "Power": "17.4Z",
+      "Cost": "28.8M"
+    },
+    {
+      "Power": "18.3Z",
+      "Cost": "28.9M"
+    },
+    {
+      "Power": "19.3Z",
+      "Cost": "28.9M"
+    },
+    {
+      "Power": "20.3Z",
+      "Cost": "28.9M"
+    },
+    {
+      "Power": "21.4Z",
+      "Cost": "29M"
+    },
+    {
+      "Power": "22.5Z",
+      "Cost": "29M"
+    },
+    {
+      "Power": "23.7Z",
+      "Cost": "29M"
+    },
+    {
+      "Power": "24.9Z",
+      "Cost": "29.1M"
+    },
+    {
+      "Power": "26.2Z",
+      "Cost": "29.1M"
+    },
+    {
+      "Power": "27.6Z",
+      "Cost": "29.1M"
+    },
+    {
+      "Power": "29.1Z",
+      "Cost": "29.2M"
+    },
+    {
+      "Power": "30.6Z",
+      "Cost": "29.2M"
+    },
+    {
+      "Power": "32.2Z",
+      "Cost": "29.2M"
+    },
+    {
+      "Power": "33.9Z",
+      "Cost": "29.2M"
+    },
+    {
+      "Power": "35.7Z",
+      "Cost": "29.3M"
+    },
+    {
+      "Power": "37.6Z",
+      "Cost": "29.3M"
+    },
+    {
+      "Power": "39.6Z",
+      "Cost": "29.3M"
+    },
+    {
+      "Power": "41.6Z",
+      "Cost": "29.4M"
+    },
+    {
+      "Power": "43.8Z",
+      "Cost": "29.4M"
+    },
+    {
+      "Power": "46.1Z",
+      "Cost": "29.4M"
+    },
+    {
+      "Power": "48.6Z",
+      "Cost": "29.5M"
+    },
+    {
+      "Power": "51.1Z",
+      "Cost": "29.5M"
+    },
+    {
+      "Power": "53.8Z",
+      "Cost": "29.5M"
+    },
+    {
+      "Power": "56.6Z",
+      "Cost": "29.5M"
+    },
+    {
+      "Power": "59.6Z",
+      "Cost": "29.6M"
+    },
+    {
+      "Power": "62.8Z",
+      "Cost": "29.6M"
+    },
+    {
+      "Power": "66.1Z",
+      "Cost": "29.6M"
+    },
+    {
+      "Power": "69.6Z",
+      "Cost": "29.7M"
+    },
+    {
+      "Power": "73.2Z",
+      "Cost": "29.7M"
+    },
+    {
+      "Power": "77.1Z",
+      "Cost": "29.7M"
+    },
+    {
+      "Power": "81.1Z",
+      "Cost": "29.8M"
+    },
+    {
+      "Power": "85.4Z",
+      "Cost": "29.8M"
+    },
+    {
+      "Power": "89.9Z",
+      "Cost": "29.8M"
+    },
+    {
+      "Power": "94.6Z",
+      "Cost": "29.8M"
+    },
+    {
+      "Power": "99.6Z",
+      "Cost": "29.9M"
+    },
+    {
+      "Power": "104.8Z",
+      "Cost": "29.9M"
+    },
+    {
+      "Power": "110.4Z",
+      "Cost": "29.9M"
+    },
+    {
+      "Power": "116.2Z",
+      "Cost": "30M"
+    },
+    {
+      "Power": "122.3Z",
+      "Cost": "30M"
+    },
+    {
+      "Power": "128.7Z",
+      "Cost": "30M"
+    },
+    {
+      "Power": "135.5Z",
+      "Cost": "30.1M"
+    },
+    {
+      "Power": "142.6Z",
+      "Cost": "30.1M"
+    },
+    {
+      "Power": "150.1Z",
+      "Cost": "30.1M"
+    },
+    {
+      "Power": "158Z",
+      "Cost": "30.1M"
+    },
+    {
+      "Power": "166.3Z",
+      "Cost": "30.2M"
+    },
+    {
+      "Power": "175.1Z",
+      "Cost": "30.2M"
+    }
+  ]

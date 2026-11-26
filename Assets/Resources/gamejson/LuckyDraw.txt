@@ -1,0 +1,50 @@
+[
+    {
+      "Type": 1,
+      "ItemId": 1,
+      "AddNum": 2.0,
+      "Rate": 18.0
+    },
+    {
+      "Type": 2,
+      "ItemId": 2,
+      "AddNum": 2.0,
+      "Rate": 18.0
+    },
+    {
+      "Type": 3,
+      "ItemId": 3,
+      "AddNum": 2.0,
+      "Rate": 18.0
+    },
+    {
+      "Type": 4,
+      "ItemId": 4,
+      "AddNum": 2.0,
+      "Rate": 4.0
+    },
+    {
+      "Type": 5,
+      "ItemId": 5,
+      "AddNum": 1.0,
+      "Rate": 3.0
+    },
+    {
+      "Type": 6,
+      "ItemId": 0,
+      "AddNum": 0.3,
+      "Rate": 24.0
+    },
+    {
+      "Type": 7,
+      "ItemId": 0,
+      "AddNum": 1.0,
+      "Rate": 12.0
+    },
+    {
+      "Type": 8,
+      "ItemId": 0,
+      "AddNum": 20.0,
+      "Rate": 3.0
+    }
+  ]

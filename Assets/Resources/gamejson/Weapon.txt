@@ -1,0 +1,82 @@
+[
+    {
+      "ID": "0",
+      "TitleName": [
+        "Range",
+        "Fire Power"
+      ],
+      "ImageName": "zhu2-01",
+      "UnLockLevel": 5,
+      "FireDistance": 3.0,
+      "FireDistanceOffset": 0,
+      "BulletSpeed": 10.0,
+      "LevelMax": [
+        32,
+        999
+      ]
+    },
+    {
+      "ID": "1",
+      "TitleName": [
+        "Rate",
+        "Fire Power"
+      ],
+      "ImageName": "zhu2-02",
+      "UnLockLevel": 20,
+      "FireDistance": 0.0,
+      "FireDistanceOffset": 1,
+      "BulletSpeed": 18.0,
+      "LevelMax": [
+        32,
+        999
+      ]
+    },
+    {
+      "ID": "2",
+      "TitleName": [
+        "Strength",
+        "Fire Power"
+      ],
+      "ImageName": "zhu2-03",
+      "UnLockLevel": 40,
+      "FireDistance": 0.5,
+      "FireDistanceOffset": 0,
+      "BulletSpeed": 1.0,
+      "LevelMax": [
+        32,
+        999
+      ]
+    },
+    {
+      "ID": "3",
+      "TitleName": [
+        "Strength",
+        "Fire Power"
+      ],
+      "ImageName": "zhu2-04",
+      "UnLockLevel": 60,
+      "FireDistance": 6.0,
+      "FireDistanceOffset": 1,
+      "BulletSpeed": 10.0,
+      "LevelMax": [
+        32,
+        999
+      ]
+    },
+    {
+      "ID": "4",
+      "TitleName": [
+        "Strength",
+        "Fire Power"
+      ],
+      "ImageName": "zhu2-05",
+      "UnLockLevel": 80,
+      "FireDistance": 3.0,
+      "FireDistanceOffset": 0,
+      "BulletSpeed": 2.7,
+      "LevelMax": [
+        32,
+        999
+      ]
+    }
+  ]

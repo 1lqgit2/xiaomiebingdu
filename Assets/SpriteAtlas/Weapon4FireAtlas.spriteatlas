@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Weapon4FireAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300008, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300024, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300012, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300006, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300020, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300032, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300018, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300004, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300014, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300016, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300010, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300022, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300000, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300034, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300028, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300030, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300036, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300002, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    - {fileID: 21300026, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+    totalSpriteSurfaceArea: 760495
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300018, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300026, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300034, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300008, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300016, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300002, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300022, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300012, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300030, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300036, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300020, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300032, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300004, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300014, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300000, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300010, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300028, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300024, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  - {fileID: 21300006, guid: b38b1f6700c2430dbb2d2808d77f0a0f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fupao5_fire_1
+  - fupao5_fire_3
+  - fupao5_fire_2
+  - fupao5_fire_5
+  - fupao5_fire_4
+  - fupao5_zidan_14
+  - fupao5_zidan_10
+  - fupao5_zidan_11
+  - fupao5_zidan_12
+  - fupao5_zidan_13
+  - fupao5_zidan_9
+  - fupao5_zidan_8
+  - fupao5_zidan_5
+  - fupao5_zidan_4
+  - fupao5_zidan_7
+  - fupao5_zidan_6
+  - fupao5_zidan_1
+  - fupao5_zidan_3
+  - fupao5_zidan_2
+  m_Tag: Weapon4FireAtlas
+  m_IsVariant: 0

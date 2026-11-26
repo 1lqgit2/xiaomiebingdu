@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 665dd45b893f4568966d7732c7d33d0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: deng_2_2
+  - first:
+      213: 21300002
+    second: deng_1_3
+  - first:
+      213: 21300004
+    second: deng_1_7
+  - first:
+      213: 21300006
+    second: deng_2_1
+  - first:
+      213: 21300008
+    second: deng_2_3
+  - first:
+      213: 21300010
+    second: deng_1_5
+  - first:
+      213: 21300012
+    second: deng_1_8
+  - first:
+      213: 21300014
+    second: deng_2_7
+  - first:
+      213: 21300016
+    second: deng_2_8
+  - first:
+      213: 21300018
+    second: deng_1_1
+  - first:
+      213: 21300020
+    second: deng_2_4
+  - first:
+      213: 21300022
+    second: deng_2_10
+  - first:
+      213: 21300024
+    second: deng_2_6
+  - first:
+      213: 21300026
+    second: deng_1_6
+  - first:
+      213: 21300028
+    second: deng_2_11
+  - first:
+      213: 21300030
+    second: deng_2_9
+  - first:
+      213: 21300032
+    second: deng_1_4
+  - first:
+      213: 21300034
+    second: deng_2_5
+  - first:
+      213: 21300036
+    second: deng_1_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deng_2_2
+      rect:
+        serializedVersion: 2
+        x: 116.0761
+        y: 66.07613
+        width: 69.84776
+        height: 13.92388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 23}
+        - {x: -35, y: 26}
+        - {x: -34, y: 21}
+      - - {x: -28, y: 35}
+        - {x: -34, y: 21}
+        - {x: -35, y: 26}
+      - - {x: -25, y: 21}
+        - {x: -34, y: 21}
+        - {x: -28, y: 35}
+      - - {x: -19, y: 35}
+        - {x: -25, y: 21}
+        - {x: -28, y: 35}
+      - - {x: -19, y: 31}
+        - {x: -25, y: 21}
+        - {x: -19, y: 35}
+      - - {x: 19, y: 31}
+        - {x: 19, y: 35}
+        - {x: 25, y: 21}
+      - - {x: 30, y: 35}
+        - {x: 25, y: 21}
+        - {x: 19, y: 35}
+      - - {x: 33, y: 21}
+        - {x: 25, y: 21}
+        - {x: 30, y: 35}
+      - - {x: 35, y: 25}
+        - {x: 33, y: 21}
+        - {x: 30, y: 35}
+      - - {x: 35, y: 22}
+        - {x: 33, y: 21}
+        - {x: 35, y: 25}
+      physicsShape:
+      - - {x: -28, y: 35}
+        - {x: -29, y: 32}
+        - {x: -29, y: 27}
+        - {x: -27, y: 26}
+        - {x: -22, y: 26}
+        - {x: -20, y: 31}
+        - {x: -20, y: 35}
+      - - {x: 20, y: 35}
+        - {x: 21, y: 30}
+        - {x: 24, y: 26}
+        - {x: 27, y: 26}
+        - {x: 29, y: 28}
+        - {x: 29, y: 31}
+        - {x: 27, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a78a735c75d4c6eab5c4e79f682158
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_1_3
+      rect:
+        serializedVersion: 2
+        x: 163.0267
+        y: 84.07612
+        width: 23.9465
+        height: 18.92388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 9}
+        - {x: -12, y: 22}
+        - {x: -11, y: 5}
+      - - {x: -7, y: 24}
+        - {x: -11, y: 5}
+        - {x: -12, y: 22}
+      - - {x: 11, y: 5}
+        - {x: -11, y: 5}
+        - {x: -7, y: 24}
+      - - {x: 9, y: 24}
+        - {x: 11, y: 5}
+        - {x: -7, y: 24}
+      - - {x: 12, y: 20}
+        - {x: 11, y: 5}
+        - {x: 9, y: 24}
+      - - {x: 12, y: 6}
+        - {x: 11, y: 5}
+        - {x: 12, y: 20}
+      physicsShape:
+      - - {x: -11, y: 21}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2ba6165f4c447594368bc374b6908
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_1_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 25
+        width: 34
+        height: 18.92388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -24}
+        - {x: 6, y: -5}
+        - {x: 17, y: -24}
+      - - {x: 17, y: -5}
+        - {x: 17, y: -24}
+        - {x: 6, y: -5}
+      - - {x: -17, y: -24}
+        - {x: -17, y: -5}
+        - {x: -6, y: -24}
+      - - {x: -7, y: -5}
+        - {x: -6, y: -24}
+        - {x: -17, y: -5}
+      - - {x: -6, y: -7}
+        - {x: -6, y: -24}
+        - {x: -7, y: -5}
+      physicsShape:
+      - - {x: -17, y: -10}
+        - {x: -17, y: -21}
+        - {x: -13, y: -21}
+        - {x: -11, y: -20}
+        - {x: -11, y: -15}
+        - {x: -13, y: -10}
+      - - {x: 12, y: -12}
+        - {x: 11, y: -19}
+        - {x: 13, y: -21}
+        - {x: 17, y: -21}
+        - {x: 17, y: -10}
+        - {x: 14, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d5d6a675a544e86bd4eb1d06baf462
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -30}
+        - {x: -42, y: 16}
+        - {x: -40, y: -35}
+      - - {x: -40, y: 21}
+        - {x: -40, y: -35}
+        - {x: -42, y: 16}
+      - - {x: -28, y: -35}
+        - {x: -40, y: -35}
+        - {x: -40, y: 21}
+      - - {x: -28, y: 35}
+        - {x: -28, y: -35}
+        - {x: -40, y: 21}
+      - - {x: -19, y: 27}
+        - {x: -28, y: -35}
+        - {x: -28, y: 35}
+      - - {x: -19, y: 35}
+        - {x: -19, y: 27}
+        - {x: -28, y: 35}
+      - - {x: 19, y: 12}
+        - {x: 19, y: 35}
+        - {x: 28, y: -35}
+      - - {x: 37, y: 35}
+        - {x: 28, y: -35}
+        - {x: 19, y: 35}
+      - - {x: 40, y: -35}
+        - {x: 28, y: -35}
+        - {x: 37, y: 35}
+      - - {x: 42, y: 21}
+        - {x: 40, y: -35}
+        - {x: 37, y: 35}
+      - - {x: 42, y: -33}
+        - {x: 40, y: -35}
+        - {x: 42, y: 21}
+      physicsShape:
+      - - {x: -27, y: 35}
+        - {x: -42, y: 22}
+        - {x: -42, y: -29}
+        - {x: -37, y: -35}
+        - {x: -28, y: -35}
+        - {x: -30, y: 15}
+        - {x: -20, y: 28}
+        - {x: -20, y: 35}
+      - - {x: 27, y: 35}
+        - {x: 20, y: 35}
+        - {x: 20, y: 31}
+        - {x: 21, y: 27}
+        - {x: 30, y: 15}
+        - {x: 28, y: -25}
+        - {x: 29, y: -35}
+        - {x: 37, y: -35}
+        - {x: 38, y: -34}
+        - {x: 42, y: -21}
+        - {x: 42, y: 1}
+        - {x: 40, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d26d19a22b4d4d2a874c358e5085024
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_3
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 99.07613
+        width: 79.84776
+        height: 20.84776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 28}
+        - {x: 20, y: 35}
+        - {x: 23, y: 20}
+      - - {x: 28, y: 35}
+        - {x: 23, y: 20}
+        - {x: 20, y: 35}
+      - - {x: 30, y: 14}
+        - {x: 23, y: 20}
+        - {x: 28, y: 35}
+      - - {x: 40, y: 23}
+        - {x: 30, y: 14}
+        - {x: 28, y: 35}
+      - - {x: 37, y: 14}
+        - {x: 30, y: 14}
+        - {x: 40, y: 23}
+      - - {x: 40, y: 15}
+        - {x: 37, y: 14}
+        - {x: 40, y: 23}
+      - - {x: -40, y: 17}
+        - {x: -40, y: 21}
+        - {x: -37, y: 14}
+      - - {x: -29, y: 33}
+        - {x: -37, y: 14}
+        - {x: -40, y: 21}
+      - - {x: -33, y: 14}
+        - {x: -37, y: 14}
+        - {x: -29, y: 33}
+      - - {x: -23, y: 22}
+        - {x: -33, y: 14}
+        - {x: -29, y: 33}
+      - - {x: -26, y: 35}
+        - {x: -23, y: 22}
+        - {x: -29, y: 33}
+      - - {x: -21, y: 35}
+        - {x: -23, y: 22}
+        - {x: -26, y: 35}
+      - - {x: -20, y: 28}
+        - {x: -23, y: 22}
+        - {x: -21, y: 35}
+      - - {x: -20, y: 33}
+        - {x: -20, y: 28}
+        - {x: -21, y: 35}
+      physicsShape:
+      - - {x: -29, y: 30}
+        - {x: -37, y: 23}
+        - {x: -37, y: 19}
+        - {x: -29, y: 19}
+        - {x: -23, y: 20}
+        - {x: -23, y: 29}
+        - {x: -25, y: 30}
+      - - {x: 24, y: 30}
+        - {x: 23, y: 28}
+        - {x: 23, y: 23}
+        - {x: 29, y: 19}
+        - {x: 36, y: 19}
+        - {x: 37, y: 21}
+        - {x: 37, y: 24}
+        - {x: 29, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b91a24f4a1b4620af68629b6301fdc
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_1_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0.02675056
+        width: 34
+        height: 20.89713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -11}
+        - {x: -17, y: 2}
+        - {x: 17, y: -11}
+      - - {x: -13, y: 10}
+        - {x: 17, y: -11}
+        - {x: -17, y: 2}
+      - - {x: 13, y: 10}
+        - {x: 17, y: -11}
+        - {x: -13, y: 10}
+      - - {x: 16, y: 9}
+        - {x: 17, y: -11}
+        - {x: 13, y: 10}
+      - - {x: 17, y: 2}
+        - {x: 17, y: -11}
+        - {x: 16, y: 9}
+      physicsShape:
+      - - {x: -10, y: 5}
+        - {x: -12, y: 0}
+        - {x: -12, y: -5}
+        - {x: -11, y: -6}
+        - {x: 11, y: -6}
+        - {x: 12, y: -3}
+        - {x: 11, y: 3}
+        - {x: 9, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96fa9e00559b47579efaf5d40a5d291
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_1_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 34
+        height: 10.92388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -24}
+        - {x: 6, y: -21}
+        - {x: 15, y: -24}
+      - - {x: 13, y: -13}
+        - {x: 15, y: -24}
+        - {x: 6, y: -21}
+      - - {x: 17, y: -13}
+        - {x: 15, y: -24}
+        - {x: 13, y: -13}
+      - - {x: 17, y: -22}
+        - {x: 15, y: -24}
+        - {x: 17, y: -13}
+      - - {x: -17, y: -22}
+        - {x: -17, y: -13}
+        - {x: -15, y: -24}
+      - - {x: -14, y: -13}
+        - {x: -15, y: -24}
+        - {x: -17, y: -13}
+      - - {x: -6, y: -24}
+        - {x: -15, y: -24}
+        - {x: -14, y: -13}
+      - - {x: -9, y: -14}
+        - {x: -6, y: -24}
+        - {x: -14, y: -13}
+      - - {x: -6, y: -21}
+        - {x: -6, y: -24}
+        - {x: -9, y: -14}
+      physicsShape:
+      - - {x: -16, y: -18}
+        - {x: -17, y: -20}
+        - {x: -17, y: -22}
+        - {x: -15, y: -24}
+        - {x: -7, y: -24}
+        - {x: -7, y: -22}
+        - {x: -11, y: -18}
+      - - {x: 7, y: -22}
+        - {x: 7, y: -24}
+        - {x: 14, y: -24}
+        - {x: 17, y: -21}
+        - {x: 16, y: -18}
+        - {x: 11, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e60bed00dadd4440b6b00de2c150473
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25.07612
+        width: 84
+        height: 20.84776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -11}
+        - {x: 31, y: 6}
+        - {x: 37, y: -15}
+      - - {x: 42, y: 6}
+        - {x: 37, y: -15}
+        - {x: 31, y: 6}
+      - - {x: 42, y: -15}
+        - {x: 37, y: -15}
+        - {x: 42, y: 6}
+      - - {x: -42, y: -15}
+        - {x: -42, y: 6}
+        - {x: -37, y: -15}
+      - - {x: -31, y: 6}
+        - {x: -37, y: -15}
+        - {x: -42, y: 6}
+      - - {x: -31, y: -11}
+        - {x: -37, y: -15}
+        - {x: -31, y: 6}
+      physicsShape:
+      - - {x: -34, y: 1}
+        - {x: -38, y: 1}
+        - {x: -39, y: -2}
+        - {x: -39, y: -8}
+        - {x: -37, y: -10}
+        - {x: -34, y: -10}
+        - {x: -32, y: -8}
+        - {x: -32, y: 0}
+      - - {x: 36, y: 1}
+        - {x: 33, y: 1}
+        - {x: 32, y: -1}
+        - {x: 32, y: -8}
+        - {x: 34, y: -10}
+        - {x: 37, y: -10}
+        - {x: 39, y: -8}
+        - {x: 39, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5698f9a5d364416db2ea9cd6bd7bb24
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0.07612038
+        width: 84
+        height: 20.84776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -21}
+        - {x: -42, y: -1}
+        - {x: -39, y: -22}
+      - - {x: -32, y: -1}
+        - {x: -39, y: -22}
+        - {x: -42, y: -1}
+      - - {x: -32, y: -22}
+        - {x: -39, y: -22}
+        - {x: -32, y: -1}
+      - - {x: 32, y: -16}
+        - {x: 32, y: -1}
+        - {x: 33, y: -21}
+      - - {x: 41, y: -1}
+        - {x: 33, y: -21}
+        - {x: 32, y: -1}
+      - - {x: 35, y: -22}
+        - {x: 33, y: -21}
+        - {x: 41, y: -1}
+      - - {x: 42, y: -22}
+        - {x: 35, y: -22}
+        - {x: 41, y: -1}
+      - - {x: 42, y: -4}
+        - {x: 42, y: -22}
+        - {x: 41, y: -1}
+      physicsShape:
+      - - {x: -33, y: -6}
+        - {x: -38, y: -6}
+        - {x: -42, y: -9}
+        - {x: -42, y: -16}
+        - {x: -41, y: -17}
+        - {x: -38, y: -17}
+        - {x: -32, y: -11}
+        - {x: -32, y: -8}
+      - - {x: 33, y: -6}
+        - {x: 32, y: -9}
+        - {x: 35, y: -16}
+        - {x: 37, y: -17}
+        - {x: 42, y: -17}
+        - {x: 42, y: -8}
+        - {x: 39, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575ebc1732d8c422082bf10b3d33c88d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_1_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 14
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -22}
+        - {x: -17, y: -3}
+        - {x: -15, y: -24}
+      - - {x: -12, y: 18}
+        - {x: -15, y: -24}
+        - {x: -17, y: -3}
+      - - {x: 15, y: -24}
+        - {x: -15, y: -24}
+        - {x: -12, y: 18}
+      - - {x: -9, y: 24}
+        - {x: 15, y: -24}
+        - {x: -12, y: 18}
+      - - {x: 9, y: 24}
+        - {x: 15, y: -24}
+        - {x: -9, y: 24}
+      - - {x: 17, y: 21}
+        - {x: 15, y: -24}
+        - {x: 9, y: 24}
+      - - {x: 17, y: -22}
+        - {x: 15, y: -24}
+        - {x: 17, y: 21}
+      physicsShape:
+      - - {x: 17, y: 21}
+        - {x: 11, y: 24}
+        - {x: -6, y: 24}
+        - {x: -15, y: 21}
+        - {x: -17, y: 16}
+        - {x: -17, y: -24}
+        - {x: 17, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe11ab9cc72e4d348dc4f541ec306bc
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_4
+      rect:
+        serializedVersion: 2
+        x: 37.07612
+        y: 86.07613
+        width: 83.84776
+        height: 20.84776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 7}
+        - {x: -42, y: 18}
+        - {x: -33, y: 7}
+      - - {x: -37, y: 28}
+        - {x: -33, y: 7}
+        - {x: -42, y: 18}
+      - - {x: -23, y: 28}
+        - {x: -33, y: 7}
+        - {x: -37, y: 28}
+      - - {x: -29, y: 8}
+        - {x: -33, y: 7}
+        - {x: -23, y: 28}
+      - - {x: -23, y: 23}
+        - {x: -29, y: 8}
+        - {x: -23, y: 28}
+      - - {x: 23, y: 24}
+        - {x: 23, y: 26}
+        - {x: 31, y: 9}
+      - - {x: 25, y: 28}
+        - {x: 31, y: 9}
+        - {x: 23, y: 26}
+      - - {x: 32, y: 28}
+        - {x: 31, y: 9}
+        - {x: 25, y: 28}
+      - - {x: 33, y: 7}
+        - {x: 31, y: 9}
+        - {x: 32, y: 28}
+      - - {x: 40, y: 22}
+        - {x: 33, y: 7}
+        - {x: 32, y: 28}
+      - - {x: 39, y: 7}
+        - {x: 33, y: 7}
+        - {x: 40, y: 22}
+      - - {x: 42, y: 10}
+        - {x: 39, y: 7}
+        - {x: 40, y: 22}
+      - - {x: 42, y: 11}
+        - {x: 42, y: 10}
+        - {x: 40, y: 22}
+      physicsShape:
+      - - {x: -38, y: 23}
+        - {x: -39, y: 20}
+        - {x: -39, y: 13}
+        - {x: -37, y: 12}
+        - {x: -32, y: 12}
+        - {x: -28, y: 18}
+        - {x: -28, y: 23}
+      - - {x: 28, y: 23}
+        - {x: 28, y: 16}
+        - {x: 29, y: 13}
+        - {x: 32, y: 12}
+        - {x: 39, y: 12}
+        - {x: 39, y: 22}
+        - {x: 38, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d468990ee02c48bdb732eed72f5b364
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_10
+      rect:
+        serializedVersion: 2
+        x: 38.04291
+        y: 0
+        width: 83.91418
+        height: 19.92388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -25}
+        - {x: -42, y: -15}
+        - {x: -36, y: -35}
+      - - {x: -36, y: -15}
+        - {x: -36, y: -35}
+        - {x: -42, y: -15}
+      - - {x: -30, y: -35}
+        - {x: -36, y: -35}
+        - {x: -36, y: -15}
+      - - {x: -31, y: -17}
+        - {x: -30, y: -35}
+        - {x: -36, y: -15}
+      - - {x: -30, y: -24}
+        - {x: -30, y: -35}
+        - {x: -31, y: -17}
+      - - {x: 30, y: -35}
+        - {x: 30, y: -26}
+        - {x: 37, y: -35}
+      - - {x: 31, y: -21}
+        - {x: 37, y: -35}
+        - {x: 30, y: -26}
+      - - {x: 35, y: -15}
+        - {x: 37, y: -35}
+        - {x: 31, y: -21}
+      - - {x: 42, y: -15}
+        - {x: 37, y: -35}
+        - {x: 35, y: -15}
+      - - {x: 40, y: -30}
+        - {x: 37, y: -35}
+        - {x: 42, y: -15}
+      - - {x: 42, y: -25}
+        - {x: 40, y: -30}
+        - {x: 42, y: -15}
+      physicsShape:
+      - - {x: -38, y: -20}
+        - {x: -40, y: -21}
+        - {x: -40, y: -25}
+        - {x: -38, y: -31}
+        - {x: -32, y: -31}
+        - {x: -32, y: -23}
+        - {x: -34, y: -20}
+      - - {x: 34, y: -20}
+        - {x: 32, y: -23}
+        - {x: 32, y: -30}
+        - {x: 34, y: -31}
+        - {x: 38, y: -31}
+        - {x: 40, y: -28}
+        - {x: 40, y: -22}
+        - {x: 39, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d911eec0deee54103b153c17f17a3709
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_6
+      rect:
+        serializedVersion: 2
+        x: 28.07612
+        y: 50.07612
+        width: 83.84776
+        height: 20.88097
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -4}
+        - {x: 31, y: 14}
+        - {x: 34, y: -7}
+      - - {x: 38, y: 14}
+        - {x: 34, y: -7}
+        - {x: 31, y: 14}
+      - - {x: 39, y: -7}
+        - {x: 34, y: -7}
+        - {x: 38, y: 14}
+      - - {x: 42, y: 13}
+        - {x: 39, y: -7}
+        - {x: 38, y: 14}
+      - - {x: 42, y: -1}
+        - {x: 39, y: -7}
+        - {x: 42, y: 13}
+      - - {x: -42, y: -1}
+        - {x: -42, y: 14}
+        - {x: -41, y: -7}
+      - - {x: -33, y: 14}
+        - {x: -41, y: -7}
+        - {x: -42, y: 14}
+      - - {x: -34, y: -7}
+        - {x: -41, y: -7}
+        - {x: -33, y: 14}
+      - - {x: -31, y: -4}
+        - {x: -34, y: -7}
+        - {x: -33, y: 14}
+      - - {x: -31, y: 13}
+        - {x: -31, y: -4}
+        - {x: -33, y: 14}
+      physicsShape:
+      - - {x: -41, y: 2}
+        - {x: -39, y: -2}
+        - {x: -34, y: -2}
+        - {x: -32, y: -1}
+        - {x: -32, y: 9}
+        - {x: -41, y: 9}
+      - - {x: 32, y: 9}
+        - {x: 32, y: -1}
+        - {x: 34, y: -2}
+        - {x: 39, y: -2}
+        - {x: 41, y: 2}
+        - {x: 41, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516737cc39ba74b1e8fd56c2cf000f11
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_1_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 84.07612
+        width: 34
+        height: 20.84776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -19}
+        - {x: -17, y: -6}
+        - {x: 17, y: -19}
+      - - {x: -8, y: 2}
+        - {x: 17, y: -19}
+        - {x: -17, y: -6}
+      - - {x: 9, y: 2}
+        - {x: 17, y: -19}
+        - {x: -8, y: 2}
+      - - {x: 17, y: -5}
+        - {x: 17, y: -19}
+        - {x: 9, y: 2}
+      physicsShape:
+      - - {x: -12, y: -3}
+        - {x: -17, y: -7}
+        - {x: -17, y: -14}
+        - {x: -13, y: -14}
+        - {x: -5, y: -7}
+        - {x: -5, y: -5}
+        - {x: -6, y: -3}
+      - - {x: 6, y: -3}
+        - {x: 5, y: -5}
+        - {x: 5, y: -7}
+        - {x: 13, y: -14}
+        - {x: 17, y: -14}
+        - {x: 17, y: -6}
+        - {x: 13, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf677bc03b9b4de5966b69e9d771462
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_11
+      rect:
+        serializedVersion: 2
+        x: 158.0761
+        y: 0
+        width: 79.89713
+        height: 12.92388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -30}
+        - {x: -40, y: -24}
+        - {x: -38, y: -33}
+      - - {x: -39, y: -22}
+        - {x: -38, y: -33}
+        - {x: -40, y: -24}
+      - - {x: -33, y: -22}
+        - {x: -38, y: -33}
+        - {x: -39, y: -22}
+      - - {x: -36, y: -35}
+        - {x: -38, y: -33}
+        - {x: -33, y: -22}
+      - - {x: -29, y: -35}
+        - {x: -36, y: -35}
+        - {x: -33, y: -22}
+      - - {x: -29, y: -30}
+        - {x: -29, y: -35}
+        - {x: -33, y: -22}
+      - - {x: 29, y: -35}
+        - {x: 29, y: -28}
+        - {x: 37, y: -35}
+      - - {x: 33, y: -22}
+        - {x: 37, y: -35}
+        - {x: 29, y: -28}
+      - - {x: 40, y: -22}
+        - {x: 37, y: -35}
+        - {x: 33, y: -22}
+      - - {x: 40, y: -30}
+        - {x: 37, y: -35}
+        - {x: 40, y: -22}
+      physicsShape:
+      - - {x: -36, y: -27}
+        - {x: -38, y: -28}
+        - {x: -38, y: -31}
+        - {x: -36, y: -35}
+        - {x: -30, y: -35}
+        - {x: -30, y: -29}
+        - {x: -33, y: -27}
+      - - {x: 31, y: -28}
+        - {x: 30, y: -31}
+        - {x: 30, y: -35}
+        - {x: 37, y: -35}
+        - {x: 38, y: -34}
+        - {x: 38, y: -29}
+        - {x: 36, y: -27}
+        - {x: 33, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b8c1531d6a04f53bb378340e22e0e5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74.07612
+        width: 84
+        height: 20.84776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -28}
+        - {x: -42, y: -8}
+        - {x: -39, y: -29}
+      - - {x: -34, y: -8}
+        - {x: -39, y: -29}
+        - {x: -42, y: -8}
+      - - {x: -32, y: -29}
+        - {x: -39, y: -29}
+        - {x: -34, y: -8}
+      - - {x: -33, y: -10}
+        - {x: -32, y: -29}
+        - {x: -34, y: -8}
+      - - {x: -32, y: -22}
+        - {x: -32, y: -29}
+        - {x: -33, y: -10}
+      - - {x: 32, y: -29}
+        - {x: 32, y: -8}
+        - {x: 38, y: -29}
+      - - {x: 42, y: -8}
+        - {x: 38, y: -29}
+        - {x: 32, y: -8}
+      - - {x: 42, y: -28}
+        - {x: 38, y: -29}
+        - {x: 42, y: -8}
+      physicsShape:
+      - - {x: -42, y: -15}
+        - {x: -41, y: -21}
+        - {x: -40, y: -24}
+        - {x: -36, y: -24}
+        - {x: -34, y: -23}
+        - {x: -34, y: -18}
+        - {x: -36, y: -13}
+        - {x: -40, y: -13}
+      - - {x: 36, y: -13}
+        - {x: 34, y: -16}
+        - {x: 34, y: -24}
+        - {x: 40, y: -24}
+        - {x: 42, y: -18}
+        - {x: 42, y: -14}
+        - {x: 40, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e2630f1ef0a450ab34150e8422ef54
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_1_4
+      rect:
+        serializedVersion: 2
+        x: 197.0761
+        y: 25.04291
+        width: 23.84776
+        height: 20.88097
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -2}
+        - {x: -12, y: 18}
+        - {x: -9, y: -3}
+      - - {x: 12, y: 18}
+        - {x: -9, y: -3}
+        - {x: -12, y: 18}
+      - - {x: 12, y: -3}
+        - {x: -9, y: -3}
+        - {x: 12, y: 18}
+      physicsShape:
+      - - {x: -6, y: 13}
+        - {x: -11, y: 11}
+        - {x: -11, y: 4}
+        - {x: -10, y: 2}
+        - {x: 11, y: 2}
+        - {x: 11, y: 10}
+        - {x: 9, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a326e8c25c4f2c9a6eb2577ff2e89
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_2_5
+      rect:
+        serializedVersion: 2
+        x: 17.04291
+        y: 75.07613
+        width: 83.93034
+        height: 20.84776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 2}
+        - {x: -42, y: 11}
+        - {x: -39, y: 0}
+      - - {x: -41, y: 19}
+        - {x: -39, y: 0}
+        - {x: -42, y: 11}
+      - - {x: -37, y: 21}
+        - {x: -39, y: 0}
+        - {x: -41, y: 19}
+      - - {x: -31, y: 0}
+        - {x: -39, y: 0}
+        - {x: -37, y: 21}
+      - - {x: -31, y: 21}
+        - {x: -31, y: 0}
+        - {x: -37, y: 21}
+      - - {x: -29, y: 8}
+        - {x: -31, y: 0}
+        - {x: -31, y: 21}
+      - - {x: -29, y: 20}
+        - {x: -29, y: 8}
+        - {x: -31, y: 21}
+      - - {x: 29, y: 9}
+        - {x: 29, y: 21}
+        - {x: 32, y: 0}
+      - - {x: 37, y: 21}
+        - {x: 32, y: 0}
+        - {x: 29, y: 21}
+      - - {x: 40, y: 0}
+        - {x: 32, y: 0}
+        - {x: 37, y: 21}
+      - - {x: 42, y: 20}
+        - {x: 40, y: 0}
+        - {x: 37, y: 21}
+      - - {x: 42, y: 2}
+        - {x: 40, y: 0}
+        - {x: 42, y: 20}
+      physicsShape:
+      - - {x: -38, y: 16}
+        - {x: -41, y: 14}
+        - {x: -41, y: 7}
+        - {x: -40, y: 5}
+        - {x: -34, y: 5}
+        - {x: -32, y: 7}
+        - {x: -32, y: 14}
+        - {x: -34, y: 16}
+      - - {x: 32, y: 5}
+        - {x: 41, y: 5}
+        - {x: 41, y: 11}
+        - {x: 38, y: 16}
+        - {x: 32, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9c7ccb2d8749ceb4dd704cc5e7222
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deng_1_2
+      rect:
+        serializedVersion: 2
+        x: 190.0761
+        y: 63.04291
+        width: 23.84776
+        height: 11.95709
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -12, y: 20}
+        - {x: -11, y: 12}
+      - - {x: -6, y: 24}
+        - {x: -11, y: 12}
+        - {x: -12, y: 20}
+      - - {x: 11, y: 12}
+        - {x: -11, y: 12}
+        - {x: -6, y: 24}
+      - - {x: 7, y: 24}
+        - {x: 11, y: 12}
+        - {x: -6, y: 24}
+      - - {x: 12, y: 20}
+        - {x: 11, y: 12}
+        - {x: 7, y: 24}
+      - - {x: 12, y: 14}
+        - {x: 11, y: 12}
+        - {x: 12, y: 20}
+      physicsShape:
+      - - {x: -7, y: 24}
+        - {x: -8, y: 20}
+        - {x: -8, y: 18}
+        - {x: -6, y: 17}
+        - {x: 6, y: 17}
+        - {x: 8, y: 19}
+        - {x: 8, y: 23}
+        - {x: 6, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ca234ad1d044a0dac6e42fd44481ae
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      deng_1_1: 21300018
+      deng_1_2: 21300036
+      deng_1_3: 21300002
+      deng_1_4: 21300032
+      deng_1_5: 21300010
+      deng_1_6: 21300026
+      deng_1_7: 21300004
+      deng_1_8: 21300012
+      deng_2_1: 21300006
+      deng_2_10: 21300022
+      deng_2_11: 21300028
+      deng_2_2: 21300000
+      deng_2_3: 21300008
+      deng_2_4: 21300020
+      deng_2_5: 21300034
+      deng_2_6: 21300024
+      deng_2_7: 21300014
+      deng_2_8: 21300016
+      deng_2_9: 21300030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

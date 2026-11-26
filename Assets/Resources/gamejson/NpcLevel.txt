@@ -1,0 +1,242 @@
+[
+    {
+      "ID": 1,
+      "Level": 1,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 116
+    },
+    {
+      "ID": 2,
+      "Level": 1,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 117
+    },
+    {
+      "ID": 3,
+      "Level": 5,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 118
+    },
+    {
+      "ID": 4,
+      "Level": 5,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 119
+    },
+    {
+      "ID": 5,
+      "Level": 10,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 120
+    },
+    {
+      "ID": 6,
+      "Level": 10,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 121
+    },
+    {
+      "ID": 7,
+      "Level": 20,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 122
+    },
+    {
+      "ID": 8,
+      "Level": 20,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 123
+    },
+    {
+      "ID": 9,
+      "Level": 40,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 124
+    },
+    {
+      "ID": 10,
+      "Level": 40,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 125
+    },
+    {
+      "ID": 11,
+      "Level": 60,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 126
+    },
+    {
+      "ID": 12,
+      "Level": 60,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 127
+    },
+    {
+      "ID": 13,
+      "Level": 80,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 128
+    },
+    {
+      "ID": 14,
+      "Level": 80,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 129
+    },
+    {
+      "ID": 15,
+      "Level": 100,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 130
+    },
+    {
+      "ID": 16,
+      "Level": 100,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 131
+    },
+    {
+      "ID": 17,
+      "Level": 120,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 132
+    },
+    {
+      "ID": 18,
+      "Level": 120,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 133
+    },
+    {
+      "ID": 19,
+      "Level": 140,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 134
+    },
+    {
+      "ID": 20,
+      "Level": 140,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 135
+    },
+    {
+      "ID": 21,
+      "Level": 160,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 136
+    },
+    {
+      "ID": 22,
+      "Level": 160,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 137
+    },
+    {
+      "ID": 23,
+      "Level": 180,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 138
+    },
+    {
+      "ID": 24,
+      "Level": 180,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 139
+    },
+    {
+      "ID": 25,
+      "Level": 200,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 140
+    },
+    {
+      "ID": 26,
+      "Level": 200,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 141
+    },
+    {
+      "ID": 27,
+      "Level": 200,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 140
+    },
+    {
+      "ID": 28,
+      "Level": 200,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 141
+    },
+    {
+      "ID": 29,
+      "Level": 200,
+      "NpcID": 0,
+      "LocationType": 0,
+      "Repeat": 0,
+      "LanguageID": 160
+    },
+    {
+      "ID": 30,
+      "Level": 200,
+      "NpcID": 0,
+      "LocationType": 1,
+      "Repeat": 0,
+      "LanguageID": 161
+    }
+  ]
