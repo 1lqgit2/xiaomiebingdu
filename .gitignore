@@ -43,6 +43,9 @@ crashlytics-build.properties
 project.config.json
 game.json
 
+# ===== 插件运行时日志（非源码）=====
+/Assets/OPS/Obfuscator/Log/
+
 # ===== 系统文件 =====
 .DS_Store
 Thumbs.db
